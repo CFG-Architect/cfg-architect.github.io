@@ -7,3 +7,4 @@ defaultContentLanguage = 'en'
   BookSearch = true
   BookMenuBundle = '/menu'
   BookComments = false
+
