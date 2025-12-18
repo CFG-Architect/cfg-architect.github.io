@@ -1,16 +1,16 @@
-baseURL = 'configism.com'
+baseURL = 'https://configism.com/'
 title = 'CONFIGISM'
 theme = 'hugo-book'
 defaultContentLanguage = 'en'
 
+# Важливо для теми Book
 [params]
-  # Activates search and tree menu
   BookSearch = true
   BookMenuBundle = '/menu'
-  BookSectionEnumerable = true # Chapter numbering (1.1, 1.2...)
+  BookSectionEnumerable = true
 
 [menu]
-  # These are the main links in the side menu
+  # Це посилання, які СТВОРЮЮТЬ меню зліва
   [[main]]
     name = "Manifest"
     url = "/docs/manifest/"
