@@ -1,13 +1,13 @@
 <div class="flex align-center justify-between">
-  <label for="menu-control">
+  <!-- Тільки іконка меню ліворуч -->
+  <label for="menu-control" class="flex align-center" style="cursor: pointer;">
     <img src="{{ "svg/menu.svg" | relURL }}" class="book-icon" alt="Menu" />
   </label>
 
-  <!-- Повертаємо логотип замість тексту заголовка -->
-  <a href="/" class="flex align-center" style="text-decoration: none;">
-    <img src="/logo.png" alt="Configism" style="height: 32px; width: auto;" />
-  </a>
+  <!-- Центр порожній, щоб не заважати H1, який йде нижче -->
+  <div class="flex-auto"></div>
 
+  <!-- Кнопка змісту (ToC) праворуч, якщо вона активована в налаштуваннях сторінки -->
   <label for="toc-control">
     {{ if .Params.BookToC }}
     <img src="{{ "svg/toc.svg" | relURL }}" class="book-icon" alt="Table of Contents" />
