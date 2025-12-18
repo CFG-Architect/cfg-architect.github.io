@@ -17,8 +17,19 @@ https://github.com/alex-shpak/hugo-book
 {{ partial "opengraph.html" . }}
 {{ partial "schema.html" . }}
 
-<title>{{ partial "docs/html-head-title" . }}</title>
+{{- if .IsHome -}}
+  {{ .Site.Title }}
+{{- else -}}
+  {{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}
+{{- end -}}
+
+<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}{{ end }}">
+
 {{ partial "docs/html-head-favicon" . }}
+
+{{ template "_internal/opengraph.html" . }}
+{{ partial "docs/html-head-links" . }}
+{{ partial "docs/html-head-resources" . }}
 
 {{- $manifest := resources.Get "manifest.json" | resources.ExecuteAsTemplate "manifest.json" . }}
 <link rel="manifest" href="{{ $manifest.RelPermalink }}">
