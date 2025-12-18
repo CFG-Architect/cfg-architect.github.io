@@ -1,14 +1,5 @@
-<div class="flex align-center justify-between">
-  <label for="menu-control" class="custom-menu-label">
-    <img src="{{ "svg/menu.svg" | relURL }}" class="book-icon" alt="Menu" />
-  </label>
-  <div class="flex-auto"></div>
-</div>
-
-  <!-- Кнопка змісту (ToC) праворуч, якщо вона активована в налаштуваннях сторінки -->
-  <label for="toc-control">
-    {{ if .Params.BookToC }}
-    <img src="{{ "svg/toc.svg" | relURL }}" class="book-icon" alt="Table of Contents" />
-    {{ end }}
+<div class="flex align-center justify-between" style="padding: 0.5rem 0;">
+  <label for="menu-control" style="display: flex; align-items: center; line-height: 0;">
+    <img src="{{ "svg/menu.svg" | relURL }}" class="book-icon" alt="Menu" style="margin: 0;" />
   </label>
 </div>
