@@ -1,0 +1,13 @@
+<div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="{{ "svg/menu.svg" | relURL }}" class="book-icon" alt="Menu" />
+  </label>
+
+  <!-- Тут був заголовок, ми його видалили, щоб не було дубля -->
+
+  <label for="toc-control">
+    {{ if .Params.BookToC }}
+    <img src="{{ "svg/toc.svg" | relURL }}" class="book-icon" alt="Table of Contents" />
+    {{ end }}
+  </label>
+</div>
