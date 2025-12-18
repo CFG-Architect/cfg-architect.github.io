@@ -8,6 +8,7 @@ defaultContentLanguage = 'en'
   BookSearch = true
   BookMenuBundle = '/menu'
   BookSectionEnumerable = true
+  BookAnchorCopy = false
 
 [menu]
   [[main]]
