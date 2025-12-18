@@ -1,1 +1,16 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Твій автономний тайтл та дескрипшн -->
+<title>{{ .Title }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+
+<!-- Фавікон -->
 <link rel="icon" href="/favicon.png" type="image/x-icon">
+
+<!-- Пряме підключення стилів теми (відновлення дизайну) -->
+{{- $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint -}}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
+
+<!-- Системні налаштування теми -->
+{{ template "_internal/opengraph.html" . }}
