@@ -19,6 +19,10 @@
       {{ template "main" . }} <!-- Page Content -->
       {{ partial "docs/inject/content-after" . }}
 
+    <footer class="book-footer">
+      {{ partial "docs/footer.html" . }}
+    </footer>
+      
       <label for="menu-control" class="hidden book-menu-overlay"></label>
     </div>
 
