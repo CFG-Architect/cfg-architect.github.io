@@ -3,7 +3,10 @@
     <img src="{{ "svg/menu.svg" | relURL }}" class="book-icon" alt="Menu" />
   </label>
 
-  <!-- Тут був заголовок, ми його видалили, щоб не було дубля -->
+  <!-- Повертаємо логотип замість тексту заголовка -->
+  <a href="/" class="flex align-center" style="text-decoration: none;">
+    <img src="/logo.png" alt="Configism" style="height: 32px; width: auto;" />
+  </a>
 
   <label for="toc-control">
     {{ if .Params.BookToC }}
