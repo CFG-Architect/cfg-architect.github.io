@@ -11,7 +11,7 @@
 
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}{{ end }}">
 
-{{ partial "docs/html-head-favicon" . }}
+<!-- Системні ресурси теми -->
 {{ template "_internal/opengraph.html" . }}
-{{ partial "docs/html-head-links" . }}
-{{ partial "docs/html-head-resources" . }}
+{{- $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint -}}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
