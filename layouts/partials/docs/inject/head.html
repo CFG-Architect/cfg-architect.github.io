@@ -14,25 +14,28 @@
     height: 0 !important;
     position: absolute !important;
   }
-  /* Приховуємо стандартний напис Menu у мобільній шапці */
-.custom-menu-label {
-    display: flex !important;
-    align-items: center !important;
-    font-size: 0 !important; /* Вбиває текст, залишає іконку */
-}
+   /* Видаляємо напис Menu та будь-який зайвий текст у шапці */
+  .book-header label, 
+  .book-header span,
+  .book-header {
+      font-size: 0 !important;
+      color: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
+  }
 
-.custom-menu-label::after, 
-.custom-menu-label span {
-    display: none !important;
-}
+  /* Повертаємо видимість тільки самій іконці */
+  .book-header img.book-icon {
+      font-size: initial !important;
+      visibility: visible !important;
+      width: 24px !important;
+      height: 24px !important;
+  }
 
-/* Робимо мобільну шапку компактною, щоб вона не створювала великий відступ над H1 */
-.book-header {
-    margin-bottom: -2rem !important; /* Підтягує H1 вгору до іконки */
-    border: none !important;
-    background: transparent !important;
-}
-
+  /* Стабілізація відступів, щоб дизайн не «плив» */
+  .book-page {
+      padding-top: 0 !important;
+  }
   
   /* Видалення псевдоелементів, якщо анкор зроблений через них */
   h1::after, h2::after, h3::after, .anchor::after, .book-anchor::after {
