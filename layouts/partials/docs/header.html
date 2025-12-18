@@ -1,5 +1,8 @@
-<div class="flex align-center justify-between" style="padding: 1rem 0;">
-  <label for="menu-control" style="cursor: pointer; display: block; line-height: 0;">
-    <img src="/svg/menu.svg" class="book-icon" alt="Menu" style="width: 24px; height: 24px;" />
+<div class="flex align-center justify-between">
+  <label for="menu-control" class="flex align-center" style="cursor: pointer;">
+    {{ with resources.Get "icons/menu.svg" }}
+      <img src="{{ .RelPermalink }}" class="book-icon" alt="Menu" />
+    {{ end }}
   </label>
+  <div class="flex-auto"></div>
 </div>
