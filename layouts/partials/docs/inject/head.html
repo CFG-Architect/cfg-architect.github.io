@@ -4,8 +4,19 @@
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
 
 <style>
-  /* Приховує символ # (анкор) біля всіх заголовків */
-  .book-anchor {
+  /* Повне приховування анкорних посилань біля заголовків */
+  .anchor, 
+  .book-anchor, 
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    position: absolute !important;
+  }
+  
+  /* Видалення псевдоелементів, якщо анкор зроблений через них */
+  h1::after, h2::after, h3::after, .anchor::after, .book-anchor::after {
+    content: none !important;
   }
 </style>
