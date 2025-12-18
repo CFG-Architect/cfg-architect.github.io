@@ -4,7 +4,18 @@ theme = 'hugo-book'
 defaultContentLanguage = 'en'
 
 [params]
+  # Activates search and tree menu
   BookSearch = true
   BookMenuBundle = '/menu'
-  BookComments = false
+  BookSectionEnumerable = true # Chapter numbering (1.1, 1.2...)
 
+[menu]
+  # These are the main links in the side menu
+  [[main]]
+    name = "Manifest"
+    url = "/docs/manifest/"
+    weight = 10
+  [[main]]
+    name = "PNL & LR"
+    url = "/docs/pnl-lr/"
+    weight = 20
