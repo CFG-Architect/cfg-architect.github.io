@@ -89,6 +89,10 @@
 {{ define "main" }}
   <article class="markdown book-article">
     {{- .Content -}}
+    
+    <footer class="book-footer">
+      {{ partial "docs/footer" . }}
+    </footer>
   </article>
 {{ end }}
 
