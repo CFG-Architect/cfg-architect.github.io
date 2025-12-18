@@ -1,5 +1,5 @@
 ---
-title: "Genesis"
+title: "Configism"
 type: "docs"
 ---
 # Everything is a Config.
