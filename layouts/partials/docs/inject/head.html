@@ -2,3 +2,10 @@
   document.title = "{{ .Title }}";
 </script>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+
+<style>
+  /* Приховує символ # (анкор) біля всіх заголовків */
+  .book-anchor {
+    display: none !important;
+  }
+</style>
