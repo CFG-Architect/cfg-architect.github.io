@@ -1,6 +1,7 @@
 ---
-title: "Introduction"
+title: "Genesis"
 type: "docs"
 ---
-# Welcome to Configism
-Everything is a Config. Explore the menu on the left to start.
+# Everything is a Config.
+
+This is the beginning of the journey. Use the menu on the left to explore the core of Configism.
