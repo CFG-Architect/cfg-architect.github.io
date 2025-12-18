@@ -1,1 +1,6 @@
+<script>
+    if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+        document.title = "{{ .Site.Title }}";
+    }
+</script>
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}{{ end }}">
