@@ -1,6 +1,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<!-- Централізація Тайтла -->
 <title>
   {{- if .IsHome -}}
     {{ .Site.Title }}
@@ -9,11 +10,12 @@
   {{- end -}}
 </title>
 
+<!-- Централізація Дескрипшина -->
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}{{ end }}">
 
-{{ partial "docs/html-head-favicon" . }}
-{{ partial "docs/html-head-links" . }}
-{{ partial "docs/html-head-resources" . }}
+<!-- Пряме підключення стилів (щоб не було помилок збірки) -->
+{{- $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint -}}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
 
-{{ template "_internal/opengraph.html" . }}
-{{ template "_internal/schema.html" . }}
+<!-- Базові іконки -->
+<link rel="icon" href="/favicon.png" type="image/x-icon">
