@@ -1,8 +1,10 @@
 ---
 title: "Core | The Foundation of Configism"
 description: "Basic concepts and primary sources of the system: Absolute, Spark, Mind, Energy, etc."
+linkTitle: "Core"
 type: "docs"
-bookCollapseSection: true # Makes a section in the menu expandable
+bookCollapseSection: true # Робить розділ у меню розгортаємим
+weight: 10                # Позиція в меню (чим менше число, тим вище)
 ---
 
 # Core: The Foundation of Configism
