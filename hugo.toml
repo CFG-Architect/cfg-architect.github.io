@@ -1,10 +1,10 @@
 baseURL = 'https://configism.com/'
-title = 'Configism - Philosophical Movement and Discipline of Thought'
+title = 'Configism'
 theme = 'hugo-book'
 defaultContentLanguage = 'en'
 
 [params]
-  description = 'Configism is an architectural model of reality perception based on the algorithmic analysis of the Universe. Configism provides Causal Logic and Logical Relevance tools for personal system optimization and the conscious evolution of the Spark. Everything is a Config.'
+  description = 'Everything is a Config.'
   BookSearch = true
   BookMenuBundle = '/menu'
   BookSectionEnumerable = true
