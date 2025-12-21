@@ -10,12 +10,3 @@ defaultContentLanguage = 'en'
   BookSectionEnumerable = true
   BookAnchorCopy = false
 
-[menu]
-  [[main]]
-    name = "Manifest"
-    url = "/docs/manifest/"
-    weight = 10
-  [[main]]
-    name = "PNL & LR"
-    url = "/docs/pnl-lr/"
-    weight = 20
