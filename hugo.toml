@@ -10,3 +10,7 @@ defaultContentLanguage = 'en'
   BookSectionEnumerable = true
   BookAnchorCopy = false
 
+[permalinks]
+  core = '/:title/'
+  # Якщо будуть інші розділи, додавай їх сюди так само:
+  # toolkit = '/:title/'
