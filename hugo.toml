@@ -11,4 +11,4 @@ defaultContentLanguage = 'en'
   BookAnchorCopy = false
 
 [permalinks]
-  docs = '/:section/:title/'
+  docs = '/:title/'
