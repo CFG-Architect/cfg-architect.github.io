@@ -1,0 +1,34 @@
+{{ extends "docs/baseof.html" }}
+
+{{ define "main" }}
+<style>
+  .error-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    text-align: center;
+  }
+  .error-logo {
+    height: 120px;
+    width: auto;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+  }
+  .site-name {
+    font-size: 2rem;
+    font-weight: bold;
+    color: inherit;
+    text-decoration: none;
+  }
+</style>
+
+<div class="error-container">
+  <a href="/">
+    <img src="/logo.png" alt="Logo" class="error-logo">
+  </a>
+  <a href="/" class="site-name">Configism</a>
+  <p>Сторінку не знайдено. Поверніться до Генезису.</p>
+</div>
+{{ end }}
