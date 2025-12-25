@@ -4,6 +4,7 @@ description: "Basic concepts and primary sources of the system: Absolute, Spark,
 linkTitle: "Core"
 type: "docs"
 bookCollapseSection: true # Робить розділ у меню розгортаємим
+bookFlatSection: true     # Це змусить Core показати вкладені папки
 weight: 10                # Позиція в меню (чим менше число, тим вище)
 ---
 
