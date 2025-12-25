@@ -8,24 +8,24 @@
     height: 60vh;
     text-align: center;
   }
-  .error-logo {
-    height: 120px;
-    width: auto;
-    margin-bottom: 1.5rem;
-  }
-  .site-name {
-    font-size: 2rem;
+  .error-title {
+    font-size: 3.5rem;
     font-weight: bold;
-    color: inherit;
-    text-decoration: none;
+    margin-bottom: 1rem;
+    color: var(--color-link, #007bff);
+  }
+  .error-text {
+    font-size: 1.2rem;
+  }
+  .home-link {
+    margin-top: 2rem;
+    text-decoration: underline;
   }
 </style>
 
 <div class="error-container">
-  <a href="/">
-    <img src="/logo.png" alt="Logo" class="error-logo">
-  </a>
-  <a href="/" class="site-name">Configism</a>
-  <p>Error 404: Page not found</p>
+  <div class="error-title">Error 404: Page not found.</div>
+  <div class="error-text">Error 404: Page not found.</div>
+  <a href="/" class="home-link">To the main page</a>
 </div>
 {{ end }}
