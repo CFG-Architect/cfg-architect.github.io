@@ -2,7 +2,7 @@
 title: "Spark"
 type: "docs"
 url: "/spark/"
-bookFlatSection: false
+bookFlatSection: true
 bookCollapseSection: false
 weight: 1
 ---
