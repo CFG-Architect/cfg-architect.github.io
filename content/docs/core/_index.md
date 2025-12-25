@@ -3,8 +3,8 @@ title: "Core | The Basis of Configism"
 description: "Basic concepts and primary sources of the system: Absolute, Spark, Mind, Energy, etc."
 linkTitle: "Core"
 type: "docs"
-bookCollapseSection: false # Робить розділ у меню розгортаємим
-bookFlatSection: true     # Це змусить Core показати вкладені папки
+bookCollapseSection: true # Робить розділ у меню розгортаємим
+bookFlatSection: false     # Це змусить Core показати вкладені папки
 weight: 10                # Позиція в меню (чим менше число, тим вище)
 ---
 
