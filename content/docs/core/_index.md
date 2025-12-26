@@ -3,6 +3,7 @@ title: "Core | The Basis of Configism"
 description: "Basic concepts and primary sources of the system: Absolute, Spark, Mind, Energy, etc."
 linkTitle: "Core"
 type: "docs"
+url: "/core/"
 bookCollapseSection: true
 weight: 10
 ---
