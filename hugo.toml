@@ -12,4 +12,3 @@ defaultContentLanguage = 'en'
 
 [permalinks]
   docs = '/:title/'
-  core = '/:title/'
