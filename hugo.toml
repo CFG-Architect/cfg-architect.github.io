@@ -9,3 +9,7 @@ defaultContentLanguage = 'en'
   BookMenuBundle = '/menu'
   BookSectionEnumerable = true
   BookAnchorCopy = false
+
+[permalinks]
+  docs = '/:title/'
+  core = '/:title/'
