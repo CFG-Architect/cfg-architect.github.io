@@ -1,6 +1,6 @@
 ---
-title: "Spark | Configism"
-description: "Definition of the Spark as the primary dynamic driver of the Universe and the source of evolutionary action."
+title: "Spark"
+description: "Spark"
 linkTitle: "Spark"
 type: "docs"
 url: "/spark/"
@@ -10,4 +10,4 @@ weight: 1
 ---
 
 # Spark
-Definition of the Spark as the primary dynamic driver of the Universe and the source of evolutionary action.
+Spark.
