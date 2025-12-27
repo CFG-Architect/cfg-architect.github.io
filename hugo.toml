@@ -1,10 +1,10 @@
 baseURL = 'https://configism.com/'
-title = 'Configism'
+title = 'title'
 theme = 'hugo-book'
 defaultContentLanguage = 'en'
 
 [params]
-  description = 'Everything is a Config.'
+  description = 'description'
   BookSearch = true
   BookMenuBundle = '/menu'
   BookSectionEnumerable = true
