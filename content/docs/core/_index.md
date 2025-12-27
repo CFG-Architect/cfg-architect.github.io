@@ -1,6 +1,6 @@
 ---
-title: "title"
-description: "description"
+title: "Core"
+description: "Core"
 linkTitle: "Core"
 type: "docs"
 url: "/core/"
@@ -9,4 +9,4 @@ weight: 10
 ---
 
 # Core
-Description
+Core
