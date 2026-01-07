@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /categories/
+Disallow: /tags/
+
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: AnthropicAI
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://configism.com/sitemap.xml
