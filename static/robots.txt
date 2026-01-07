@@ -16,3 +16,4 @@ User-agent: Google-Extended
 Disallow: /
 
 Sitemap: https://configism.com/sitemap.xml
+/
