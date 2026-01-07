@@ -2,7 +2,7 @@ baseURL = 'https://configism.com/'
 title = 'title'
 theme = 'hugo-book'
 defaultContentLanguage = 'en'
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 [params]
   description = 'description'
