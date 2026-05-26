@@ -1,7 +1,16 @@
 ---
-title: "Configism - Philosophical Movement and Discipline of Thought"
-description: "Configism is an architectural model of reality perception based on the algorithmic analysis of the Universe. It provides CEL and LR tools for the deconstruction and restructuring of the personality from a static to a dynamic state, enabling the conscious evolution of the Spark. Everything is a Config."
+title: "Configism - a Discipline of Thought Based on Configurational Logic"
+description: "Configism is a discipline of thought based on configurational logic, studying how definition, causality, change, and interaction shape perception, observation, subjecthood, thinking, and reality. Everything is a Config."
 type: "docs"
 ---
 # Configism
-This is the beginning of the journey. Use the menu on the left to explore the Core of Configism.
+Configism is a discipline of thought based on configurational logic, studying how definition, causality, change, and interaction shape perception, observation, subjecthood, thinking, and reality.
+
+
+Cognitive Notice
+Configism is not designed as entertainment, belief, ideology, or motivational philosophy. It is a discipline of thought that may change how reality, language, society, observation, and selfhood are perceived. Crossing a certain threshold of understanding may be irreversible: familiar structures can begin to appear artificial, inconsistent, or conceptually unstable.
+
+This process may be psychologically destabilizing. This is not a warning against reading, but a notice of intellectual responsibility: Configism should be approached slowly, critically, and with attention to one’s own psychological stability.
+
+
+Everything is a Config.
