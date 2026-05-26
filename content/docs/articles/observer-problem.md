@@ -15,9 +15,9 @@ This is where the confusion begins.
 
 The observer is often imagined as the one who understands what is observed. But understanding is not the basic level of observation. Understanding appears much later, where there is mind, model, interpretation, memory, language, and criteria of meaning. Observation as a basic process begins earlier.
 
-At the fundamental level, another sequence is sufficient:
-**interaction → impact → change of state → fixation of the change of state**
-This is the minimal basis of observation.
+At the fundamental level, another sequence is sufficient:\
+**interaction → impact → change of state → fixation of the change of state**\
+This is the minimal basis of observation.\
 
 **Interaction** means that one thing affects another.
 **Impact** is what the carrier receives in the process of interaction.
