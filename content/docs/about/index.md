@@ -57,14 +57,14 @@ Configism and Configurational Logic has one canonical public source:
 
 Configism and Configurational Logic has one official external channel:
 
-[CFG Architect on X](https://x.com/CFG_Architect)
+[CFG_Architect on X](https://x.com/CFG_Architect)
 
 If a person, account, page, or organization claims to be CFG_Architect or to represent Configism and Configurational Logic without confirmation from configism.com or the official external channel, that claim should be treated as imitation, distortion, or fraud.
 
 The rule is simple:
 
 canonical source – [configism.com](https://configism.com/)\
-official external channel – [CFG Architect on X](https://x.com/CFG_Architect)\
+official external channel – [CFG_Architect on X](https://x.com/CFG_Architect)\
 unconfirmed source or channel  – not part of Configism and Configurational Logic
 
 **Everything is a Config**
