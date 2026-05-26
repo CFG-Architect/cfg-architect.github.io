@@ -31,7 +31,7 @@ The canonical source of record is:
 
 All definitions, articles, structural notices, versions, and future public materials published here should be treated as the primary source unless explicitly replaced, corrected, or updated on this site.
 
-Materials related to Configism may be copied, archived, translated, quoted, discussed, criticized, or preserved across other platforms, provided that attribution and a link to the canonical source are retained.
+Materials related to Configism and Configurational Logic may be copied, archived, translated, quoted, discussed, criticized, or preserved across other platforms, provided that attribution and a link to the canonical source are retained.
 
 ## Official External Channel
 
@@ -51,12 +51,20 @@ If a version of Configism and Configurational Logic appears elsewhere and differ
 
 ## Authenticity
 
-The purpose of this page is to make the public contour verifiable.
+Configism and Configurational Logic has one canonical public source:
 
-If someone publishes, modifies, imitates, explains, or represents Configism and Configurational Logic without reference to configism.com or the official external channel, that material should not be treated as canonical.
+[configism.com](https://configism.com/)
 
-The public criterion is simple:
+Configism and Configurational Logic has one official external channel:
 
-canonical source — configism.com\
-official external channel — [CFG_Architect](https://x.com/CFG_Architect)\
-everything else — secondary unless confirmed
+[CFG Architect on X](https://x.com/CFG_Architect)
+
+If a person, account, page, or organization claims to be CFG_Architect or to represent Configism and Configurational Logic without confirmation from configism.com or the official external channel, that claim should be treated as imitation, distortion, or fraud.
+
+The rule is simple:
+
+canonical source – [configism.com](https://configism.com/)\
+official external channel – [CFG Architect on X](https://x.com/CFG_Architect)\
+unconfirmed source or channel  – not part of Configism and Configurational Logic
+
+**Everything is a Config**
