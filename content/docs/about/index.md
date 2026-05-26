@@ -14,11 +14,11 @@ It contains the current public materials, articles, structural notices, and futu
 
 ## Authorial Contour
 
-Configism and Configurational Logic is not presented here as the work of a public personality, a personal brand, or a single performative identity.
+Configism and Configurational Logic are not presented here as the work of a public personality, a personal brand, or a single performative identity.
 
-It is authored and maintained through an canonical contour.
+It is authored and maintained through an authorial contour.
 
-This means that the source of canonical is not the biography of an author, but the coherence of the published structure: definitions, distinctions, principles, articles, versions, and their relation to the canonical source.
+This means that canonical status does not come from the biography of an author, but the coherence of the published structure: definitions, distinctions, principles, articles, versions, and their relation to the canonical source.
 
 The authorship exists.\
 The private layer of authorship is not part of the public material.
@@ -39,7 +39,7 @@ The official external channel for updates, secondary notes, and public reference
 
 [CFG_Architect on X](https://x.com/CFG_Architect)
 
-This account may be used for announcements, fragments, comments, publication notices, and secondary materials related to configism.com
+This account may be used for announcements, fragments, comments, publication notices, and secondary materials related to Configism and Configurational Logic.
 
 ## Secondary Publications
 
@@ -51,7 +51,7 @@ If a version of Configism and Configurational Logic appears elsewhere and differ
 
 ## Authenticity
 
-Configism and Configurational Logic has one canonical public source:
+There is one canonical public source for Configism and Configurational Logic:
 
 [configism.com](https://configism.com/)
 
