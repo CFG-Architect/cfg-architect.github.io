@@ -4,15 +4,48 @@ Disallow: /404.html
 Disallow: /categories/
 Disallow: /tags/
 
+# OpenAI: allow search, block training
+User-agent: OAI-SearchBot
+Allow: /
+
 User-agent: GPTBot
 Disallow: /
-User-agent: CCBot
+
+# Anthropic: allow search/user retrieval, block training
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
 Disallow: /
+
 User-agent: AnthropicAI
 Disallow: /
+
 User-agent: Claude-Web
 Disallow: /
+
+# Google: allow Google Search, block Gemini training/grounding token
+User-agent: Googlebot
+Allow: /
+
 User-agent: Google-Extended
+Disallow: /
+
+# Apple: allow search, block AI training
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+# Common training/data crawlers
+User-agent: CCBot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Bytespider
 Disallow: /
 
 Sitemap: https://configism.com/sitemap.xml
