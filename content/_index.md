@@ -8,7 +8,7 @@ Configism is a discipline of thought based on Configurational Logic, studying ho
 {{< g 1 >}}
 **Cognitive Notice**
 {{< g 1 >}}
-Configism is not a belief system, not an ideology, and not a commercial project. 
+Configism is not a philosophy, not a therapy, not a belief system, not an ideology, and not a commercial project, etc.
 {{< g 1 >}}
 Configism is a discipline of thought based on Configurational Logic that may change how reality, language, society, observation, and selfhood are perceived. Crossing a certain threshold of understanding may be irreversible: familiar structures can begin to appear artificial, inconsistent, or conceptually unstable.
 {{< g 1 >}}
