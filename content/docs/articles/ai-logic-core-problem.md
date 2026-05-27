@@ -26,5 +26,5 @@ Summary: the problem of AI is not in its field of application, but in its logic 
 
 A stable solution is possible only at the level of another type of logic core – one that does not stack local rules on top of each other, but coherently separates global and local connections, causal priorities, command, context, action, and responsibility before the system receives the right to act. But this does not depend on yet another AI safety layer or a new technical model. It depends on humanity’s readiness to accept another level of logic as the foundation for decision-making systems – especially those that begin to make or mediate subject-level decisions.
 
-*written in plain human language
+*written in plain human language\
 *Published: 21 May 2026*
