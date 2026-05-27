@@ -5,6 +5,7 @@ linkTitle: "AI Logic Core Problem"
 type: docs
 url: "/articles/ai-logic-core-problem/"
 weight: 10
+date: "2026-05-21"
 ---
 
 # The Problem of AI’s Logic Core
