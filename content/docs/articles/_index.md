@@ -9,7 +9,7 @@ weight: 20
 ---
 # Articles
 Articles related to Configism and Configurational Logic, written in plain human language.
-{{< g 1 >}}
+
 This section contains accessible materials related to Configism, its concepts, implications, and applications. Unlike the Core, articles do not define the foundational canon directly. They serve as entry points, explanations, observations, and conceptual bridges.
-{{< g 1 >}}
+
 **Everything is a Config - Enjoy Reading**
