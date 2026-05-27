@@ -6,7 +6,8 @@ type: "docs"
 # Configism
 Configism is a discipline of thought based on Configurational Logic, studying how definition, causality, change, and interaction shape perception, observation, subjecthood, thinking, and reality.
 
-## Configurational Logic
+**Configurational Logic**
+
 Configurational Logic is a model of logic in which everything is thought as a configuration and its unfolding.
 
 **Cognitive Notice**
