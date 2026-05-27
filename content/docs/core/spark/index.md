@@ -10,7 +10,7 @@ weight: 1
 ---
 
 # Spark
-**Spark is the condition for the emergence of choice**
+Spark is the condition for the emergence of choice
 
 This section is not public yet. Spark will be opened only when its internal structure are stable enough for publication.
 
