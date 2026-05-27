@@ -142,7 +142,7 @@ A living contour must maintain its own organization. It must preserve the differ
 That is why we speak of an algorithm.\
 Not because a cell has a conscious plan.\
 Not because life “knows” what it is doing.\
-But because the living executes a minimal sequence without which it ceases to be a living contour.\
+But because the living executes a minimal sequence without which it ceases to be a living contour.
 
 **preserve organization → continue organization → scale organization**\
 This is PAL in its most compressed form.
@@ -159,7 +159,7 @@ A cell, bacterium, or simple living contour does not “think” in the human se
 
 None of this requires consciousness.\
 But it is already not simple linear SF.\
-It is the SF-sequence of a living contour passing through the weights of threat / non-threat.\
+It is the SF-sequence of a living contour passing through the weights of threat / non-threat.
 
 Therefore:\
 **choice does not begin where thought appears;**\
@@ -178,7 +178,7 @@ The living executes.\
 The living does not merely change.\
 The living maintains organization through change.\
 The living does not merely repeat previous SF.\
-The living transitions between modes of the SF-sequence through primary choice, weighted by the weights of threat / non-threat.\
+The living transitions between modes of the SF-sequence through primary choice, weighted by the weights of threat / non-threat.
 
 That is why error is not a fundamental concept at this level. More fundamental is the choice of mode of execution. What from the position of the previous pattern looks like a deviation may, from the position of PAL, be a transition to another trajectory of preserving, continuing, or scaling organization.
 
