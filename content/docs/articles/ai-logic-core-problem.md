@@ -15,7 +15,7 @@ The main danger of AI is not in humanity’s panicked fantasies that AI will “
 ## Layers Without a Coherent Core
 Each of these layers has a local protocol function and its own limits, but current AI logic cores do not have a sufficiently coherent mechanism for separating global and local connections – a mechanism through which command, context, priority, action, and responsibility can be defined without conflict.
 
-## When the User Command Stops Being the Direct Cause
+### When the User Command Stops Being the Direct Cause
 In a simple chatbot, this looks almost harmless: the user asks one thing, while the system, through internal weights, interprets the request differently, adds an unnecessary safeguard, fabricates, routes the action to the wrong place, or activates a service pattern. But the form of the error already reveals the problem: the user’s command is not always the direct cause of the system’s action. It passes through hidden priority arbitration, where an internal contour can outweigh the external command.
 
 ## The Risk Scales with Decision Space
