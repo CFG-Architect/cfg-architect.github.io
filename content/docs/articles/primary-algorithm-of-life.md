@@ -8,7 +8,7 @@ weight: 30
 date: "2026-05-27"
 ---
 # The Primary Algorithm of Life: From State-Fixation to Primary Choice
-In the article “The Observer Problem”, we considered observation not as an act of consciousness, but as a basic sequence: interaction, impact, change of state, and fixation of that change. At the lowest level, observation does not yet require mind, language, interpretation, or a subject. It is enough that an impact leaves a state-difference within a carrier.
+In the article [The Observer Problem](https://configism.com/articles/observer-problem/), we considered observation not as an act of consciousness, but as a basic sequence: interaction, impact, change of state, and fixation of that change. At the lowest level, observation does not yet require mind, language, interpretation, or a subject. It is enough that an impact leaves a state-difference within a carrier.
 
 This basic sequence can be called **state-fixation.**
 
