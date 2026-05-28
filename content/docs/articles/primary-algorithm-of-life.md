@@ -53,7 +53,7 @@ This sequence is PAL in its most compressed form.
 
 PAL does not replace biology. It does not describe specific molecular mechanisms, reactions, genes, membranes, or regulatory processes instead of biology. It fixes another level: the logical form of minimal execution without which a contour does not enter the living mode.
 
-## 2. The Primary Weights of PAL: Threat / Non-Threat**
+## 2. The Primary Weights of PAL: Threat / Non-Threat
 
 If PAL is the minimal sequence of execution of a living contour, the next question is:\
 **through what does this sequence pass?**
@@ -114,7 +114,7 @@ But at the level of pure logic, “error” is not a primary event.
 
 Error appears only where there is a standard.
 
-If the standard is the previous sequence, then any deviation will look like an error. But if the standard is PAL — the preservation, continuation, and scaling of one’s own organization — then deviation from the previous sequence is not automatically an error. It can be a transition to another mode of execution.
+If the standard is the previous sequence, then any deviation will look like an error. But if the standard is PAL – the preservation, continuation, and scaling of one’s own organization – then deviation from the previous sequence is not automatically an error. It can be a transition to another mode of execution.
 
 In this sense, mutation is not an absolute error, but a change in sequence. It becomes an “error” only when it is related to a certain standard: a previous copy, an expected function, a stable state, or a desired result.
 
@@ -137,7 +137,7 @@ PAL is not an image. It is a logical formalization.
 
 A minimal living contour does not merely have organization; it maintains it. If it does not maintain its own organization, it is not a living contour. It may be a reaction system, a chemical network, or a complex sequence of processes, but it is not yet living organization in the strong sense.
 
-A living contour must maintain its own organization. It must preserve the difference between internal and external. It must regulate the passage of matter, energy, and impacts. It must respond to conditions that can disrupt its integrity. It must restore or restructure itself. It must continue organization in time — through growth, division, reproduction, or participation in a line of reproduction.
+A living contour must maintain its own organization. It must preserve the difference between internal and external. It must regulate the passage of matter, energy, and impacts. It must respond to conditions that can disrupt its integrity. It must restore or restructure itself. It must continue organization in time – through growth, division, reproduction, or participation in a line of reproduction.
 
 That is why we speak of an algorithm.\
 Not because a cell has a conscious plan.\
