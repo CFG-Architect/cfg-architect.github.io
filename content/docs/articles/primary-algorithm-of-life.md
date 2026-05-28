@@ -8,6 +8,7 @@ weight: 30
 date: "2026-05-27"
 ---
 # The Primary Algorithm of Life: From State-Fixation to Primary Choice
+## 1. From State-Fixation to the Living Contour
 In the article [The Observer Problem](https://configism.com/articles/observer-problem/), we considered observation not as an act of consciousness, but as a basic sequence: interaction, impact, change of state, and fixation of that change. At the lowest level, observation does not yet require mind, language, interpretation, or a subject. It is enough that an impact leaves a state-difference within a carrier.
 
 This basic sequence can be called **state-fixation.**
@@ -30,7 +31,7 @@ Our answer: at the level of life, SF does not disappear. It transitions into a m
 
 This form is the **Primary Algorithm of Life.**
 
-## 1. What We Call the Primary Algorithm of Life
+## 2. What We Call the Primary Algorithm of Life
 
 **The Primary Algorithm of Life** is the minimal SF-sequence executed by a contour, through which it enters the living mode: preserving, continuing, and scaling its own organization.
 
@@ -53,7 +54,7 @@ This sequence is PAL in its most compressed form.
 
 PAL does not replace biology. It does not describe specific molecular mechanisms, reactions, genes, membranes, or regulatory processes instead of biology. It fixes another level: the logical form of minimal execution without which a contour does not enter the living mode.
 
-## 2. The Primary Weights of PAL: Threat / Non-Threat
+### 2. The Primary Weights of PAL: Threat / Non-Threat
 
 If PAL is the minimal sequence of execution of a living contour, the next question is:\
 **through what does this sequence pass?**
@@ -82,7 +83,7 @@ That is why the language of weights matters. Without weights, there is only reac
 
 We call this transition **primary choice**.
 
-## 3. Primary Choice
+### 3. Primary Choice
 
 When we say “choice”, we are not speaking about human will. We are not speaking about a conscious decision. We are not speaking about a subject sitting inside the cell and “deciding”.
 
@@ -106,7 +107,7 @@ A living contour passes an impact through the SF-sequence of PAL and the weights
 
 Therefore, the living does not merely fix a change. The living changes the way change passes relative to the preservation, continuation, and scaling of its own organization.
 
-## 4. Why “Error” Is Not a Fundamental Description of This Level
+### 4. Why “Error” Is Not a Fundamental Description of This Level
 
 Human language often calls a deviation from a previous pattern an error. In technical and biological contexts, this is understandable: if DNA is copied differently than expected, one can call it a “replication error”. If a cell enters a state that ends in death, one can call it a “failed response”. If a mutation destroys the function of a protein, one can call it a “harmful mutation”.
 
@@ -129,7 +130,7 @@ Therefore, more precisely:\
 
 That is why error is not a fundamental description of this level. More fundamental is the choice of mode of execution. What from the position of the previous pattern looks like a deviation may, from the position of PAL, be a transition to another trajectory of preserving, continuing, or scaling organization.
 
-## 5. Why PAL Is Not a Metaphor
+### 5. Why PAL Is Not a Metaphor
 
 PAL may seem like a metaphor if it is read as a poetic description of life. But we use it differently.
 
@@ -147,7 +148,7 @@ But because the living executes a minimal sequence without which it ceases to be
 **preserve organization → continue organization → scale organization**\
 This is PAL in its most compressed form.
 
-## 6. Choice Does Not Begin with Consciousness
+### 6. Choice Does Not Begin with Consciousness
 
 Humanity often binds choice to consciousness. If there is choice, then there must be a subject, intention, will, an inner voice, or rational comparison of alternatives.
 
@@ -167,7 +168,7 @@ Therefore:\
 
 This is not a romanticization of the cell. It is not anthropomorphization. It is a separation of levels: human choice is a complex form of choice, but not necessarily the first form of choice.
 
-## Main Thesis
+### Main Thesis
 
 Life does not begin with consciousness, human choice, or interpretation. Life begins where a contour executes its own SF-sequence of preserving, continuing, and scaling organization, and where each transition in this sequence is weighted through threat / non-threat weights relative to the execution of PAL.
 
