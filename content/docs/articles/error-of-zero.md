@@ -159,4 +159,4 @@ As long as these statuses remain fused at the basic level of teaching, language,
 The fundamentality of the error of zero is much deeper and broader than it may seem. Zero as a number did not merely change the way operations are written; it changed the way absence is read. When absence receives a place in the sequence of what is present, the subject begins to perceive boundary, lack, completion, emptiness, and presence itself differently. This already moves beyond mathematics and enters the psychological structure of perception and the decoder of reality — the level of the problem that is separately opened through the “Babylonian syndrome.” But that level requires a separate article. Here it is enough to fix the main point: the error of zero does not end in arithmetic; it only begins there.
 
 *ritten in plain human language\
-*Published: 27 May 2026*
+*Published: 28 May 2026*
