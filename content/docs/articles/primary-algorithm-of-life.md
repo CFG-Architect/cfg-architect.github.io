@@ -8,7 +8,6 @@ weight: 30
 date: "2026-05-27"
 ---
 # The Primary Algorithm of Life: From State-Fixation to Primary Choice
-## 1. From State-Fixation to the Living Contour
 In the article [The Observer Problem](https://configism.com/articles/observer-problem/), we considered observation not as an act of consciousness, but as a basic sequence: interaction, impact, change of state, and fixation of that change. At the lowest level, observation does not yet require mind, language, interpretation, or a subject. It is enough that an impact leaves a state-difference within a carrier.
 
 This basic sequence can be called **state-fixation.**
@@ -31,7 +30,7 @@ Our answer: at the level of life, SF does not disappear. It transitions into a m
 
 This form is the **Primary Algorithm of Life.**
 
-## 2. What We Call the Primary Algorithm of Life
+## 1. What We Call the Primary Algorithm of Life
 
 **The Primary Algorithm of Life** is the minimal SF-sequence executed by a contour, through which it enters the living mode: preserving, continuing, and scaling its own organization.
 
@@ -54,7 +53,7 @@ This sequence is PAL in its most compressed form.
 
 PAL does not replace biology. It does not describe specific molecular mechanisms, reactions, genes, membranes, or regulatory processes instead of biology. It fixes another level: the logical form of minimal execution without which a contour does not enter the living mode.
 
-### 2. The Primary Weights of PAL: Threat / Non-Threat
+## 2. The Primary Weights of PAL: Threat / Non-Threat
 
 If PAL is the minimal sequence of execution of a living contour, the next question is:\
 **through what does this sequence pass?**
