@@ -10,6 +10,7 @@ disableKinds = ['taxonomy', 'term']
   BookMenuBundle = '/menu'
   BookSectionEnumerable = true
   BookAnchorCopy = false
+  BookToC = false
 
 [permalinks]
   docs = '/:title/'
