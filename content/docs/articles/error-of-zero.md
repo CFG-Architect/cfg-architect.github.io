@@ -1,6 +1,6 @@
 ---
-title: "The Fundamental Error of Zero"
-description: "The Fundamental Error of Zero - Zero is an error not because the sign 0 appeared. A sign for an empty place was necessary for positional notation. The error lies elsewhere: absence received the status of a number."
+title: "The Fundamental Error of Zero | Configism"
+description: "Zero is not one thing. How the fusion of absence, empty place, boundary, and number into one sign became a civilizational category error."
 linkTitle: "Fundamental Error of Zero"
 type: docs
 url: "/articles/error-of-zero/"
