@@ -43,7 +43,7 @@ This is an important point. The absence of zero in Greek mathematics is often pr
 
 In this, the Greek position was clean. Zero should not have become a number.
 
-But the Greek framework did not give zero another status. It did not make zero a number — and that was correct. But it did not separate zero as a boundary: a boundary between presence and absence, between positive and negative, between directions, between the state before cancellation and the state after cancellation.
+But the Greek framework did not give zero another status. It did not make zero a number – and that was correct. But it did not separate zero as a boundary: a boundary between presence and absence, between positive and negative, between directions, between the state before cancellation and the state after cancellation.
 
 The Greeks preserved the principle that absence is not a thing. But they did not take the next step: a boundary is not a thing, but it is also not merely absence. This unfinished step opened the place for future mixing.
 
@@ -156,7 +156,7 @@ Formal mathematics can introduce zero as a number, a base element, or the empty 
 
 As long as these statuses remain fused at the basic level of teaching, language, and perception, human logic continues to read absence as a present element of reality. This is why the error remains fundamental even when separate disciplines already have local means of limiting it.
 
-The fundamentality of the error of zero is much deeper and broader than it may seem. Zero as a number did not merely change the way operations are written; it changed the way absence is read. When absence receives a place in the sequence of what is present, the subject begins to perceive boundary, lack, completion, emptiness, and presence itself differently. This already moves beyond mathematics and enters the psychological structure of perception and the decoder of reality — the level of the problem that is separately opened through the “Babylonian syndrome.” But that level requires a separate article. Here it is enough to fix the main point: the error of zero does not end in arithmetic; it only begins there.
+The fundamentality of the error of zero is much deeper and broader than it may seem. Zero as a number did not merely change the way operations are written; it changed the way absence is read. When absence receives a place in the sequence of what is present, the subject begins to perceive boundary, lack, completion, emptiness, and presence itself differently. This already moves beyond mathematics and enters the psychological structure of perception and the decoder of reality – the level of the problem that is separately opened through the “Babylonian syndrome.” But that level requires a separate article. Here it is enough to fix the main point: the error of zero does not end in arithmetic; it only begins there.
 
 *written in plain human language\
 *Published: 28 May 2026*
