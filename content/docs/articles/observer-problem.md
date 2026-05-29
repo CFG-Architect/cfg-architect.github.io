@@ -1,6 +1,6 @@
 ---
-title: "The Problem of the Observer: Why Observation Does Not Begin with Consciousness"
-description: "Observation does not begin with consciousness, understanding, or subjecthood. At the basic level, observation begins where an impact is fixed as a change of state."
+title: "The Problem of the Observer | Configism"
+description: "A structural analysis of what "observer" actually means — separating physical interaction, sensory fixation, and conscious perception into distinct logical levels."
 linkTitle: "Observer Problem"
 type: docs
 url: "/articles/observer-problem/"
