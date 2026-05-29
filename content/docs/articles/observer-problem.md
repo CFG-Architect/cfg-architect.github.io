@@ -1,6 +1,6 @@
 ---
 title: "The Problem of the Observer | Configism"
-description: "A structural analysis of what "observer" actually means — separating physical interaction, sensory fixation, and conscious perception into distinct logical levels."
+description: "A structural analysis of what Observer actually means — separating physical interaction, sensory fixation, and conscious perception into distinct logical levels."
 linkTitle: "Observer Problem"
 type: docs
 url: "/articles/observer-problem/"
