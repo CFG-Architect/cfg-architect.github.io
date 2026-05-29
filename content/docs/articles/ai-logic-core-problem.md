@@ -1,6 +1,6 @@
 ---
-title: "The Problem of AI’s Logic Core"
-description: "The main danger of AI is not that it will become evil, but that modern AI systems lack a coherent logic core capable of separating global and local connections, command, context, priority, action, and responsibility."
+title: "The Problem of AI Logic Core | Configism"
+description: "Why AI systems lose coherence under conflicting priorities — and why the solution requires a different type of logical foundation, not better rules."
 linkTitle: "AI Logic Core Problem"
 type: docs
 url: "/articles/ai-logic-core-problem/"
@@ -8,7 +8,7 @@ weight: 10
 date: "2026-05-21"
 ---
 
-# The Problem of AI’s Logic Core
+# The Problem of AI Logic Core
 The main danger of AI is not in humanity’s panicked fantasies that AI will “become evil” or suddenly “get out of control.” The real problem has a concrete profile: modern AI systems are built as layers of local rules, safety filters, policy layers, mission objectives, classifiers, optimization loops, and so on. 
 
 Each of these layers has a local protocol function and its own limits, but current AI logic cores do not have a sufficiently coherent mechanism for separating global and local connections – a mechanism through which command, context, priority, action, and responsibility can be defined without conflict.
