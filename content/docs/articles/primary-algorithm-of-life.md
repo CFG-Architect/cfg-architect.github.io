@@ -1,6 +1,6 @@
 ---
-title: "The Primary Algorithm of Life: From State-Fixation to Primary Choice"
-description: "The Primary Algorithm of Life is the minimal SF-sequence executed by a contour, through which it enters the living mode: preserving, continuing, and scaling its own organization. Abbreviated: PAL."
+title: "The Primary Algorithm of Life | Configism"
+description: "What is the minimal logical form of a living system? An analysis of preserve, continue, and scale as the primary algorithm — before consciousness, before evolution. Abbreviated: PAL."
 linkTitle: "Primary Algorithm of Life"
 type: docs
 url: "/articles/primary-algorithm-of-life/"
