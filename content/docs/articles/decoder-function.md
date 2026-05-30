@@ -82,7 +82,7 @@ The decoder is present where a signal or condition receives status, weight, and 
 
 Everything that does not involve status assignment is not a decoder. It may be a physical influence, reaction, chemical change, fixation, decision, or action. But the decoding function begins where a contour establishes what this is for it, how much it weighs, and where it directs further passage.
 
-### PAL and the Functional Decoder
+## PAL and the Functional Decoder
 PAL is not a separate decoding mechanism beside life. PAL is the Primary Algorithm of Life, which sets the axis of living execution: preservation / continuation / scaling.
 
 When a condition passes through this axis and receives the status threat / non-threat, a primary weight, and a mode of passage, the PAL level works as the first functional level of the decoder.
@@ -98,7 +98,7 @@ A nutrient for a cell, light for a plant, a toxin for an organism, temperature, 
 At the PAL level, the functional decoder answers the basic question:\
 **what is this for the life of this contour?**
 
-### Variational-Functional Decoder
+## Variational-Functional Decoder
 After the primary status, variability emerges.
 
 If a condition has received the status of threat, the living contour must decode not only that it is a threat, but also how exactly to pass through it. A threat may lead not to one action, but to different ways of passage: freeze, flee, attack, bypass, hide, conserve resources, restore, or change mode.
@@ -125,7 +125,7 @@ Here the question is no longer only:\
 Here a second question operates:\
 **which way of passing through this condition is relevant now?**
 
-### Status, Weight, and Vector
+## Status, Weight, and Vector
 The decoder has three main links: status, weight, and vector.
 
 **Status** answers the question:\
@@ -149,7 +149,7 @@ Weight says how significant this is. Vector says where it leads.
 
 The decoder does not only define what this is. It assigns weight and opens the direction of further passage.
 
-### Choice, Decision, and Action
+## Choice, Decision, and Action
 At the pre-conscious level, choice works as an instrument of passage for status, weight, and vector.
 
 Primary choice fixes the boundary threat / non-threat. Secondary choice opens the variability of passing through that boundary. After developed decoding, choice works with more specific statuses, weights, and vectors.
@@ -162,7 +162,7 @@ Action is the realization of the fixed vector in the environment.
 
 The decoder forms the field of choice, but it is not identical to choice itself. It stands earlier. It makes the signal become status, weight, and direction, from which choice then emerges.
 
-### Chemical Map of the Bio-Decoder
+## Chemical Map of the Bio-Decoder
 In living systems, statuses, weights, and vectors do not exist abstractly. They pass through the physiological state of the organism.
 
 **The chemical map is a system of physiological correspondences through which the physiological state of the organism changes the availability, intensity, and direction of signal passage.**
@@ -185,7 +185,7 @@ The chemical map is not a decoder as a separate mechanism, but it is the physiol
 
 **PAL does not change.** The chemical map changes, through which PAL receives weights and vectors.
 
-### When the Chemical Map Is Inverted
+## When the Chemical Map Is Inverted
 PAL does not break. It continues to execute the Primary Algorithm of Life. But if the chemical map of signals, statuses, weights, and vectors is changed, the living contour may act locally relevantly while, at scale, moving against its own preservation, continuation, or unfolding.
 
 **Inversion of the chemical map is not a breakdown of choice.** It is a breakdown of the chemical map by which choice is executed.
@@ -203,7 +203,7 @@ Brood parasitism shows a status substitution: the foreign receives the status of
 
 **Psychotic change of the chemical map** occurs when, without direct trauma, the physiological mode of brain operation is disrupted, causing signals to receive disproportionate weights and become falsely stabilized as significant.
 
-### Human Decoder
+## Human Decoder
 The human decoder has functional, variational-functional, subject-level, social, and symbolic levels.
 
 The human decoder does not work linearly, but multi-levelly. One and the same signal in a human may simultaneously pass as a condition of life, a way of passage, a personal experience, a social status, and a symbolic meaning.
@@ -212,7 +212,7 @@ Therefore, human action is not a direct consequence of one level. A person may b
 
 The human bio-decoder is a complex system in which levels of decoding overlap, conflict with one another, and may reassign the statuses, weights, and vectors of lower and higher levels depending on the complexity of conditions.
 
-### Symbolic Reassignment
+## Symbolic Reassignment
 **At the human level**, statuses, weights, and vectors are assigned not only by direct conditions of life, but by signs, words, rituals, laws, money, religions, moral systems, political doctrines, national symbols, institutions, media, and technical systems.
 
 **Symbolic reassignment** is a process in which an object, action, person, place, time, event, word, or sign receives status, weight, and direction of behavior not through direct biological influence, but through a symbolic contour of meaning.
@@ -235,7 +235,7 @@ At this level, **neuroprogramming** emerges. Not in the popular sense of a “ma
 
 A word, image, flag, command, doctrine, or social role ceases to be merely a symbol. It becomes a trigger of passage. The person no longer decodes the signal, but executes a fixed sequence.
 
-### Artificial Contour and Artificial Decoder
+## Artificial Contour and Artificial Decoder
 An artificial contour is a contour with externally given organization, through which form, material, mechanics, electronics, rules, model, or algorithm sets the way an action, influence, or signal passes.
 
 **But an artificial contour by itself is not yet a decoder.**
@@ -292,7 +292,7 @@ The artificial decoder is derivative of the human one. Humans create artificial 
 
 But after launch, a complex artificial system may assign statuses, weights, and vectors at a scale that no longer passes through direct human control.
 
-### Main Thesis
+## Main Thesis
 Reality does not pass into action directly.
 
 Between influence and action, there is passage. In this passage, what has been fixed receives status, status receives weight, weight opens a vector, the vector enters the field of choice, choice stabilizes as decision, and decision is realized as action.
