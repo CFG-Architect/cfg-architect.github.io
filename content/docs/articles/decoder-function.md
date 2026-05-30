@@ -319,7 +319,7 @@ A bacterium lives in the reality of chemical conditions. An animal lives in the 
 
 These are not different primary worlds. They are different decoded realities.
 
-Therefore, reality does not become action directly. It enters a living contour as influence, becomes a signal, passes through the decoder, receives status, weight, and vector, after which it becomes choice, decision, and action.
+Therefore, reality does not become action directly. It enters a living contour as influence, becomes a signal, passes through the decoder, receives status, weight, and vector, and only then enters the field of choice, where choice may stabilize as decision and decision may be realized as action.
 
 **For a living contour, reality begins not where something exists in itself, but where that something has been decoded.**
 
