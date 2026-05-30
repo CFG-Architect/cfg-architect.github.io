@@ -110,7 +110,7 @@ But these later levels must not be projected back onto the fundamental level.
 
 Then it becomes clear: observation does not begin with consciousness. It begins with interaction, in which an impact leaves a fixed change of state. Consciousness, understanding, meaning, and subjecthood are not denials of observation; they are its more complex superstructures.
 
-The main conclusion:\
+## The main conclusion
 **an observer is not the one who understands. In the basic sense, an observer is that in which interaction is fixed as a change of state.**
 
 This is not a mystical thesis and not a claim that “everything is conscious.” On the contrary, it is a way to avoid confusion. A stone has no consciousness. A thermometer has no mind. A camera has no meaning of its own. But all of them can be carriers of fixed interaction.
