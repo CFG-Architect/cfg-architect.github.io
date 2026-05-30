@@ -28,8 +28,7 @@ This is the minimal basis of observation.
 In this basic scheme, there is no consciousness yet. No interpretation. No meaning. No “signal” as a separate node. No decoding of a signal. There is only interaction and change.
 
 From this follows the working definition:\
-**An observer is an object in which an impact is fixed as a change of state.**\
-*(There is an open question here: whether a change of state requires “memory” – but that belongs to another branch of inquiry.)*
+**An observer is an object in which an impact is fixed as a change of state.**
 
 Or, more briefly:\
 **an observer is a carrier of fixed interaction.**
@@ -56,12 +55,11 @@ That is:\
 **signal is an interpretive term;**\
 **information is the result of defining a change at the level of mind or an organized system.**
 
-The same applies to the decoding of signals. At the fundamental level, reality does not decode signals. Reality interacts. Decoding appears where there is already a code, a format, a rule of reading, an expected reconstruction, a language, a protocol, or an artificially defined correspondence.
+The same applies to the [decoding of signals](https://configism.com/articles/decoder-function/). At the fundamental level, reality does not decode signals. Reality interacts. Decoding appears where there is already a code, a format, a rule of reading, an expected reconstruction, a language, a protocol, or an artificially defined correspondence.
 
 A camera may have a decoder because a human created a format, a file, a codec, and a rule of reproduction. A computer may decode data because there is a defined standard. A human may “decode” text because they have language, memory, and mind. But granite does not decode sunlight. Water does not decode cold. Metal does not decode pressure. They interact, change, and fix a change of state.
 
-Therefore, decoding is not a fundamental process of observation. It is a later level that appears where mind, or a system created by mind, defines a change as code, sign, message, or information.\
-*(There is an open question here: what is a “decoder” at the level of the subject, and whether it is not a result of neuroprogramming – but that belongs to another branch of inquiry.)*
+Therefore, decoding is not a fundamental process of observation. It is a later level that appears where mind, or a system created by mind, defines a change as code, sign, message, or information.
 
 ## Levels of Observation
 This allows us to separate the levels without mixing them:
@@ -96,8 +94,7 @@ This is a more precise starting point.
 **Why this matters?**
 Because the concept of the “observer” is used across many fields: physics, cosmology, quantum mechanics, biology, philosophy of consciousness, information theory, artificial intelligence, and systems thinking. If different levels are already mixed inside the term itself, that mixing then enters discussions and models.
 
-One person speaks about physical interaction. Another speaks about a detector. A third speaks about a human. A fourth speaks about consciousness. A fifth speaks about interpretation of the result. All of them use the word “observer,” but they are actually speaking about different things.\
-*(There is an open question here: how the “Babylonian syndrome” affects the decoder – but that belongs to another branch of inquiry.)*
+One person speaks about physical interaction. Another speaks about a detector. A third speaks about a human. A fourth speaks about consciousness. A fifth speaks about interpretation of the result. All of them use the word “observer,” but they are actually speaking about different things.
 
 Because of this, some discussions about the observer look more complex than they actually are. Not because the problem is simple, but because the term immediately moves us across different levels: from stone to human, from detector to consciousness, from fixation to meaning.
 
@@ -121,7 +118,7 @@ This is not a mystical thesis and not a claim that “everything is conscious.�
 Therefore, the observer should not begin with eyes, brain, or subjecthood, but with the simplest level:\
 **interaction → impact → change of state → fixation of the change of state**
 
-Everything else – signal, decoding, information, meaning, interpretation, consciousness, subjecthood – should be treated as later levels of more complex systems, not as the foundation of observation itself.
+Everything else – signal, [decoding](https://configism.com/articles/decoder-function/), information, meaning, interpretation, consciousness, subjecthood – should be treated as later levels of more complex systems, not as the foundation of observation itself.
 
 *written in plain human language\
 *Published: 26 May 2026*
