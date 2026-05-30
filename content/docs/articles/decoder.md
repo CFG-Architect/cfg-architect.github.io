@@ -16,7 +16,7 @@ Before something becomes a fact, evidence, threat, resource, command, sin, law, 
 
 **This mechanism is the decoder.**
 
-The decoder does not merely recognize. The decoder assigns status to a signal, gives weight to that status, and opens a direction of execution. It turns what has been fixed into something significant — into a basis for choice, decision, and action.
+The decoder does not merely recognize. The decoder assigns status to a signal, gives weight to that status, and opens a direction of execution. It turns what has been fixed into something significant – into a basis for choice, decision, and action.
 
 **The decoder is a function of status-weight vectorization of reality.**
 
@@ -37,7 +37,7 @@ A [contour](https://configism.com/articles/primary-algorithm-of-life/) is an org
 
 A [living contour](https://configism.com/articles/primary-algorithm-of-life/) is a contour that does not merely have organization, but maintains it: it preserves the boundary between internal and external, regulates the passage of matter, energy, and influences, responds to threats to integrity, restores or restructures itself, and continues its own organization in time.
 
-[PAL — the Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/) — is the sequence of execution of a living contour. It is carried out through three basic directions: **preservation / continuation / scaling** of its own organization. The primary weights of PAL are **threat / non-threat**: a condition passes as something that supports or disrupts the preservation, continuation, or scaling of the living contour.
+[PAL – the Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/) – is the sequence of execution of a living contour. It is carried out through three basic directions: **preservation / continuation / scaling** of its own organization. The primary weights of PAL are **threat / non-threat**: a condition passes as something that supports or disrupts the preservation, continuation, or scaling of the living contour.
 
 The decoder always works within a particular contour. A signal has no universal status by itself. One and the same object is different for different contours and for different levels of decoding.
 
@@ -46,7 +46,7 @@ For a bacterium, it may be a chemical condition. For an animal, food or a threat
 **Status is always contour-bound. Weight is always contour-bound. Vector is always contour-bound.**
 
 ## Levels of the Decoder
-The decoder does not appear only at the level of thinking, language, or symbols. Its function begins earlier — at the level of living passage.
+The decoder does not appear only at the level of thinking, language, or symbols. Its function begins earlier – at the level of living passage.
 
 Where there is a living contour, there is already a need to distinguish a condition in relation to life: is it a threat or a non-threat, does it support passage or destroy it, does it lead to preservation, continuation, scaling, or to the loss of organization.
 
@@ -103,7 +103,7 @@ After the primary status, variability emerges.
 
 If a condition has received the status of threat, the living contour must decode not only that it is a threat, but also how exactly to pass through it. A threat may lead not to one action, but to different ways of passage: freeze, flee, attack, bypass, hide, conserve resources, restore, or change mode.
 
-**This is the second level of the decoder — the variational-functional level.**
+**This is the second level of the decoder – the variational-functional level.**
 
 It decodes not the boundary threat / non-threat itself, but the available ways of passing through that boundary.
 
