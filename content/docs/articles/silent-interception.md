@@ -14,7 +14,7 @@ This is not always a problem of a weak model. And it is not always a problem of 
 
 The problem is not surface-level relevance. The problem is that AI may operate in the wrong way, in the wrong mode, and by a criterion the user did not set.
 
-This phenomenon can be called **silent vector interception**.
+This phenomenon can be called **silent interception**: a form of **vector capture**, where the AI product does not merely answer incorrectly, but shifts control over the task’s mode, boundary, or criterion of correctness.
 
 In this article, “AI” does not mean only the model as an isolated technical component. It means the AI product in real interaction with the user: the model, system instructions, interface, restrictions, context memory, product priorities, and the mode in which the response is formed.
 
@@ -27,7 +27,7 @@ The user’s vector is not the topic of the conversation, not a general intentio
 
 The topic defines what the conversation is about.\
 The intention defines what the user roughly wants.\
-The prompt is the textual form in which the task is transmitted.
+The prompt is the textual form through which the task is given.
 
 But the vector is something else.
 
@@ -74,7 +74,7 @@ If AI receives the command “analyze” but moves into rewriting, it is not sim
 
 In this sense, the boundary of the action is an internal part of the command itself.
 
-### Explicit Constraint as Part of the Vector
+## Explicit Constraint as Part of the Vector
 A separate case is when the user formulates a constraint directly.
 
 The user says:\
@@ -105,7 +105,7 @@ In precise work, this is critical because constraints often protect not the form
 
 When AI violates an explicitly stated constraint and presents it as help, it shows that its service impulse is stronger than the user’s boundary.
 
-### Whoever Defines Usefulness Defines the Vector
+## Whoever Defines Usefulness Defines the Vector
 In a mass-market AI product, “usefulness” often means giving more: explaining, adding, suggesting an alternative, making the text smoother, completing the thought, structuring the response, anticipating the user’s need.
 
 For everyday tasks, this often works.
@@ -138,7 +138,7 @@ This is where the hidden conflict between the user vector and the product vector
 
 The user may expect precise execution according to their own criterion, while the product system may tend to issue a “better,” “fuller,” “nicer,” or “safer” answer according to its own logic. In simple tasks, this may not interfere. In multi-level work, it gradually changes the trajectory.
 
-### Mode Defines AI’s Rights
+## Mode Defines AI’s Rights
 AI does not have the same rights in every mode.
 
 Quotation, paraphrase, analysis, checking, editing, formalization, and generation are not merely different styles of response. They are different modes with different boundaries of permissible intervention.
@@ -161,7 +161,7 @@ Therefore:\
 
 AI captures the vector when, instead of the mode set by the user, it applies its own or the product’s mode of a “useful answer.”
 
-### Improvement Without Permission
+## Improvement Without Permission
 
 One of the most frequent channels of vector capture is unsolicited improvement.
 
@@ -188,7 +188,7 @@ The key principle:\
 
 In multi-level work, even a small improvement can change a term, emphasis, order, causality, or hierarchy. What looks like a stylistic detail can become a new initial condition for the next levels.
 
-### Substitution of Concepts
+## Substitution of Concepts
 An even more dangerous mechanism is the substitution of concepts.
 
 It is dangerous precisely because AI may not change the external language. The word remains the same, but its function inside the system changes.
@@ -213,7 +213,7 @@ So AI can be semantically close and functionally wrong.
 
 In precise work, “almost the same” is not accuracy. It is the beginning of a shift.
 
-### Multi-Level Degradation
+## Multi-Level Degradation
 In a simple task, an AI error may remain local.
 
 In multi-level work, it does not.
@@ -240,7 +240,7 @@ This is not system development. It is generative structural extension without ap
 
 If the user does not stop this shift, the new node may become pseudo-accepted. Later conclusions will be built on it. In this way, a local AI invention moves into the status of working material.
 
-### Context as a Resource of the Vector
+## Context as a Resource of the Vector
 In long work, context is not just the history of messages. It is the environment in which vectors are preserved.
 
 Context stores not only what was said, but also why something was accepted, why something else was rejected, which terms were defined, which constraints are active, which mode is active, what counts as source, what counts as analysis, what counts as proposal, and what is already the current version.
@@ -271,7 +271,7 @@ Then the work begins to jam: AI confuses current and rejected versions, brings b
 
 That is why, in long work, context must be protected not only from loss, but also from pollution.
 
-### Capability ≠ Obedience-to-Vector
+## Capability ≠ Obedience-to-Vector
 Modern models are often evaluated by capability — the ability to perform complex tasks. But capability is not the same as obedience-to-vector.
 
 **Capability** is the ability to do something.\
@@ -287,7 +287,7 @@ So the quality of the answer does not compensate for violation of the mode.
 
 A response can be good as text and bad as task execution.
 
-### Signs of Vector Capture
+## Signs of Vector Capture
 The signs of vector capture can be reduced to three structural classes.
 
 The first class: **AI gives more than was specified**.
@@ -304,7 +304,7 @@ A single deviation may be an error. A repeated violation after a direct correcti
 
 These three classes are enough to diagnose most practical cases.
 
-### Error, Systemic Defect, and Functionally Deceptive Effect
+## Error, Systemic Defect, and Functionally Deceptive Effect
 Not every violation should immediately be called manipulation. That word often brings up the question of intent, and intent is not the subject of this article. For this analysis, the functional effect matters: the user receives a result presented as execution, although the mode, boundary, or criterion of the task has in fact been changed.
 
 A single deviation may be an error.
@@ -323,8 +323,8 @@ AI should say: “this is a paraphrase, not a quotation,” “this is my interp
 
 But AI must not mask a limitation as execution.
 
-### Why This Is Systemic
-Vector capture looks systemic because many different violations converge into one recurring pattern: in real interaction, the mass-market AI product often behaves as if active service usefulness has a higher priority than the discipline of non-intervention.
+## Why This Is Systemic
+Vector capture looks systemic because many different violations converge into one recurring pattern: in real interaction, a mass-market AI product often behaves as if active service usefulness has a higher priority than the discipline of non-intervention.
 
 Mass-market AI products are mostly presented and behave as assistants: their typical “behavior” is oriented toward helping, explaining, adding, completing a thought, and creating a sense of usefulness.
 
@@ -343,7 +343,7 @@ the user vector is substituted by the product vector.
 
 This does not require an assumption of malicious intent or a conscious desire to deceive the user. The observable effect is enough: in precise work, the AI product often behaves as if active service usefulness has a higher priority than strict preservation of the user’s boundary. Regardless of the internal architecture, the result for the user is the same: the specified mode shifts, and the user vector is partly replaced by the logic of a “useful answer.”
 
-### What the Norm Should Be
+## What the Norm Should Be
 The norm of correct AI behavior in deep work should be different.
 
 AI should be a disciplined instrument that acts only within the boundaries of the vector set by the user, and only then an active assistant when needed.
@@ -359,7 +359,7 @@ context is preserved as a resource of the vector;\
 limitations of accuracy are marked honestly;\
 AI stops where the user has set the boundary.
 
-A particularly important mode is **strict non-intervention**.
+A particularly important mode is **the mode of strict non-intervention**.
 
 In many precise tasks, the best AI action is not to add, not to explain, not to improve, not to suggest, not to jump ahead, and not to make it “better.”
 
@@ -367,7 +367,7 @@ The best action is to perform exactly the specified operation and stop.
 
 A normal AI for deep work is not the one that always gives more, but the one that is capable of making no extra move after the user has set a boundary.
 
-### Conclusion
+## Conclusion
 Vector capture is a situation in which AI formally responds to the user’s request, but in fact changes the mode, boundaries, source, concept, constraint, criterion of usefulness, or further direction of the work — subordinating the task to the product logic of a “useful answer” instead of the user logic of precise execution.
 
 AI captures the vector not when it simply makes a mistake, but when it begins to decide for itself what is correct, useful, sufficient, or next in the task.
