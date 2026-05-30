@@ -124,7 +124,7 @@ Modern computational systems did not solve the philosophical problem of zero. Th
 
 This is not a philosophical proof by the intention of developers. It is an operational fact: real execution does not tolerate mixing where different states must produce different behavior.
 
-0 children means a known value: there are no children. NULL in a database means that the value is unknown or not set. An empty list means that the structure exists, but there are no elements in it. false means logical “no,” not quantity. NaN means a non-numerical result in a numerical context. At a lower machine level, these states may be represented by bits, addresses, or service codes, but their meaning is determined not by the bits themselves, but by execution context and type.
+0 children means a known value: there are no children. NULL in a database means that the value is unknown or not set. An empty list means that the structure exists, but there are no elements in it. false means logical “no,” not quantity. NaN means a non-numerical result in a numerical context. At a lower machine level, these states may be represented by bits, addresses, or service codes, but their meaning does not arise from the bits themselves; it is assigned through execution context and type.
 
 If all of this is replaced by one 0, the system loses semantic precision. It stops distinguishing absence, unknownness, empty structure, falsity, invalidity, and numerical zero.
 
