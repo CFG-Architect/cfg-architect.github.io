@@ -70,7 +70,7 @@ At the minimal level, a living contour does not require morality, language, thou
 **Threat** is what lowers the possibility of preserving, continuing, or scaling one’s own organization.\
 **Non-threat** is what does not lower this possibility or can be included in the execution of PAL.
 
-This is not a psychological evaluation. A cell does not need to “fear”, “understand”, or “think”. At this level, threat / non-threat is a functional weight of process-passage. It determines whether a certain impact, state, or transition is compatible with the continuation of the organization of a living contour.
+This is not a psychological evaluation. A cell does not need to “fear”, “understand”, or “think”. At this level, threat / non-threat is a functional weight of process-passage. It establishes whether a certain impact, state, or transition is compatible with the continuation of the organization of a living contour.
 
 The word “weights” is used deliberately here. Threat / non-threat is not a simple binary filter. A living contour does not merely classify an impact as “pass” or “block”. It passes through intensity, time, context, previous state, and possible modes of execution.
 
