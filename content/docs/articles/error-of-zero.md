@@ -24,7 +24,7 @@ The error of zero is not that a formal system cannot introduce zero as an elemen
 ## Number and absence
 In formal mathematics, a number can be defined in different ways: as an element of an axiomatic structure, as an object in set theory, as a position in a system of relations, or as the result of construction within a set of rules. Therefore, the question is not whether a formal system can give zero the status of an element. It can.
 
-But this article examines another level: what happens when formally introduced zero moves into the mode of counting, language, education, everyday perception, and the decoder of reality. In this transition, one sign begins to compress different statuses: empty place, absence of remainder, boundary, origin, neutral element, and number. This compression, not the internal construction of zero in axioms, is the subject of the critique.
+But this article examines another level: what happens when formally introduced zero moves into the mode of counting, language, education, everyday perception, and the [decoder of reality](https://configism.com/articles/decoder-function/). In this transition, one sign begins to compress different statuses: empty place, absence of remainder, boundary, origin, neutral element, and number. This compression, not the internal construction of zero in axioms, is the subject of the critique.
 
 A simple example with stones does not prove that formal zero is impossible. It shows something else: the difference between an operational notation and the status of what this notation denotes. If there are five stones on a table, and then all five are removed, no new thing called “zero” appears in experience. What is fixed is the absence of remainder. A formal system can record this state as 0, but the notation itself does not remove the difference between a numerical element and the absence of remainder.
 
@@ -89,7 +89,7 @@ When a child is taught the sequence 0, 1, 2, 3, zero stops looking like a specia
 
 Thus different statuses merge into one obviousness. The child learns not only a sign. The child learns a way of reading in which absence has a place in the numerical sequence.
 
-By decoder, this text does not mean an organ, but a formed way of reading a sign as value. When 0 is taught as a number, absence begins to be read not as absence, but as an element of numerical order.
+By [decoder](https://configism.com/articles/decoder-function/), this text does not mean an organ, but a formed way of reading a sign as value. When 0 is taught as a number, absence begins to be read not as absence, but as an element of numerical order.
 
 This does not make education the source of the error. Education mass-transmits an already formed civilizational compression. But school makes it early, stable, and almost invisible. Later, this way of reading moves into algebra, geometry, physics, economics, programming, statistics, and everyday language.
 
@@ -156,7 +156,7 @@ Formal mathematics can introduce zero as a number, a base element, or the empty 
 
 As long as these statuses remain fused at the basic level of teaching, language, and perception, human logic continues to read absence as a present element of reality. This is why the error remains fundamental even when separate disciplines already have local means of limiting it.
 
-The fundamentality of the error of zero is much deeper and broader than it may seem. Zero as a number did not merely change the way operations are written; it changed the way absence is read. When absence receives a place in the sequence of what is present, the subject begins to perceive boundary, lack, completion, emptiness, and presence itself differently. This already moves beyond mathematics and enters the psychological structure of perception and the decoder of reality – the level of the problem that is separately opened through the “Babylonian syndrome.” But that level requires a separate article. Here it is enough to fix the main point: the error of zero does not end in arithmetic; it only begins there.
+The fundamentality of the error of zero is much deeper and broader than it may seem. Zero as a number did not merely change the way operations are written; it changed the way absence is read. When absence receives a place in the sequence of what is present, the subject begins to perceive boundary, lack, completion, emptiness, and presence itself differently. This already moves beyond mathematics and enters the psychological structure of perception and the [decoder of reality](https://configism.com/articles/decoder-function/) – the level of the problem that is separately opened through the “Babylonian syndrome.” But that level requires a separate article. Here it is enough to fix the main point: the error of zero does not end in arithmetic; it only begins there.
 
 *written in plain human language\
 *Published: 28 May 2026*
