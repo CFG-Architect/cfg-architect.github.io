@@ -1,13 +1,13 @@
 ---
-title: "Decoder: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice | Configism"
-description: "Decoder: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice. The decoder is the function through which an influence becomes status, weight, and vector, opening the field of choice between reality, decision, and action."
-linkTitle: "Decoder"
+title: "The Decoder Function: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice | Configism"
+description: "The Decoder Function: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice. The decoder is the function through which an influence becomes status, weight, and vector, opening the field of choice between reality, decision, and action."
+linkTitle: "The Decoder Function"
 type: docs
-url: "/articles/decoder/"
+url: "/articles/decoder-function/"
 weight: 50
 date: "2026-05-30"
 ---
-# Decoder: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
+# The Decoder Function: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
 The world does not begin for a living or subject-level contour as a set of ready-made facts.
 
 There are influences, changes, traces, repetitions, boundaries, relations, states, and interactions in the world. But a fact does not lie in the world as a primary unit. A fact emerges when something fixed receives a stabilized status within a particular contour.
