@@ -33,11 +33,11 @@ A signal emerges when an influence enters a contour through its sensory apparatu
 But a signal is not yet meaning. It is not yet a fact, threat, resource, command, evidence, or law. A signal becomes significant only when it passes through a decoder.
 
 ## Contour, Living Contour, and PAL
-A (contour)[https://configism.com/articles/primary-algorithm-of-life/] is an organized integrity separated from its environment, in which states, relations, and processes do not fall apart into isolated events, but are held as a connected structure. A contour has a boundary, internal connectedness, passage of changes, and its own way of conducting them.
+A [contour](https://configism.com/articles/primary-algorithm-of-life/) is an organized integrity separated from its environment, in which states, relations, and processes do not fall apart into isolated events, but are held as a connected structure. A contour has a boundary, internal connectedness, passage of changes, and its own way of conducting them.
 
-A (living contour)[https://configism.com/articles/primary-algorithm-of-life/] is a contour that does not merely have organization, but maintains it: it preserves the boundary between internal and external, regulates the passage of matter, energy, and influences, responds to threats to integrity, restores or restructures itself, and continues its own organization in time.
+A [living contour](https://configism.com/articles/primary-algorithm-of-life/) is a contour that does not merely have organization, but maintains it: it preserves the boundary between internal and external, regulates the passage of matter, energy, and influences, responds to threats to integrity, restores or restructures itself, and continues its own organization in time.
 
-(PAL — the Primary Algorithm of Life)[https://configism.com/articles/primary-algorithm-of-life/] — is the sequence of execution of a living contour. It is carried out through three basic directions: **preservation / continuation / scaling** of its own organization. The primary weights of PAL are **threat / non-threat**: a condition passes as something that supports or disrupts the preservation, continuation, or scaling of the living contour.
+[PAL — the Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/) — is the sequence of execution of a living contour. It is carried out through three basic directions: **preservation / continuation / scaling** of its own organization. The primary weights of PAL are **threat / non-threat**: a condition passes as something that supports or disrupts the preservation, continuation, or scaling of the living contour.
 
 The decoder always works within a particular contour. A signal has no universal status by itself. One and the same object is different for different contours and for different levels of decoding.
 
