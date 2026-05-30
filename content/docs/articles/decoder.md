@@ -20,7 +20,7 @@ The decoder does not merely recognize. The decoder assigns status to a signal, g
 
 **The decoder is a function of status-weight vectorization of reality.**
 
-In other words: the decoder establishes **what this is for the system, how much it weighs, and where it must lead.**
+In other words: the decoder establishes **what this is for the system, how much it weighs, and where it directs further passage.**
 
 This triad is minimal because decoding has to perform three necessary operations. First, the signal must receive a status: what it is for this contour. Then the status must receive weight: how significant it is in this state and under these conditions. After that, the weight must open a vector: where it directs further passage. Without status, the signal is not defined. Without weight, it has no significance or priority. Without a vector, it does not enter the field of choice, decision, and action. Therefore, status, weight, and vector are not an arbitrary list, but the minimal structure of decoding: status defines, weight ranks, vector directs.
 
@@ -80,7 +80,7 @@ Fixation, reaction, chemical change, choice, decision, action, and thinking are 
 
 The decoder is present where a signal or condition receives status, weight, and vector for a particular contour.
 
-Everything that does not involve status assignment is not a decoder. It may be a physical influence, reaction, chemical change, fixation, decision, or action. But the decoding function begins where a contour establishes what this is for it, how much it weighs, and where it must lead.
+Everything that does not involve status assignment is not a decoder. It may be a physical influence, reaction, chemical change, fixation, decision, or action. But the decoding function begins where a contour establishes what this is for it, how much it weighs, and where it directs further passage.
 
 ### PAL and the Functional Decoder
 PAL is not a separate decoding mechanism beside life. PAL is the Primary Algorithm of Life, which sets the axis of living execution: preservation / continuation / scaling.
@@ -115,7 +115,7 @@ Freezing receives the status of effective or ineffective.
 
 A signal to the group receives the status of necessary, dangerous, or unnecessary.
 
-Thus, **secondary choice** does not merely “come after PAL.” It works as the variational-functional level of decoding: it selects which variants of passage have status, weight, and direction under specific conditions.
+Thus, **secondary choice** does not merely “come after PAL.” It works as the variational-functional level of decoding: it opens the available variants of passage that receive status, weight, and direction under specific conditions.
 
 A cell changes movement. A plant changes the direction of growth. An organism shifts into a mode of defense, rest, energy conservation, or active search. An animal freezes, flees, or attacks. A human freezes, avoids, attacks, hides, seeks support, inhibits action, or changes the mode of passage before any conscious explanation.
 
@@ -147,7 +147,7 @@ Weight is not equal to vector. A high-weight threat does not automatically produ
 
 Weight says how significant this is. Vector says where it leads.
 
-The decoder does not only define what this is. It assigns how much it weighs and where it must lead.
+The decoder does not only define what this is. It assigns weight and opens the direction of further passage.
 
 ### Choice, Decision, and Action
 At the pre-conscious level, choice works as an instrument of passage for status, weight, and vector.
@@ -299,7 +299,7 @@ Between influence and action, there is passage. In this passage, what has been f
 
 Choice in this chain is not a mechanical consequence of the signal and is not the decoder itself. Primary choice fixes the basic boundary of living passage: threat / non-threat. Secondary choice works after this boundary and opens the variability of passage: which of the available vectors becomes relevant under specific conditions. Therefore, the **decoder does not determine choice**, but forms the field of choice: it gives the signal status, weight, and vector, from which choice may stabilize as decision.
 
-At the PAL level, a condition receives the primary status threat / non-threat. The variational-functional level selects the way of passing through this boundary. The subject-level, social, and symbolic levels reassign the signal in relation to experience, group, and a system of signs. Artificial systems perform derivative decoding through their own systems of correspondences, models, classification, evaluation, ranking, or blocking.
+At the PAL level, a condition receives the primary status threat / non-threat. The variational-functional level opens the available ways of passing through this boundary. The subject-level, social, and symbolic levels reassign the signal in relation to experience, group, and a system of signs. Artificial systems perform derivative decoding through their own systems of correspondences, models, classification, evaluation, ranking, or blocking.
 
 A fact is not the beginning. A fact is a stabilized status.
 
