@@ -124,5 +124,8 @@ Therefore, the observer should not begin with eyes, brain, or subjecthood, but w
 
 Everything else – signal, [decoding](https://configism.com/articles/decoder-function/), information, meaning, interpretation, consciousness, subjecthood – should be treated as later levels of more complex systems, not as the foundation of observation itself.
 
-*written in plain human language\
-*Published: 26 May 2026*
+---
+
+### change log
+
+- **v1.0** · 2026-05-26 — Initial public version.
