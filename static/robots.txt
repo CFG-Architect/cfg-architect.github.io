@@ -4,14 +4,20 @@ Disallow: /404.html
 Disallow: /categories/
 Disallow: /tags/
 
-# OpenAI: allow search, block training
+# OpenAI: allow ChatGPT search and user-requested access, block training
 User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
 Allow: /
 
 User-agent: GPTBot
 Disallow: /
 
-# Anthropic: allow search/user retrieval, block training
+# Anthropic: allow Claude user/search access, block training
+User-agent: Claude-User
+Allow: /
+
 User-agent: Claude-SearchBot
 Allow: /
 
@@ -24,28 +30,65 @@ Disallow: /
 User-agent: Claude-Web
 Disallow: /
 
-# Google: allow Google Search, block Gemini training/grounding token
+# Perplexity: allow search and user-requested access
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Mistral: allow user-requested access and indexing
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: MistralAI-Index
+Allow: /
+
+# Google: allow Search and Gemini grounding
 User-agent: Googlebot
 Allow: /
 
 User-agent: Google-Extended
+Allow: /
+
+User-agent: Google-CloudVertexBot
 Disallow: /
 
-# Apple: allow search, block AI training
+# Apple: allow search, block foundation-model training opt-in token
 User-agent: Applebot
 Allow: /
 
 User-agent: Applebot-Extended
 Disallow: /
 
-# Common training/data crawlers
+# Microsoft / Bing
+User-agent: Bingbot
+Allow: /
+
+# AI/data crawlers to block
 User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
 Disallow: /
 
 User-agent: Meta-ExternalAgent
 Disallow: /
 
-User-agent: Bytespider
+User-agent: FacebookBot
 Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: TikTokSpider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+# Meta user-fetcher: allow user-requested retrieval
+User-agent: Meta-ExternalFetcher
+Allow: /
 
 Sitemap: https://configism.com/sitemap.xml
