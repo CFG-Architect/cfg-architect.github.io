@@ -5,10 +5,11 @@ linkTitle: "Fundamental Error of Zero"
 type: docs
 url: "/articles/error-of-zero/"
 weight: 40
-date: "2026-05-28"
-lastmod: "2026-05-31"
+mode: "Plain Human Language"
 version: "v1.0"
 status: "Current"
+date: "2026-05-28"
+lastmod: "2026-05-31"
 ---
 # The Fundamental Error of Zero
 ## How absence became a number
