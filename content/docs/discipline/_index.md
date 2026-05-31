@@ -5,7 +5,7 @@ linkTitle: "Discipline"
 type: docs
 url: "/discipline/"
 bookCollapseSection: true
-weight: 15
+weight: 30
 ---
 # Discipline
 Discipline is the canonical operational layer of Configism and Configurational Logic.
