@@ -5,7 +5,7 @@ linkTitle: "Logic"
 type: docs
 url: "/logic/"
 bookCollapseSection: true
-weight: 15
+weight: 20
 ---
 # Logic
 Logic is the layer between Core and Discipline.
