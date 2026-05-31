@@ -33,5 +33,8 @@ A stable solution is possible only at the level of another type of logic core �
 
 It depends on humanity’s readiness to accept another level of logic as the foundation for decision-making systems – especially those that begin to make or mediate subject-level decisions.
 
-*written in plain human language\
-*Published: 21 May 2026*
+---
+
+### change log
+
+- **v1.0** · 2026-05-21 — Initial public version.
