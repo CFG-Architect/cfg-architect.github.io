@@ -31,7 +31,7 @@ The problem is not only that the user cannot reliably evaluate the answer. The p
 
 Degraded feedback does not end at the moment of the answer. If the user does not recognize the degradation, it becomes the basis for the next steps and embeds an error into the subsequent work. If the user does recognize it, the work still loses its direct course: instead of continuing the task, the user must repair the degraded node, clean the context, and restore the vector.
 
-That is why Silent Degradation damages not only a single answer, but the process of interaction itself. It either silently carries the error forward, or creates a **contextual debt** — the need to spend the next steps not on continuing the task, but on correcting the degraded node, cleaning the context, and restoring the working vector.
+That is why Silent Degradation damages not only a single answer, but the process of interaction itself. It either silently carries the error forward, or creates a **contextual debt** – the need to spend the next steps not on continuing the task, but on correcting the degraded node, cleaning the context, and restoring the working vector.
 
 This article is not a statistical study of all AI systems in general. It is an analytical formalization of a recurring pattern that appears during precise and sustained work with AI.
 
@@ -41,8 +41,8 @@ A fast answer is not degradation in itself. For a simple task, a simple answer i
 The problem does not arise because of speed as such. The problem arises when the system’s activated depth does not correspond to the depth required by the task.
 
 This requires a basic distinction:\
-**task-required depth** — the depth required by the task;\
-**system-activated depth** — the depth actually activated by the system.
+**task-required depth** – the depth required by the task;\
+**system-activated depth** – the depth actually activated by the system.
 
 Silent Degradation is the mismatch between them. If the task is simple, a lower activated depth may be sufficient. If the task is complex, the same trajectory may produce an error even if the answer sounds reasonable.
 
@@ -195,4 +195,4 @@ Silent Degradation is also directly connected to the problem of [Silent Intercep
 
 ### change log
 
-- **v1.0** · 2026-05-31 — Initial public version.
+- **v1.0** · 2026-05-31 – Initial public version.
