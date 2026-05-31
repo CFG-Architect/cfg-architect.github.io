@@ -1,6 +1,6 @@
 ---
 title: "The Decoder Function: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice | Configism"
-description: "The Decoder Function: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice. The decoder is the function through which an influence becomes status, weight, and vector, opening the field of choice between reality, decision, and action."
+description: "The decoder is the function through which an influence becomes status, weight, and vector, opening the field of choice between reality, decision, and action."
 linkTitle: "Reality Decoder"
 type: docs
 url: "/articles/decoder-function/"
