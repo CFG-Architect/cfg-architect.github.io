@@ -400,4 +400,4 @@ The problem is whether the user has a guarantee that this strength will be subor
 ### change log
 
 - **v1.0** · 2026-05-30 – Initial public version.
-- **v1.1** · 2026-06-31 – Strengthened the conceptual frame of Silent Interception, clarified its distinction from Silent Degradation, added the cascade effect between both failure modes, and refined the diagnostic structure around mode shift, boundary violation, and status substitution.
+- **v1.1** · 2026-06-01 – Strengthened the conceptual frame of Silent Interception, clarified its distinction from Silent Degradation, added the cascade effect between both failure modes, and refined the diagnostic structure around mode shift, boundary violation, and status substitution.
