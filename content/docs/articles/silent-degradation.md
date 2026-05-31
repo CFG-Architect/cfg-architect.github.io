@@ -1,5 +1,5 @@
 ---
-title: "Silent Degradation: When AI Answers Preserve Competence but Lose Depth  | Configism"
+title: "Silent Degradation: When AI Answers Look Competent but Lose Depth  | Configism"
 description: "Silent Degradation is the hidden loss of depth in AI answers: a response may look competent, structured, and relevant while being produced below the level required by the task. The article formalizes this mismatch between task complexity, activated processing, and output form, showing how degraded feedback can create context debt, reinforce Silent Interception, and become part of a wider systemic loop."
 linkTitle: "Silent Degradation"
 type: docs
@@ -11,7 +11,7 @@ status: "Current"
 date: "2026-05-31"
 lastmod: "2026-05-31"
 ---
-# Silent Degradation: When AI Answers Preserve Competence but Lose Depth 
+# Silent Degradation: When AI Answers Look Competent but Lose Depth 
 ---
 **Silent Degradation is the hidden loss of processing depth in an AI answer, when a complex task is handled at a lower level than it requires, while the final text preserves the external form of competence.**
 
