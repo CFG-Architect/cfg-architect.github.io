@@ -1,7 +1,7 @@
 ---
 title: "Silent Interception: When AI Changes the User’s Vector  | Configism"
 description: "AI can answer on topic while silently changing the user’s mode, boundaries, and criteria. This article analyzes how vector capture happens in precise AI work."
-linkTitle: "Silent Interception of AI"
+linkTitle: "Silent Interception"
 type: docs
 url: "/articles/silent-interception/"
 weight: 60
@@ -11,7 +11,8 @@ status: "Current"
 date: "2026-05-30"
 lastmod: "2026-05-31"
 ---
-# Silent Interception: When AI Changes the User’s Vector 
+# Silent Interception: When AI Changes the User’s Vector
+---
 Modern AI can respond on topic, sound logical, produce structured and even useful text — while still violating the mode of work, constraints, terms, sources, boundaries, or criteria of correctness set by the user.
 
 This is not always a problem of a weak model. And it is not always a problem of “hallucination.” On the contrary: a strong model can produce a high-quality, consistent, persuasive response that looks relevant on the surface, while in fact unfolding outside the user’s vector.
