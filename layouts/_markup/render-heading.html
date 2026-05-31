@@ -1,6 +1,18 @@
-<h{{ .Level }} id="{{ .Anchor }}" {{- with .Attributes.class -}}class="{{ . }}"{{- end -}}>
+{{- $level := .Level -}}
+
+<h{{ $level }} id="{{ .Anchor }}"{{ with .Attributes.class }} class="{{ . }}"{{ end }}>
   {{- .Text -}}
   {{- if default true .Attributes.anchor -}}
-  <a class="anchor" href="#{{ .Anchor }}">#</a>
+    <a class="anchor" href="#{{ .Anchor }}">#</a>
   {{- end -}}
-</h{{ .Level }}>
+</h{{ $level }}>
+
+{{- if and (eq $level 1) .Page.Params.mode -}}
+<div class="article-meta">
+  <span><strong>Mode:</strong> {{ .Page.Params.mode }}</span>
+  {{- with .Page.Params.version }}<span> · <strong>version:</strong> {{ . }}</span>{{ end -}}
+  {{- with .Page.Params.status }}<span> · <strong>status:</strong> {{ . }}</span>{{ end -}}
+  {{- if not .Page.Date.IsZero }}<span> · <strong>date:</strong> {{ .Page.Date.Format "2006-01-02" }}</span>{{ end -}}
+  {{- if .Page.Params.lastmod }}<span> · <strong>lastmod:</strong> {{ .Page.Lastmod.Format "2006-01-02" }}</span>{{ end -}}
+</div>
+{{- end -}}
