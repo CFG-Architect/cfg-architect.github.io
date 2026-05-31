@@ -12,6 +12,7 @@ date: "2026-05-28"
 lastmod: "2026-05-31"
 ---
 # The Fundamental Error of Zero
+---
 ## How absence became a number
 Zero is an error not because the sign 0 appeared. A sign for an empty place was necessary for positional notation. The error lies elsewhere: absence received the status of a number.
 
@@ -166,4 +167,4 @@ The fundamentality of the error of zero is much deeper and broader than it may s
 
 ### change log
 
-- **v1.0** · 2026-05-28 — Initial public version.
+- **v1.0** · 2026-05-28 – Initial public version.
