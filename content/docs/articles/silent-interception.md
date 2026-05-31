@@ -6,6 +6,9 @@ type: docs
 url: "/articles/silent-interception/"
 weight: 60
 date: "2026-05-30"
+lastmod: "2026-05-31"
+version: "v1.0"
+status: "Current"
 ---
 # Silent Interception: When AI Changes the User’s Vector 
 Modern AI can respond on topic, sound logical, produce structured and even useful text — while still violating the mode of work, constraints, terms, sources, boundaries, or criteria of correctness set by the user.
