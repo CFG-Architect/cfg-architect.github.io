@@ -5,10 +5,11 @@ linkTitle: "Reality Decoder"
 type: docs
 url: "/articles/decoder-function/"
 weight: 50
-date: "2026-05-30"
-lastmod: "2026-05-31"
+mode: "Plain Human Language"
 version: "v1.0"
 status: "Current"
+date: "2026-05-30"
+lastmod: "2026-05-31"
 ---
 # The Decoder Function: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
 The world does not begin for a living or subject-level contour as a set of ready-made facts.
