@@ -327,5 +327,8 @@ Therefore, reality does not become action directly. It enters a living contour a
 
 **For a living contour, reality begins not where something exists in itself, but where that something has been decoded.**
 
-*written in plain human language\
-*Published: 30 May 2026*
+---
+
+### change log
+
+- **v1.0** · 2026-05-30 — Initial public version.
