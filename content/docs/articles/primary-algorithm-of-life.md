@@ -186,5 +186,8 @@ The living transitions between modes of the SF-sequence through primary choice, 
 
 That is why error is not a fundamental concept at this level. More fundamental is the choice of mode of execution. What from the position of the previous pattern looks like a deviation may, from the position of PAL, be a transition to another trajectory of preserving, continuing, or scaling organization.
 
-*written in plain human language\
-*Published: 27 May 2026*
+---
+
+### change log
+
+- **v1.0** · 2026-05-27 — Initial public version.
