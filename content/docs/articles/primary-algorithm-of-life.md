@@ -5,10 +5,11 @@ linkTitle: "Primary Algorithm of Life"
 type: docs
 url: "/articles/primary-algorithm-of-life/"
 weight: 30
-date: "2026-05-27"
-lastmod: "2026-05-31"
+mode: "Plain Human Language"
 version: "v1.0"
 status: "Current"
+date: "2026-05-27"
+lastmod: "2026-05-31"
 ---
 # The Primary Algorithm of Life: From State-Fixation to Primary Choice
 In the article [The Observer Problem](https://configism.com/articles/observer-problem/), we considered observation not as an act of consciousness, but as a basic sequence: interaction, impact, change of state, and fixation of that change. At the lowest level, observation does not yet require mind, language, interpretation, or a subject. It is enough that an impact leaves a state-difference within a carrier.
