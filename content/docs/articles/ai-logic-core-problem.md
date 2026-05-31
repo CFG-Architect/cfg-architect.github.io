@@ -5,10 +5,11 @@ linkTitle: "AI Logic Core Problem"
 type: docs
 url: "/articles/ai-logic-core-problem/"
 weight: 10
-date: "2026-05-21"
-lastmod: "2026-05-31"
+mode: "Plain Human Language"
 version: "v1.0"
 status: "Current"
+date: "2026-05-21"
+lastmod: "2026-05-31"
 ---
 
 # The Problem of AI Logic Core
