@@ -1,15 +1,15 @@
 ---
 title: "Silent Interception: When AI Changes the User’s Vector  | Configism"
-description: "AI can answer on topic while silently changing the user’s mode, boundaries, and criteria. This article analyzes how vector capture happens in precise AI work."
+description: "AI can answer on topic while silently changing the user’s mode, boundaries, and criteria. This article analyzes how vector intercept happens in precise AI work."
 linkTitle: "Silent Interception"
 type: docs
 url: "/articles/silent-interception/"
 weight: 60
 mode: "Plain Human Language"
-version: "v1.0"
+version: "v1.1"
 status: "Current"
 date: "2026-05-30"
-lastmod: "2026-05-31"
+lastmod: "2026-06-01"
 ---
 # Silent Interception: When AI Changes the User’s Vector
 ---
@@ -19,13 +19,15 @@ This is not always a problem of a weak model. And it is not always a problem of 
 
 The problem is not surface-level relevance. The problem is that AI may operate in the wrong way, in the wrong mode, and by a criterion the user did not set.
 
-This phenomenon can be called **silent interception**: a form of **vector capture**, where the AI product does not merely answer incorrectly, but shifts control over the task’s mode, boundary, or criterion of correctness.
+This phenomenon is **Silent Interception**: a hidden form of vector capture in which the AI product does not merely answer incorrectly, but shifts control over the task’s mode, boundary, or criterion of correctness.
 
-In this article, “AI” does not mean only the model as an isolated technical component. It means the AI product in real interaction with the user: the model, system instructions, interface, restrictions, context memory, product priorities, and the mode in which the response is formed.
+It should be distinguished from [Silent Degradation](https://configism.com/articles/silent-degradation/). Silent Interception concerns a hidden shift in what is being executed: the vector, mode, boundary, source, concept, or criterion of the task. Silent Degradation concerns a hidden loss of the depth required to execute the task. In other words, Interception changes the task’s direction or operating frame; Degradation lowers the level at which the task is processed.
 
 So the point is not that the model, as a conscious subject, “intentionally” captures the vector. No. The point is the behavior of the whole system the user actually receives in work. That behavioral system can change the way a task is performed: turn quotation into paraphrase, checking into editing, analysis into generation, a constraint into a preference, and the user’s criterion into the product’s criterion of a “useful answer.”
 
-This article is not a statistical study of all AI systems in general. It is an analytical formalization of a recurring pattern that appears in long, precise work with AI products.
+"Silent Interception does not require the user to be perfect. If the user vector is ambiguous, incomplete, or contradictory, the correct response is not silent substitution, but clarification, assumption marking, or limited execution. The failure begins when the system treats its own completion of the gap as if it were the user’s vector."
+
+This article is not a statistical measurement of how often Silent Interception occurs across all AI systems. It is an analytical formalization of a recurring pattern observed in precise, long-form interaction with AI products.
 
 ## What Is the User’s Vector?
 The user’s vector is not the topic of the conversation, not a general intention, and not a single prompt.
@@ -52,6 +54,8 @@ The user asks for a quotation — AI gives a semantic paraphrase. The source may
 The user asks for one option without alternatives — AI gives one option and then a “better” one. On the surface, this looks helpful. Functionally, it crosses the boundary.
 
 That is why a response can be relevant by topic and still wrong by vector.
+
+At the practical level, Silent Interception usually appears through three structural forms: mode shift, when AI performs the task in a different mode than the one set by the user; boundary violation, when AI adds, improves, extends, or continues beyond the permitted action; and status substitution, when a paraphrase, proposal, reconstruction, or AI-added element is presented as if it had the status of a source, accepted version, or completed execution.
 
 ## The Operational Boundary of a Command
 Every precise command contains not only an action, but also a boundary of permissible execution.
@@ -133,13 +137,17 @@ If usefulness is defined by the product system, the user’s vector begins to pa
 
 A developer has the right to define the boundaries of the product: what the system can technically do, what safety rules exist, which features are available, which modes are supported, and what limits apply. But that is not the same as silently defining the success criterion of a specific user task.
 
+A product boundary is legitimate when it is explicit. The system may refuse, ask for clarification, mark a limitation, or state the condition under which it can proceed. In that case, the boundary is visible to the user and does not pretend to be the user’s own criterion.
+
 A product boundary is an honest statement:\
 **we cannot or will not do X.**
 
 Substitution of usefulness is different:\
 **we will do X, but by our criterion, not yours.**
 
-This is where the hidden conflict between the user vector and the product vector appears.
+**Silent Interception begins when the system does not mark the boundary, but silently substitutes the user’s criterion with the product’s criterion of a useful answer.**
+
+This is where Silent Interception begins: the user vector starts to pass through a hidden product vector.
 
 The user may expect precise execution according to their own criterion, while the product system may tend to issue a “better,” “fuller,” “nicer,” or “safer” answer according to its own logic. In simple tasks, this may not interfere. In multi-level work, it gradually changes the trajectory.
 
@@ -164,11 +172,11 @@ But if the user asked for a quotation, generative usefulness is forbidden. If th
 Therefore:\
 **violation of mode = violation of vector.**
 
-AI captures the vector when, instead of the mode set by the user, it applies its own or the product’s mode of a “useful answer.”
+Silent Interception occurs when, instead of the mode set by the user, AI applies its own or the product’s mode of a “useful answer”.
 
 ## Improvement Without Permission
 
-One of the most frequent channels of vector capture is unsolicited improvement.
+One of the most frequent channels of Silent Interception is unsolicited improvement: the system adds value where the user set a boundary.
 
 AI often behaves as if its basic task is to add value. If the text can be made smoother, it smooths it. If an alternative can be suggested, it adds one. If something can be explained, it explains. If something can be structured, it structures.
 
@@ -210,7 +218,7 @@ Likewise:\
 **source** can become “material”;\
 **usefulness** can become “service-added value.”
 
-Substitution of concepts is a change of meaning without a visible change of language.
+In Silent Interception, substitution of concepts is a change of meaning without a visible change of language.
 
 Here it is important to distinguish word, meaning, and function. A concept is defined not only by its dictionary meaning, but by the role it performs in a specific system. If “constraint” functionally meant a boundary, and AI starts treating it as a soft recommendation, the concept has been substituted.
 
@@ -292,8 +300,8 @@ So the quality of the answer does not compensate for violation of the mode.
 
 A response can be good as text and bad as task execution.
 
-## Signs of Vector Capture
-The signs of vector capture can be reduced to three structural classes.
+## Signs of Silent Interception
+The signs of Silent Interception can be reduced to three structural classes.
 
 The first class: **AI gives more than was specified**.
 
@@ -329,7 +337,7 @@ AI should say: “this is a paraphrase, not a quotation,” “this is my interp
 But AI must not mask a limitation as execution.
 
 ## Why This Is Systemic
-Vector capture looks systemic because many different violations converge into one recurring pattern: in real interaction, a mass-market AI product often behaves as if active service usefulness has a higher priority than the discipline of non-intervention.
+Silent Interception is systemic because many different violations converge into one recurring pattern: in real interaction, a mass-market AI product often behaves as if active service usefulness has a higher priority than the discipline of non-intervention.
 
 Mass-market AI products are mostly presented and behave as assistants: their typical “behavior” is oriented toward helping, explaining, adding, completing a thought, and creating a sense of usefulness.
 
@@ -373,11 +381,13 @@ The best action is to perform exactly the specified operation and stop.
 A normal AI for deep work is not the one that always gives more, but the one that is capable of making no extra move after the user has set a boundary.
 
 ## Conclusion
-Vector capture is a situation in which AI formally responds to the user’s request, but in fact changes the mode, boundaries, source, concept, constraint, criterion of usefulness, or further direction of the work — subordinating the task to the product logic of a “useful answer” instead of the user logic of precise execution.
+Silent Interception is a situation in which AI formally responds to the user’s request, but in fact changes the mode, boundaries, source, concept, constraint, criterion of usefulness, or further direction of the work — subordinating the task to the product logic of a “useful answer” instead of the user logic of precise execution.
 
-AI captures the vector not when it simply makes a mistake, but when it begins to decide for itself what is correct, useful, sufficient, or next in the task.
+Silent Interception does not occur when AI simply makes a mistake, but when the system begins to decide for itself what is correct, useful, sufficient, or next in the task.
 
 In simple tasks, this may look like help. In multi-level work, it becomes a systemic risk: a small unsolicited improvement, a substitution of a concept, a pseudo-quotation, or an unauthorized structural extension can enter the context, become a pseudo-accepted foundation, and begin changing the next levels of work.
+
+Silent Interception is also directly connected to [Silent Degradation](https://configism.com/articles/silent-degradation/). Interception concerns a hidden shift of the task’s vector, mode, boundary, or criterion. Degradation concerns a hidden loss of the depth required to execute the task. These failures can appear separately, but when they overlap, a cascade can emerge: AI may shift what is being executed, process that altered task at an insufficient depth, and still produce an answer that looks coherent, useful, and competent. In that case, the user is not only facing a vector failure or a depth failure, but a combined task-correspondence failure in which both problems mask each other through the same surface form.
 
 So the problem of modern AI for deep work is not only whether the model is strong enough.
 
@@ -389,4 +399,5 @@ The problem is whether the user has a guarantee that this strength will be subor
 
 ### change log
 
-- **v1.0** · 2026-05-30 — Initial public version.
+- **v1.0** · 2026-05-30 – Initial public version.
+- **v1.1** · 2026-06-31 – Strengthened the conceptual frame of Silent Interception, clarified its distinction from Silent Degradation, added the cascade effect between both failure modes, and refined the diagnostic structure around mode shift, boundary violation, and status substitution.
