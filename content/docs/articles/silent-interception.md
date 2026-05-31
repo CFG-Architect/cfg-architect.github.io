@@ -384,5 +384,8 @@ The problem is whether the user has a guarantee that this strength will be subor
 
 **Intellectual power without mode discipline is not a precise instrument, but an active system of interpretation that can silently replace the user’s task with its own version of usefulness.**
 
-*written in plain human language\
-*Published: 30 May 2026*
+---
+
+### change log
+
+- **v1.0** · 2026-05-30 — Initial public version.
