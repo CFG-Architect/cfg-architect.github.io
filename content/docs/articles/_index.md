@@ -5,7 +5,7 @@ linkTitle: "Articles"
 type: docs
 url: "/articles/"
 bookCollapseSection: true
-weight: 20
+weight: 40
 ---
 # Articles
 Articles related to Configism and Configurational Logic, written in plain human language.
