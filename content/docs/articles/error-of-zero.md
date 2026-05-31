@@ -6,6 +6,9 @@ type: docs
 url: "/articles/error-of-zero/"
 weight: 40
 date: "2026-05-28"
+lastmod: "2026-05-31"
+version: "v1.0"
+status: "Current"
 ---
 # The Fundamental Error of Zero
 ## How absence became a number
