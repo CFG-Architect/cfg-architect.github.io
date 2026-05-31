@@ -12,6 +12,7 @@ date: "2026-05-30"
 lastmod: "2026-05-31"
 ---
 # The Decoder Function: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
+---
 The world does not begin for a living or subject-level contour as a set of ready-made facts.
 
 There are influences, changes, traces, repetitions, boundaries, relations, states, and interactions in the world. But a fact does not lie in the world as a primary unit. A fact emerges when something fixed receives a stabilized status within a particular contour.
@@ -331,4 +332,4 @@ Therefore, reality does not become action directly. It enters a living contour a
 
 ### change log
 
-- **v1.0** · 2026-05-30 — Initial public version.
+- **v1.0** · 2026-05-30 – Initial public version.
