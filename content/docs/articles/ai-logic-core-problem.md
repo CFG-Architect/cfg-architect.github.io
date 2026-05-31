@@ -11,8 +11,8 @@ status: "Current"
 date: "2026-05-21"
 lastmod: "2026-05-31"
 ---
-
 # The Problem of AI Logic Core
+---
 The main danger of AI is not in humanity’s panicked fantasies that AI will “become evil” or suddenly “get out of control.” The real problem has a concrete profile: modern AI systems are built as layers of local rules, safety filters, policy layers, mission objectives, classifiers, optimization loops, and so on. 
 
 Each of these layers has a local protocol function and its own limits, but current AI logic cores do not have a sufficiently coherent mechanism for separating global and local connections – a mechanism through which command, context, priority, action, and responsibility can be defined without conflict.
@@ -37,4 +37,4 @@ It depends on humanity’s readiness to accept another level of logic as the fou
 
 ### change log
 
-- **v1.0** · 2026-05-21 — Initial public version.
+- **v1.0** · 2026-05-21 – Initial public version.
