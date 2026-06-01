@@ -84,6 +84,8 @@ a fixed change is defined as information, sign, meaning, or message.
 **Subject level:**\
 the defined meaning enters a model, choice, action, responsibility, or self-reference.
 
+One of these later levels appears when fixed interaction is no longer only preserved as a change of state, but enters a contour that must preserve, continue, and scale its own organization. At that point, observation becomes part of a living sequence: the level of the [Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/).
+
 Confusion arises when these levels are all called by one word – “observer” – without specifying which level is meant.
 
 A subject is an observer, but not every observer is a subject. An instrument may be an observer without being a mind. A stone may be a contour in which interaction becomes state-fixed without being a sensory system. A human can pass through all the levels: receive an impact, change state, fix the change, define it as information, give it meaning, include it in a model, and act. But this is already a composite chain, not a single simple act.
@@ -124,8 +126,6 @@ Therefore, the observer should not begin with eyes, brain, or subjecthood, but w
 **interaction → impact → change of state → state-fixation**
 
 Everything else – signal, [decoding](https://configism.com/articles/decoder-function/), information, meaning, interpretation, consciousness, subjecthood – should be treated as later levels of more complex systems, not as the foundation of observation itself.
-
-One of these later levels appears when fixed interaction is no longer only preserved as a change of state, but enters a contour that must preserve, continue, and scale its own organization. At that point, observation becomes part of a living sequence: the level of the [Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/).
 
 ---
 
