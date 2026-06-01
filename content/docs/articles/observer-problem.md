@@ -6,10 +6,10 @@ type: docs
 url: "/articles/observer-problem/"
 weight: 20
 mode: "Plain Human Language"
-version: "v1.0"
+version: "v1.1"
 status: "Current"
 date: "2026-05-26"
-lastmod: "2026-05-31"
+lastmod: "2026-06-01"
 ---
 # The Problem of the Observer: Why Observation Does Not Begin with Consciousness
 ---
@@ -125,8 +125,11 @@ Therefore, the observer should not begin with eyes, brain, or subjecthood, but w
 
 Everything else – signal, [decoding](https://configism.com/articles/decoder-function/), information, meaning, interpretation, consciousness, subjecthood – should be treated as later levels of more complex systems, not as the foundation of observation itself.
 
+One of these later levels appears when fixed interaction is no longer only preserved as a change of state, but enters a contour that must preserve, continue, and scale its own organization. At that point, observation becomes part of a living sequence: the level of the [Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/).
+
 ---
 
 ### change log
 
 - **v1.0** · 2026-05-26 – Initial public version.
+- **v1.1** · 2026-06-01 – Added a logical bridge from observation as fixed interaction to the Primary Algorithm of Life as a later living-contour level.
