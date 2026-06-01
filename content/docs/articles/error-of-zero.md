@@ -4,7 +4,7 @@ description: "Zero is not one thing. How the fusion of absence, empty place, bou
 linkTitle: "Fundamental Error of Zero"
 type: docs
 url: "/articles/error-of-zero/"
-weight: 40
+weight: 50
 mode: "Plain Human Language"
 version: "v1.0"
 status: "Current"
