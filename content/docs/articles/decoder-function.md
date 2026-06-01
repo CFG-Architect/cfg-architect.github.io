@@ -363,7 +363,7 @@ Between influence and action, there is passage. In this passage, what has been f
 
 Choice in this chain is not a mechanical consequence of the condition or signal and is not the decoder itself. Primary choice fixes the basic boundary of living passage: threat / non-threat. Secondary choice works after this boundary and opens the variability of passage: which of the available vectors becomes relevant under specific conditions. Therefore, the **decoder does not determine choice**, but forms the field of choice: it gives the condition or signal status, weight, and vector, from which choice may stabilize as decision.
 
-At the PAL level, a condition receives the primary status threat / non-threat. The variational-functional level opens the available ways of passing through this boundary. The subject-level, social, and symbolic levels reassign the signal in relation to experience, group, and a system of signs. Artificial systems perform derivative decoding through their own systems of correspondences, models, classification, evaluation, ranking, or blocking.
+At [The Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/) level, a condition receives the primary status threat / non-threat. The variational-functional level opens the available ways of passing through this boundary. The subject-level, social, and symbolic levels reassign the signal in relation to experience, group, and a system of signs. Artificial systems perform derivative decoding through their own systems of correspondences, models, classification, evaluation, ranking, or blocking.
 
 A fact is not the beginning. A fact is a stabilized status.
 
