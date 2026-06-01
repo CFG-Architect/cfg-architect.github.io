@@ -6,10 +6,10 @@ type: docs
 url: "/articles/primary-algorithm-of-life/"
 weight: 30
 mode: "Plain Human Language"
-version: "v1.0"
+version: "v1.1"
 status: "Current"
 date: "2026-05-27"
-lastmod: "2026-05-31"
+lastmod: "2026-06-01"
 ---
 # The Primary Algorithm of Life: From State-Fixation to Primary Choice
 ---
@@ -111,6 +111,8 @@ A living contour passes an impact through the SF-sequence of PAL and the weights
 
 Therefore, the living does not merely fix a change. The living changes the way change passes relative to the preservation, continuation, and scaling of its own organization.
 
+At this point, the basis of the [decoder function](https://configism.com/articles/decoder-function/) appears. A condition is no longer only fixed as a change of state and no longer only passed through a living sequence. It receives primary status for the contour: threat or non-threat; it receives functional weight relative to PAL; and it opens a possible mode of further passage. This is not yet symbolic meaning, interpretation, or conscious understanding. It is the first functional level at which what is fixed begins to become something for a living contour.
+
 ## 4. Why “Error” Is Not a Fundamental Description of This Level
 
 Human language often calls a deviation from a previous pattern an error. In technical and biological contexts, this is understandable: if DNA is copied differently than expected, one can call it a “replication error”. If a cell enters a state that ends in death, one can call it a “failed response”. If a mutation destroys the function of a protein, one can call it a “harmful mutation”.
@@ -187,8 +189,11 @@ The living transitions between modes of the SF-sequence through primary choice, 
 
 That is why error is not a fundamental concept at this level. More fundamental is the choice of mode of execution. What from the position of the previous pattern looks like a deviation may, from the position of PAL, be a transition to another trajectory of preserving, continuing, or scaling organization.
 
+This is the point from which the [decoder function](https://configism.com/articles/decoder-function/) can later be unfolded: the fixed condition receives status, weight, and direction within a contour, and therefore begins to open the field of choice.
+
 ---
 
 ### change log
 
 - **v1.0** · 2026-05-27 – Initial public version.
+- **v1.1** · 2026-06-01 – Added a logical bridge from PAL to the Decoder Function, marking how fixed conditions begin to receive status, weight, and direction within a contour.
