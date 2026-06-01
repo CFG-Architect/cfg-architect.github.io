@@ -4,7 +4,7 @@ description: "The decoder is the function through which an influence becomes sta
 linkTitle: "Reality Decoder"
 type: docs
 url: "/articles/decoder-function/"
-weight: 50
+weight: 40
 mode: "Plain Human Language"
 version: "v1.0"
 status: "Current"
