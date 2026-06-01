@@ -16,7 +16,7 @@ lastmod: "2026-06-02"
 In [The Observer Problem](https://configism.com/articles/observer-problem/), observation was separated from consciousness and defined at the basic level as state-fixed interaction within a contour:\
 **interaction → impact → change of state → state-fixation**
 
-At that level, there is no meaning, interpretation, signal, choice, decision, or action yet. There is only an impact that becomes fixed as a **change of state within a contour**.
+At that level, there is no meaning, interpretation, signal, choice, decision, or action yet. There is only an impact that becomes state-fixed as a change of state within a contour.
 
 In [The Primary Algorithm of Life (PAL)](https://configism.com/articles/primary-algorithm-of-life/), this state-fixation entered the level of the **living contour**. A living contour does not merely fix change. It executes its own organization through preservation, continuation, and scaling. At this level, fixed conditions receive the primary weights of **threat / non-threat** and open the first form of **primary choice**.
 
@@ -31,7 +31,7 @@ The **PAL** question is:\
 The **decoder** question is:\
 **what does the fixed condition become for this contour, how much does it weigh, and where does it direct further passage?**
 
-The world does not begin for a living, subject-level, social, symbolic, or artificial decoding contour as a set of ready-made facts.
+For a living, subject-level, social, symbolic, or artificial contour, the world does not begin as a set of ready-made facts.
 
 There are influences, changes, traces, repetitions, boundaries, relations, states, and interactions in the world. But a fact does not lie in the world as a primary unit. A fact emerges when something fixed receives a stabilized status within a particular contour.
 
@@ -83,7 +83,7 @@ Where there is a living contour, there is already a need to distinguish a condit
 **The decoder has a level-based structure:**
 
 **The first level of the decoder is functional.**\
-It works at the PAL level and decodes a condition in relation to the Primary Algorithm of Life: preservation / continuation / scaling. At this level, a signal or condition receives the basic status threat / non-threat, a primary weight, and a mode of passage.
+It works at the PAL level and decodes a condition in relation to the Primary Algorithm of Life: preservation / continuation / scaling. At this level, a condition or signal receives the basic status **threat / non-threat**, a primary weight, and an initial direction of passage.
 
 **The second level of the decoder is variational-functional.**\
 It works after the primary boundary threat / non-threat and decodes not the condition itself, but the variants of its passage: freeze, flee, attack, bypass, hide, signal, conserve resources, restore, or change mode.
@@ -123,7 +123,7 @@ Threat / non-threat is not a thought, not an evaluation, and not a symbolic mean
 
 PAL, as the Primary Algorithm of Life, does not decode “law,” “sin,” “evidence,” “command,” “honor,” or “symbol.” At the PAL level, a condition is decoded in relation to life.
 
-A nutrient for a cell, light for a plant, a toxin for an organism, temperature, pressure, lack, pain, or damage pass as conditions of life. At this level, they are not yet symbols, facts, or social meanings. But they are no longer merely physical changes. They receive status and weight in relation to living passage.
+A nutrient for a cell, light for a plant, a toxin for an organism, temperature, pressure, lack, pain, or damage pass as conditions of life. At this level, they are not yet symbols, facts, or social meanings. But they are no longer merely physical changes. They receive status, weight, and direction in relation to living passage.
 
 At the PAL level, the functional decoder answers the basic question:\
 **what is this for the life of this contour?**
@@ -144,7 +144,7 @@ After the primary boundary is established, another level appears. A condition ma
 
 **This is secondary choice.**
 
-Secondary choice is the variational-functional choice of passage after the primary status has already been established. It does not define only whether the condition is threat or non-threat. It opens which available vector of passage becomes relevant under specific conditions.
+Secondary choice is the variational-functional choice of passage after the primary status has already been established. It does not define only whether the condition is threat or non-threat. It stabilizes which available vector of passage becomes relevant under specific conditions.
 
 **Primary choice** establishes the basic boundary of living passage.
 
@@ -241,7 +241,7 @@ Trauma, infection, parasite, toxin, chronic stress, or disease change the map so
 
 The chemical map is not a decoder as a separate mechanism. It is the physiological medium through which the bio-decoder executes statuses, weights, and vectors.
 
-**PAL does not change.** The chemical map changes, through which PAL receives weights and vectors.
+**PAL does not change.** What changes is the chemical map through which conditions and signals receive weights and vectors relative to PAL.
 
 ## When the Chemical Map Is Inverted
 PAL does not break. It continues to execute the Primary Algorithm of Life. But if the chemical map of signals, statuses, weights, and vectors is changed, the living contour may act locally relevantly while, at scale, moving against its own preservation, continuation, or unfolding.
@@ -253,7 +253,7 @@ PAL does not break. It continues to execute the Primary Algorithm of Life. But i
 **Stimulus inversion** occurs when an exaggerated signal receives greater weight than a natural one. The artificial or excessive captures a vector that, in the natural chemical map, was tied to living relevance.
 
 **Parasitic inversion** occurs when another living contour rewrites the chemical map of the host. The host continues to execute behavior, but its behavioral vector begins to serve the passage of the parasite.\
-Brood parasitism shows a status substitution: the foreign receives the status of one’s own, after which the parental vector of feeding, protection, and resource investment is triggered.
+Brood parasitism shows a status substitution: the foreign receives the status of the host contour’s own offspring, after which the parental vector of feeding, protection, and resource investment is triggered.
 
 **Viral inversion** occurs when a virus changes the chemical mode of the host contour so that its contact or aggressive vectors begin to serve the spread of the pathogen.
 
@@ -295,7 +295,10 @@ A word, image, flag, command, doctrine, or social role ceases to be merely a sym
 
 ## Artificial Contour and Artificial Decoder
 An artificial contour is a contour with externally given organization, through which form, material, mechanics, electronics, rules, model, or algorithm sets the way an action, influence, or signal passes.
-An **artificial contour is not an observer** merely because it has form, function, material organization, electronics, rules, or an algorithm. In the sense defined in The Observer Problem, it becomes an observer only where an influence is fixed within it as a change of state. It becomes an artificial decoder only where this fixed influence or signal receives status, weight, and vector through a system of correspondences.
+
+An **artificial contour is not an observer** merely because it has form, function, material organization, electronics, rules, or an algorithm. In the sense defined in The Observer Problem. 
+
+It becomes an observer only where an influence becomes state-fixed within it as a change of state. It becomes an artificial decoder only where this fixed influence or signal receives status, weight, and vector through a system of correspondences.
 
 **But an artificial contour by itself is not yet a decoder.**
 
@@ -310,6 +313,8 @@ In a bio-decoder, status, weight, and vector are connected with living passage: 
 In an artificial decoder, status, weight, and vector depend on the type of artificial contour.
 
 At the structural level of an artificial decoder, status defines what an influence becomes within the artificial contour. Weight defines force, intensity, duration, scale, or degree of passage. Vector opens the path by which the influence becomes a result.
+
+At this structural level, decoding does not mean understanding, interpretation, or meaning. It means a system of correspondences through which an influence receives status, weight, and vector within an artificial contour.
 
 At the operational level of an artificial decoder, status defines not only what an influence or signal becomes, but also how the system conducts it further: what action, processing, priority, permission, prohibition, recommendation, or blocking it opens.
 
