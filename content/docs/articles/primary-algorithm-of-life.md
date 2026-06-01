@@ -9,29 +9,34 @@ mode: "Plain Human Language"
 version: "v1.1"
 status: "Current"
 date: "2026-05-27"
-lastmod: "2026-06-01"
+lastmod: "2026-06-02"
 ---
 # The Primary Algorithm of Life: From State-Fixation to Primary Choice
 ---
-In the article [The Observer Problem](https://configism.com/articles/observer-problem/), we considered observation not as an act of consciousness, but as a basic sequence: interaction, impact, change of state, and fixation of that change. At the lowest level, observation does not yet require mind, language, interpretation, or a subject. It is enough that an impact leaves a state-difference within a carrier.
-
-This basic sequence can be called **state-fixation.**
-
-**State-Fixation (SF)** is the fixation of a change of state as a new state or as a state-difference within a carrier.
-
-At the non-living level, this scheme is simple:\
+In the article [The Observer Problem](https://configism.com/articles/observer-problem/), we considered observation not as an act of consciousness, but as a basic sequence:\
 **interaction → impact → change of state → state-fixation**
 
-A stone cracks under a blow. Metal expands when heated. Water changes its aggregate state when temperature changes. In these examples, there is no choice, error, intention, interpretation, or evaluation. There is only the passage of an impact through the state and structure of a carrier.
+At the lowest level, **observation** does not yet require mind, language, interpretation, or a subject. It is enough that an impact becomes **state-fixed** as a change of state within a **contour**.
 
-When separate states, relations, and processes form an integrity that can be distinguished from its environment, we call it a **contour**. A contour is not life by itself: it is only an organized integrity in which interactions no longer dissolve into isolated events, but are held as a connected structure.
+At this level, a **contour** does not mean life, consciousness, or subjecthood. It means the minimal boundedness of an object or system: that in which an impact can be localized and fixed as its own **change of state**.
+
+This basic sequence is **State-Fixation**.
+
+**State-Fixation (SF)** is the process by which an impact becomes fixed in a contour as a change of state or as a state-difference.
+
+At the non-living level, **SF** has a linear form:\
+**interaction → impact → change of state → state-fixation**
+
+A stone cracks under a blow. Metal expands when heated. Water changes its aggregate state when temperature changes. In these examples, there is no choice, error, intention, interpretation, or evaluation. There is only the passage of an impact through the state and structure of a contour that does not yet execute its own organization.
+
+When separate states, relations, and processes are held as an integrity that can be distinguished from its environment, the contour is no longer only a place where an impact is fixed. It becomes the locus through which interactions are connected. But a contour is not life by itself. It is only an organized integrity in which interactions no longer dissolve into isolated events, but are held as a connected structure.
 
 But life cannot be described only by a linear scheme. The living does not merely fix changes. The living maintains its own organization, changes modes of reaction, regulates the boundary between internal and external, restores itself, reproduces, adapts, and transitions between states.
 
 Therefore, the next question is:\
 **what happens to state-fixation when a contour enters the level of life?**
 
-Our answer: at the level of life, SF does not disappear. It transitions into a more complex form.
+The answer: at the level of life, SF does not disappear. It transitions into a more complex form.
 
 This form is the **Primary Algorithm of Life.**
 
@@ -72,7 +77,7 @@ Not “conscious / unconscious”.
 
 At the minimal level, a living contour does not require morality, language, thought, or self-consciousness. But it must already be capable of distinguishing what destroys or lowers the possibility of executing PAL from what does not destroy it or can be included in its execution.
 
-**Threat** is what lowers the possibility of preserving, continuing, or scaling one’s own organization.\
+**Threat** is what lowers the possibility of preserving, continuing, or scaling its own organization.\
 **Non-threat** is what does not lower this possibility or can be included in the execution of PAL.
 
 This is not a psychological evaluation. A cell does not need to “fear”, “understand”, or “think”. At this level, threat / non-threat is a functional weight of process-passage. It establishes whether a certain impact, state, or transition is compatible with the continuation of the organization of a living contour.
@@ -105,13 +110,12 @@ At this level, primary choice is not thought. It is a change in the mode of exec
 
 This distinction is important.
 
-A non-living carrier passes an impact through state and structure.
-
-A living contour passes an impact through the SF-sequence of PAL and the weights of threat / non-threat.
+A **non-living contour** passes an impact through its state and structure.\
+A **living contour** passes an impact through the SF-sequence of PAL and the weights of threat / non-threat.
 
 Therefore, the living does not merely fix a change. The living changes the way change passes relative to the preservation, continuation, and scaling of its own organization.
 
-At this point, the basis of the [decoder function](https://configism.com/articles/decoder-function/) appears. A condition is no longer only fixed as a change of state and no longer only passed through a living sequence. It receives primary status for the contour: threat or non-threat; it receives functional weight relative to PAL; and it opens a possible mode of further passage. This is not yet symbolic meaning, interpretation, or conscious understanding. It is the first functional level at which what is fixed begins to become something for a living contour.
+At this point, the basis of the [decoder function](https://configism.com/articles/decoder-function/) appears. A condition is no longer only fixed as a change of state and no longer only passed through a living sequence. It receives primary status for the contour: threat or non-threat; it receives functional weight relative to PAL; and it opens a possible direction of further passage. This is not yet symbolic meaning, interpretation, or conscious understanding. It is the first functional level at which what is fixed begins to become something for a living contour.
 
 ## 4. Why “Error” Is Not a Fundamental Description of This Level
 
@@ -121,7 +125,7 @@ But at the level of pure logic, “error” is not a primary event.
 
 Error appears only where there is a standard.
 
-If the standard is the previous sequence, then any deviation will look like an error. But if the standard is PAL – the preservation, continuation, and scaling of one’s own organization – then deviation from the previous sequence is not automatically an error. It can be a transition to another mode of execution.
+If the standard is the previous sequence, then any deviation will look like an error. But if the standard is PAL – the preservation, continuation, and scaling of the contour’s own organization – then deviation from the previous sequence is not automatically an error. It can be a transition to another mode of execution.
 
 In this sense, mutation is not an absolute error, but a change in sequence. It becomes an “error” only when it is related to a certain standard: a previous copy, an expected function, a stable state, or a desired result.
 
@@ -189,11 +193,11 @@ The living transitions between modes of the SF-sequence through primary choice, 
 
 That is why error is not a fundamental concept at this level. More fundamental is the choice of mode of execution. What from the position of the previous pattern looks like a deviation may, from the position of PAL, be a transition to another trajectory of preserving, continuing, or scaling organization.
 
-This is the point from which the [decoder function](https://configism.com/articles/decoder-function/) can later be unfolded: the fixed condition receives status, weight, and direction within a contour, and therefore begins to open the field of choice.
+**This is the primary level of life: not consciousness, not interpretation, and not error, but the execution of a living contour through state-fixation, threat / non-threat weights, and primary choice.**
 
 ---
 
 ### change log
 
 - **v1.0** · 2026-05-27 – Initial public version.
-- **v1.1** · 2026-06-01 – Added a logical bridge from PAL to the Decoder Function, marking how fixed conditions begin to receive status, weight, and direction within a contour.
+- **v1.1** · 2026-06-02 – Refined the PAL transition from State-Fixation by replacing residual “carrier” terminology with “contour” and clarifying the shift from non-living contour to living contour. Added a logical bridge from PAL to the Decoder Function, marking how fixed conditions begin to receive status, weight, and direction within a contour.
