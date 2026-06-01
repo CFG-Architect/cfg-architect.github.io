@@ -6,43 +6,68 @@ type: docs
 url: "/articles/decoder-function/"
 weight: 40
 mode: "Plain Human Language"
-version: "v1.0"
+version: "v1.1"
 status: "Current"
 date: "2026-05-30"
-lastmod: "2026-05-31"
+lastmod: "2026-06-02"
 ---
 # The Decoder Function: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
 ---
-The world does not begin for a living or subject-level contour as a set of ready-made facts.
+In [The Observer Problem](https://configism.com/articles/observer-problem/), observation was separated from consciousness and defined at the basic level as state-fixed interaction within a contour:\
+**interaction → impact → change of state → state-fixation**
+
+At that level, there is no meaning, interpretation, signal, choice, decision, or action yet. There is only an impact that becomes fixed as a **change of state within a contour**.
+
+In [The Primary Algorithm of Life (PAL)](https://configism.com/articles/primary-algorithm-of-life/), this state-fixation entered the level of the **living contour**. A living contour does not merely fix change. It executes its own organization through preservation, continuation, and scaling. At this level, fixed conditions receive the primary weights of **threat / non-threat** and open the first form of **primary choice**.
+
+**The Decoder Function** begins from the next logical point: what has been fixed is no longer only preserved as a change of state and no longer only passed through **PAL**. It begins to receive status, weight, and vector within a particular contour.
+
+The **observer** question is:\
+**where is interaction state-fixed?**
+
+The **PAL** question is:\
+**how does a living contour preserve, continue, and scale its own organization through what is fixed?**
+
+The **decoder** question is:\
+**what does the fixed condition become for this contour, how much does it weigh, and where does it direct further passage?**
+
+The world does not begin for a living, subject-level, social, symbolic, or artificial decoding contour as a set of ready-made facts.
 
 There are influences, changes, traces, repetitions, boundaries, relations, states, and interactions in the world. But a fact does not lie in the world as a primary unit. A fact emerges when something fixed receives a stabilized status within a particular contour.
 
-Before something becomes a fact, evidence, threat, resource, command, sin, law, property, or meaning, it must pass through a mechanism that establishes what it is, how significant it is, what direction it opens, and what choice it makes possible.
+Before something becomes a fact, evidence, threat, resource, command, sin, law, property, or meaning, it must pass through a function that establishes what it is for this contour, how significant it is, what direction it opens, and what choice it makes possible.
 
-**This mechanism is the decoder.**
+**This function is the decoder.**
 
-The decoder does not merely recognize. The decoder assigns status to a signal, gives weight to that status, and opens a direction of execution. It turns what has been fixed into something significant – into a basis for choice, decision, and action.
+**The decoder** does not merely recognize. The decoder assigns status to a condition or signal, gives weight to that status, and opens a vector of further passage. It turns what has been fixed into something significant for a contour – into a basis for choice, decision, and action.
 
-**The decoder is a function of status-weight vectorization of reality.**
+**The decoder** is the function of status-weight-vector formation within a contour.
 
-In other words: the decoder establishes **what this is for the system, how much it weighs, and where it directs further passage.**
+In other words: **the decoder** establishes what this is for the contour, how much it weighs, and where it directs further passage.
 
-This triad is minimal because decoding has to perform three necessary operations. First, the signal must receive a status: what it is for this contour. Then the status must receive weight: how significant it is in this state and under these conditions. After that, the weight must open a vector: where it directs further passage. Without status, the signal is not defined. Without weight, it has no significance or priority. Without a vector, it does not enter the field of choice, decision, and action. Therefore, status, weight, and vector are not an arbitrary list, but the minimal structure of decoding: status defines, weight ranks, vector directs.
+**This triad is minimal** because decoding has to perform three necessary operations. First, the condition or signal must receive a status: what it is for this contour. Then the status must receive weight: how significant it is in this state and under these conditions. After that, the weight must open a vector: where it directs further passage.
 
-**interaction → influence → change of state → fixation of state → signal → decoding → status / weight / vector → choice → decision → action**
+Without status, the condition is not defined for the contour. Without weight, it has no significance or priority. Without vector, it does not enter the field of choice, decision, and action. Therefore, status, weight, and vector are not an arbitrary list, but the minimal structure of decoding: status defines, weight ranks, vector directs.
 
-An influence by itself is not yet a signal. An influence is what changes a state: light, pressure, sound, touch, a chemical substance, temperature, a word, an image, an action, or an event.
+The full sequence can be written as:\
+**interaction → impact → change of state → state-fixation → condition / signal → decoding → status / weight / vector → field of choice → choice → decision → action**
 
-A signal emerges when an influence enters a contour through its sensory apparatus, receptors, fixators, or technical mechanisms of registration. An organism translates influence into a neural, chemical, or physiological signal. An artificial system translates influence into an electrical, digital, or algorithmically processable signal.
+An impact by itself is not yet a signal. An impact is what changes a state: light, pressure, sound, touch, a chemical substance, temperature, a word, an image, an action, or an event.
+
+A signal emerges when an impact or fixed condition enters a contour through sensory apparatus, receptors, fixators, technical mechanisms of registration, or another system of correspondence. An organism translates impact into a neural, chemical, or physiological signal. An artificial system translates impact into an electrical, digital, or algorithmically processable signal.
 
 But a signal is not yet meaning. It is not yet a fact, threat, resource, command, evidence, or law. A signal becomes significant only when it passes through a decoder.
 
-## Contour, Living Contour, and PAL
-A [contour](https://configism.com/articles/primary-algorithm-of-life/) is an organized integrity separated from its environment, in which states, relations, and processes do not fall apart into isolated events, but are held as a connected structure. A contour has a boundary, internal connectedness, passage of changes, and its own way of conducting them.
+## Contour, Observer, Living Contour, and PAL
+A contour is an organized integrity separated from its environment, in which states, relations, and processes do not fall apart into isolated events, but are held as a connected structure. A contour has a boundary, internal connectedness, passage of changes, and its own way of conducting them.
 
-A [living contour](https://configism.com/articles/primary-algorithm-of-life/) is a contour that does not merely have organization, but maintains it: it preserves the boundary between internal and external, regulates the passage of matter, energy, and influences, responds to threats to integrity, restores or restructures itself, and continues its own organization in time.
+A contour is not an observer merely because it exists as a bounded integrity. In the sense defined in [The Observer Problem](https://configism.com/articles/observer-problem/), a contour becomes an observer only where an impact becomes state-fixed within it as a change of state. Observation is not the same as life, decoding, understanding, or subjecthood. It is the basic level at which interaction becomes fixed within a contour.
 
-[PAL – the Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/) – is the sequence of execution of a living contour. It is carried out through three basic directions: **preservation / continuation / scaling** of its own organization. The primary weights of PAL are **threat / non-threat**: a condition passes as something that supports or disrupts the preservation, continuation, or scaling of the living contour.
+A living contour is a contour that does not merely have organization, but maintains it: it preserves the boundary between internal and external, regulates the passage of matter, energy, and influences, responds to threats to integrity, restores or restructures itself, and continues its own organization in time.
+
+A living contour is not an observer merely because it is alive. It is an observer only in the basic sense that impacts can become state-fixed within it. What makes it living is not observation itself, but the fact that state-fixation enters the execution of PAL: preservation, continuation, and scaling of its own organization.
+
+[PAL – The Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/) – is the sequence of execution of a living contour. It is carried out through three basic directions: **preservation / continuation / scaling** of its own organization. The primary weights of PAL are **threat / non-threat**: a condition passes as something that supports or disrupts the preservation, continuation, or scaling of the living contour.
 
 The decoder always works within a particular contour. A signal has no universal status by itself. One and the same object is different for different contours and for different levels of decoding.
 
@@ -83,9 +108,9 @@ The decoder must be separated from adjacent processes.
 
 Fixation, reaction, chemical change, choice, decision, action, and thinking are not decoders by themselves. Fixation holds a change of state, reaction responds to influence, chemical change alters the mode of passage, choice selects a direction, decision fixes it for execution, action realizes it in the environment, and thinking works with the results of decoding.
 
-The decoder is present where a signal or condition receives status, weight, and vector for a particular contour.
+The decoder is present where a condition or signal receives status, weight, and vector for a particular contour.
 
-Everything that does not involve status assignment is not a decoder. It may be a physical influence, reaction, chemical change, fixation, decision, or action. But the decoding function begins where a contour establishes what this is for it, how much it weighs, and where it directs further passage.
+Everything that does not involve status, weight, and vector assignment is not yet a decoder. It may be a physical influence, reaction, chemical change, fixation, decision, or action. But the decoding function begins where a contour establishes what this is for it, how much it weighs, and where it directs further passage.
 
 ## PAL and the Functional Decoder
 PAL is not a separate decoding mechanism beside life. PAL is the Primary Algorithm of Life, which sets the axis of living execution: preservation / continuation / scaling.
@@ -102,6 +127,30 @@ A nutrient for a cell, light for a plant, a toxin for an organism, temperature, 
 
 At the PAL level, the functional decoder answers the basic question:\
 **what is this for the life of this contour?**
+
+## Primary and Secondary Choice
+In [The Primary Algorithm of Life (PAL)](https://configism.com/articles/primary-algorithm-of-life/), **primary choice** was defined before consciousness, will, or human decision. It does not mean “I want” and does not require a subject that thinks.
+
+**Primary choice** is the change in the mode of the SF-sequence of a living contour through **threat / non-threat** weights within the execution of PAL.
+
+At this level, choice means that a living contour does not merely receive an impact and does not merely fix a change. It changes the mode of passage according to whether a condition supports or disrupts preservation, continuation, or scaling of its own organization.
+
+**Primary choice** establishes the first boundary:\
+**is this condition a threat or a non-threat for the execution of PAL?**
+
+But this is not yet the full field of choice.
+
+After the primary boundary is established, another level appears. A condition may already have the status of threat, but the living contour still has to pass through the question of how this threat can be conducted: freeze, flee, attack, bypass, hide, signal, conserve resources, restore, inhibit, or change mode.
+
+**This is secondary choice.**
+
+Secondary choice is the variational-functional choice of passage after the primary status has already been established. It does not define only whether the condition is threat or non-threat. It opens which available vector of passage becomes relevant under specific conditions.
+
+**Primary choice** establishes the basic boundary of living passage.
+
+**Secondary choice** opens the available variants of passage through that boundary.
+
+Neither primary nor secondary choice is identical to conscious decision. Both can operate before reflection, explanation, language, or self-awareness. They belong to the level where status, weight, and vector begin to form the field of passage for a **living contour**.
 
 ## Variational-Functional Decoder
 After the primary status, variability emerges.
@@ -120,7 +169,7 @@ Freezing receives the status of effective or ineffective.
 
 A signal to the group receives the status of necessary, dangerous, or unnecessary.
 
-Thus, **secondary choice** does not merely “come after PAL.” It works as the variational-functional level of decoding: it opens the available variants of passage that receive status, weight, and direction under specific conditions.
+Thus, the variational-functional decoder is the decoding level of secondary choice. It does not decode only the boundary threat / non-threat. It decodes the available ways of passing through that boundary, assigning status, weight, and direction to possible modes of passage.
 
 A cell changes movement. A plant changes the direction of growth. An organism shifts into a mode of defense, rest, energy conservation, or active search. An animal freezes, flees, or attacks. A human freezes, avoids, attacks, hides, seeks support, inhibits action, or changes the mode of passage before any conscious explanation.
 
@@ -155,17 +204,21 @@ Weight says how significant this is. Vector says where it leads.
 The decoder does not only define what this is. It assigns weight and opens the direction of further passage.
 
 ## Choice, Decision, and Action
-At the pre-conscious level, choice works as an instrument of passage for status, weight, and vector.
+At the pre-conscious level, choice works as a stabilization of passage after status, weight, and vector have been formed.
 
-Primary choice fixes the boundary threat / non-threat. Secondary choice opens the variability of passing through that boundary. After developed decoding, choice works with more specific statuses, weights, and vectors.
+**Primary choice** stabilizes the basic boundary threat / non-threat in relation to PAL.
 
-Choice is not status, weight, or vector as such. Choice is the moment when one of the possible vectors becomes dominant for passage.
+**Secondary choice** opens and stabilizes the variability of passing through that boundary.
 
-Decision is the fixation of the selected vector for execution.
+After developed **decoding**, choice works with more specific statuses, weights, and vectors at subject-level, social, symbolic, or artificial levels.
 
-Action is the realization of the fixed vector in the environment.
+**Choice** is not status, weight, or vector as such. **Choice** is the moment when one of the possible vectors becomes dominant for passage.
 
-The decoder forms the field of choice, but it is not identical to choice itself. It stands earlier. It makes the signal become status, weight, and direction, from which choice then emerges.
+**Decision** is the fixation of the selected vector for execution.
+
+**Action** is the realization of the fixed vector in the environment.
+
+The **decoder forms the field of choice**, but it is not identical to choice itself. It stands earlier. It makes the condition or signal become status, weight, and direction, from which choice can emerge.
 
 ## Chemical Map of the Bio-Decoder
 In living systems, statuses, weights, and vectors do not exist abstractly. They pass through the physiological state of the organism.
@@ -186,7 +239,7 @@ Metabolic state changes the weight of food, risk, movement, sleep, resource sear
 
 Trauma, infection, parasite, toxin, chronic stress, or disease change the map so that the same signals receive different statuses, different weights, and different vectors.
 
-The chemical map is not a decoder as a separate mechanism, but it is the physiological carrier through which the bio-decoder works.
+The chemical map is not a decoder as a separate mechanism. It is the physiological medium through which the bio-decoder executes statuses, weights, and vectors.
 
 **PAL does not change.** The chemical map changes, through which PAL receives weights and vectors.
 
@@ -202,7 +255,7 @@ PAL does not break. It continues to execute the Primary Algorithm of Life. But i
 **Parasitic inversion** occurs when another living contour rewrites the chemical map of the host. The host continues to execute behavior, but its behavioral vector begins to serve the passage of the parasite.\
 Brood parasitism shows a status substitution: the foreign receives the status of one’s own, after which the parental vector of feeding, protection, and resource investment is triggered.
 
-**Viral inversion** occurs when a virus changes the chemical mode of the carrier so that its contact or aggressive vectors begin to serve the spread of the pathogen.
+**Viral inversion** occurs when a virus changes the chemical mode of the host contour so that its contact or aggressive vectors begin to serve the spread of the pathogen.
 
 **Traumatic change of the chemical map** occurs when damage to the cells and tissues of the brain changes its physiological mode of operation. Because of this, signals receive different weights, and inhibition, emotional regulation, attention, decision stabilization, and the availability of vectors pass differently.
 
@@ -242,6 +295,7 @@ A word, image, flag, command, doctrine, or social role ceases to be merely a sym
 
 ## Artificial Contour and Artificial Decoder
 An artificial contour is a contour with externally given organization, through which form, material, mechanics, electronics, rules, model, or algorithm sets the way an action, influence, or signal passes.
+An **artificial contour is not an observer** merely because it has form, function, material organization, electronics, rules, or an algorithm. In the sense defined in The Observer Problem, it becomes an observer only where an influence is fixed within it as a change of state. It becomes an artificial decoder only where this fixed influence or signal receives status, weight, and vector through a system of correspondences.
 
 **But an artificial contour by itself is not yet a decoder.**
 
@@ -302,7 +356,7 @@ Reality does not pass into action directly.
 
 Between influence and action, there is passage. In this passage, what has been fixed receives status, status receives weight, weight opens a vector, the vector enters the field of choice, choice stabilizes as decision, and decision is realized as action.
 
-Choice in this chain is not a mechanical consequence of the signal and is not the decoder itself. Primary choice fixes the basic boundary of living passage: threat / non-threat. Secondary choice works after this boundary and opens the variability of passage: which of the available vectors becomes relevant under specific conditions. Therefore, the **decoder does not determine choice**, but forms the field of choice: it gives the signal status, weight, and vector, from which choice may stabilize as decision.
+Choice in this chain is not a mechanical consequence of the condition or signal and is not the decoder itself. Primary choice fixes the basic boundary of living passage: threat / non-threat. Secondary choice works after this boundary and opens the variability of passage: which of the available vectors becomes relevant under specific conditions. Therefore, the **decoder does not determine choice**, but forms the field of choice: it gives the condition or signal status, weight, and vector, from which choice may stabilize as decision.
 
 At the PAL level, a condition receives the primary status threat / non-threat. The variational-functional level opens the available ways of passing through this boundary. The subject-level, social, and symbolic levels reassign the signal in relation to experience, group, and a system of signs. Artificial systems perform derivative decoding through their own systems of correspondences, models, classification, evaluation, ranking, or blocking.
 
@@ -324,7 +378,7 @@ A bacterium lives in the reality of chemical conditions. An animal lives in the 
 
 These are not different primary worlds. They are different decoded realities.
 
-Therefore, reality does not become action directly. It enters a living contour as influence, becomes a signal, passes through the decoder, receives status, weight, and vector, and only then enters the field of choice, where choice may stabilize as decision and decision may be realized as action.
+Therefore, reality does not become action directly. It enters a living contour as impact or condition, may become a signal, passes through the decoder, receives status, weight, and vector, and only then enters the field of choice, where choice may stabilize as decision and decision may be realized as action.
 
 **For a living contour, reality begins not where something exists in itself, but where that something has been decoded.**
 
@@ -333,3 +387,4 @@ Therefore, reality does not become action directly. It enters a living contour a
 ### change log
 
 - **v1.0** · 2026-05-30 – Initial public version.
+- **v1.1** · 2026-06-02 – Refined the Decoder Function’s internal logic by clarifying how fixed conditions pass into status / weight / vector formation within a contour. Replaced residual “carrier” terminology with “contour,” added observer distinctions for living and artificial contours, introduced a dedicated Primary and Secondary Choice section, and clarified secondary choice as the variational-functional level of decoding.
