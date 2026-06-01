@@ -13,14 +13,11 @@ lastmod: "2026-06-02"
 ---
 # The Primary Algorithm of Life: From State-Fixation to Primary Choice
 ---
-In the article [The Observer Problem](https://configism.com/articles/observer-problem/), we considered observation not as an act of consciousness, but as a basic sequence:\
-**interaction → impact → change of state → state-fixation**
+In the article [The Observer Problem](https://configism.com/articles/observer-problem/), we considered observation not as an act of consciousness, but as a basic sequence of interaction, impact, change of state, and state-fixation.
 
 At the lowest level, **observation** does not yet require mind, language, interpretation, or a subject. It is enough that an impact becomes **state-fixed** as a change of state within a **contour**.
 
 At this level, a **contour** does not mean life, consciousness, or subjecthood. It means the minimal boundedness of an object or system: that in which an impact can be localized and fixed as its own **change of state**.
-
-This basic sequence is **State-Fixation**.
 
 **State-Fixation (SF)** is the process by which an impact becomes fixed in a contour as a change of state or as a state-difference.
 
