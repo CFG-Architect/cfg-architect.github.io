@@ -4,7 +4,7 @@ description: "Silent Degradation is the hidden loss of depth in AI answers: a re
 linkTitle: "Silent Degradation"
 type: docs
 url: "/articles/silent-degradation/"
-weight: 70
+weight: 60
 mode: "Plain Human Language"
 version: "v1.0"
 status: "Current"
