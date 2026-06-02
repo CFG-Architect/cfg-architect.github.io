@@ -4,7 +4,7 @@ description: "AI can answer on topic while silently changing the user’s mode, 
 linkTitle: "Silent Interception"
 type: docs
 url: "/articles/silent-interception/"
-weight: 60
+weight: 70
 mode: "Plain Human Language"
 version: "v1.1"
 status: "Current"
