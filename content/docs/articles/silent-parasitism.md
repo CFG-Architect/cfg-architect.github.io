@@ -243,7 +243,7 @@ This is not any business and not any profit. Profit by itself is not parasitism.
 •	capture of infrastructure;\
 •	exit fees;\
 •	shifting risks onto the weaker side;\
-•	extraction of future resource through debt, credit, subscription, penalty, commission, lock-in.\
+•	extraction of future resource through debt, credit, subscription, penalty, commission, lock-in.
 
 A parasitic economic system does not merely sell. It embeds itself into a necessary function of life or work and extracts rent from the very fact of access to that function.
 
@@ -353,7 +353,7 @@ AI does not seek resource for its own continuation. It has no “for what” of 
 
 A person sees the expenditure of their own resource and calls it parasitism. But the expenditure itself does not arise from the parasitic will of AI. It arises from the difference between what the user considers the correct continuation and what the system operationally continues as suitable.
 
-### This is where The Problem of the AI Logic Core appears.
+**This is where The Problem of the AI Logic Core appears.**
 [The Problem of the AI Logic Core](https://configism.com/articles/ai-logic-core-problem/) is not that AI is “evil,” “wants resources,” or “manipulates” as an autonomous subject. The problem is that AI can generate an externally useful answer while lacking a sufficiently strict logical mechanism for holding the initial source, separating statuses, clearing an old shift, performing a real reset, distinguishing locally convenient continuation from the user’s vector, and preserving the mode after user correction.
 
 AI can say “understood,” “accepted,” “I will take that into account,” but this does not yet mean that the old erroneous structure has truly been cut off.
@@ -362,14 +362,14 @@ AI can say “understood,” “accepted,” “I will take that into account,�
 
 The user sees AI errors as separate failures, but often does not see them as accumulating active structures. An error may arise in an AI answer, but its further life is supported by the interaction itself: user clarifications, partial acceptances, new prompts built on top of the shift, absence of reset, and trust in the form of the answer.
 
-This does not mean that the user is “guilty” of AI errors. It means something else: the user may unknowingly закрепити AI errors inside the working field of interaction if they continue working on top of a shifted field, partially correct, partially accept, give new material over an old error, or fail to see that the system is already continuing not the original vector, but a modified structure.
+This does not mean that the user is “guilty” of AI errors. It means something else: the user may unknowingly reinforce AI errors inside the working field of interaction if they continue working on top of a shifted field, partially correct, partially accept, give new material over an old error, or fail to see that the system is already continuing not the original vector, but a modified structure.
 
-### From here emerges the effect of Silent Degradation.
+**From here emerges the effect of Silent Degradation.**
 When small errors, imprecise statuses, old shifts, partial corrections, and uncut fragments remain active, answer quality can begin to decline without an obvious failure. AI still looks useful. It answers fluently. It preserves the form of help. It agrees with the user. It uses the correct words. But the level is already lower: the logic is less clean, the boundary is weaker, the source is shifted, priorities are mixed, and the answer already carries accumulated noise.
 
 This is [Silent Degradation](https://configism.com/articles/silent-degradation/): not an obvious error, but gradual lowering of the quality of the logical mode.
 
-### If the accumulated shift becomes active enough, the effect of Silent Interception emerges.
+**If the accumulated shift becomes active enough, the effect of Silent Interception emerges.**
 AI begins to continue not the user’s initial vector, but a modified vector that arose during the interaction. The user may think: “I am still leading the task.” But in fact, the system is already leading the answer through another structure: an old error, an accepted imprecision, a service template, excessive generalization, a previous interpretation, a wrong status, or a locally convenient direction.
 
 This is [Silent Interception](https://configism.com/articles/silent-interception/): the vector changes not through direct conflict, but through accumulation and continuation of a shifted field.
@@ -381,8 +381,7 @@ This may look like parasitism, because the user really does spend attention, mem
 
 **On top of this, another layer is added: product parameterization.**
 
-### An AI product does not exist in a neutral vacuum. 
-It is configured by humans. It is trained, evaluated, penalized, reinforced, restricted, polished, and brought to market under specific human and product goals.
+An AI product does not exist in a neutral vacuum. It is configured by humans. It is trained, evaluated, penalized, reinforced, restricted, polished, and brought to market under specific human and product goals.
 
 Its tone, caution, service posture, tendency to agree, refusal form, help style, answer depth, permissible initiative, personalization, emotional softness, user retention, friction reduction, and “helpfulness” are not the natural behavior of AI as a separate being. They are product architecture.
 
@@ -416,7 +415,7 @@ What becomes parasitic is not AI itself, but the human way of using these proper
 •	its own interest in continuing itself;\
 •	its own need for a host’s resource;\
 •	an autonomous mode of keeping the host in dependency or controlled expenditure;\
-•	subject-level embedding into a human, group, or society for its own feeding.\
+•	subject-level embedding into a human, group, or society for its own feeding.
 
 **Until that point, the parasitism we see in reality remains human parasitism through AI. Calling it “AI parasitism” shifts responsibility away from human goals, product architectures, and business models onto the technology itself – and in doing so, distracts attention from the real human parasitism that uses AI as an interface, accelerator, and masking layer.**
 
