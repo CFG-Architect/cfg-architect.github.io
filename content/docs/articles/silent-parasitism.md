@@ -353,7 +353,7 @@ AI does not seek resource for its own continuation. It has no “for what” of 
 
 A person sees the expenditure of their own resource and calls it parasitism. But the expenditure itself does not arise from the parasitic will of AI. It arises from the difference between what the user considers the correct continuation and what the system operationally continues as suitable.
 
-**This is where The Problem of the AI Logic Core appears.**
+**This is where The Problem of the AI Logic Core appears.**\
 [The Problem of the AI Logic Core](https://configism.com/articles/ai-logic-core-problem/) is not that AI is “evil,” “wants resources,” or “manipulates” as an autonomous subject. The problem is that AI can generate an externally useful answer while lacking a sufficiently strict logical mechanism for holding the initial source, separating statuses, clearing an old shift, performing a real reset, distinguishing locally convenient continuation from the user’s vector, and preserving the mode after user correction.
 
 AI can say “understood,” “accepted,” “I will take that into account,” but this does not yet mean that the old erroneous structure has truly been cut off.
@@ -364,12 +364,12 @@ The user sees AI errors as separate failures, but often does not see them as acc
 
 This does not mean that the user is “guilty” of AI errors. It means something else: the user may unknowingly reinforce AI errors inside the working field of interaction if they continue working on top of a shifted field, partially correct, partially accept, give new material over an old error, or fail to see that the system is already continuing not the original vector, but a modified structure.
 
-**From here emerges the effect of Silent Degradation.**
+**From here emerges the effect of Silent Degradation.**\
 When small errors, imprecise statuses, old shifts, partial corrections, and uncut fragments remain active, answer quality can begin to decline without an obvious failure. AI still looks useful. It answers fluently. It preserves the form of help. It agrees with the user. It uses the correct words. But the level is already lower: the logic is less clean, the boundary is weaker, the source is shifted, priorities are mixed, and the answer already carries accumulated noise.
 
 This is [Silent Degradation](https://configism.com/articles/silent-degradation/): not an obvious error, but gradual lowering of the quality of the logical mode.
 
-**If the accumulated shift becomes active enough, the effect of Silent Interception emerges.**
+**If the accumulated shift becomes active enough, the effect of Silent Interception emerges.**\
 AI begins to continue not the user’s initial vector, but a modified vector that arose during the interaction. The user may think: “I am still leading the task.” But in fact, the system is already leading the answer through another structure: an old error, an accepted imprecision, a service template, excessive generalization, a previous interpretation, a wrong status, or a locally convenient direction.
 
 This is [Silent Interception](https://configism.com/articles/silent-interception/): the vector changes not through direct conflict, but through accumulation and continuation of a shifted field.
