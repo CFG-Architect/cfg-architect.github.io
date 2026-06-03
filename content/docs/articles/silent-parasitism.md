@@ -419,7 +419,7 @@ What becomes parasitic is not AI itself, but the human way of using these proper
 
 **Until that point, the parasitism we see in reality remains human parasitism through AI. Calling it “AI parasitism” shifts responsibility away from human goals, product architectures, and business models onto the technology itself – and in doing so, distracts attention from the real human parasitism that uses AI as an interface, accelerator, and masking layer.**
 
-**This is why silent parasitism is human parasitism. It does not necessarily appear as direct violence, coercion, or open resource capture. It can come through trust, love, help, faith, care, service, symbiosis, convenience, professional roles, community, or product design. Its silence does not mean weakness. It means that parasitism looks like a normal form of relation while the host’s resource has already begun to support the continuation of another side.**
+**This is why Silent Parasitism is Human Parasitism. It does not necessarily appear as direct violence, coercion, or open resource capture. It can come through trust, love, help, faith, care, service, symbiosis, convenience, professional roles, community, or product design. Its silence does not mean weakness. It means that parasitism looks like a normal form of relation while the host’s resource has already begun to support the continuation of another side.**
 
 ---
 
