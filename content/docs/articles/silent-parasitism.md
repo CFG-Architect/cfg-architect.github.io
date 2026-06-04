@@ -4,7 +4,7 @@ description: "AI parasitism names a real discomfort but misidentifies its source
 linkTitle: "Silent Parasitism"
 type: docs
 url: "/articles/silent-parasitism/"
-weight: 80
+weight: 90
 mode: "Plain Human Language"
 version: "v1.0"
 status: "Current"
