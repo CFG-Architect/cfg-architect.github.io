@@ -2,7 +2,7 @@ baseURL = 'https://configism.com/'
 title = 'Configism – a Discipline of Thought Based on Configurational Logic'
 theme = 'hugo-book'
 defaultContentLanguage = 'en'
-disableKinds = ['taxonomy', 'term']
+disableKinds = ['taxonomy', 'term', 'rss']
 
 [params]
   description = 'Configism is a discipline of thought based on Configurational Logic, studying how definition, causality, change, and interaction shape perception, observation, subjecthood, thinking, and reality. Everything is a Config.'
