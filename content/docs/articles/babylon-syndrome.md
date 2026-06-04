@@ -4,7 +4,7 @@ description: "The Babylon Syndrome is a civilizational rupture in shared defined
 linkTitle: "Babylon Syndrome"
 type: docs
 url: "/articles/babylon-syndrome/"
-weight: 80
+weight: 100
 mode: "Plain Human Language"
 version: "v1.0"
 status: "Current"
