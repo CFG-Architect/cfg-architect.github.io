@@ -8,8 +8,7 @@ bookCollapseSection: true
 weight: 20
 ---
 # Logic
-logic is the principle of defined connection.\
-Relevance is a measure of the appropriateness of a defined connection.
+logic is the principle of defined connection.
 
 ---
 
