@@ -1,0 +1,5 @@
+Contact: https://configism.com/about/
+Expires: 2027-06-09T00:00:00Z
+Preferred-Languages: en
+Canonical: https://configism.com/.well-known/security.txt
+Policy: https://configism.com/about/
