@@ -17,9 +17,9 @@ Neuroprogramming is one of those topics that society has learned not to look at 
 
 **But neuroprogramming is not NLP.**
 
-That is why NLP is only a shadow on the surface of a deeper problem: a person can be changed not only in behavior, but in the internal system of thinking itself — the system through which they come to consider certain behavior correct, desirable, inevitable, or their own for the rest of their life.
+That is why NLP is only a shadow on the surface of a deeper problem: a person can be changed not only in behavior, but in the internal system of thinking itself – the system through which they come to consider certain behavior correct, desirable, inevitable, or their own for the rest of their life.
 
-That is why NLP is only a shadow on the surface of a deeper problem: a person can be changed not only in behavior, but in the internal system of thinking itself — the system that definition what behavior they will consider correct, desirable, inevitable, or their own for the rest of their life.
+That is why NLP is only a shadow on the surface of a deeper problem: a person can be changed not only in behavior, but in the internal system of thinking itself – the system that definition what behavior they will consider correct, desirable, inevitable, or their own for the rest of their life.
 
 A separate thought changes every day: through new experience, mistake, explanation, argument, pain, love, loss, knowledge. That is normal. A person learns, compares, rethinks, matures.
 
@@ -131,7 +131,7 @@ you will drive us to the edge;\
 how many times do I have to explain this to you;\
 everyone suffers because of you.
 
-And then the child does not learn only the link “electrical wiring — danger.” The child may learn other links:
+And then the child does not learn only the link “electrical wiring – danger.” The child may learn other links:
 not knowing is shame;\
 a mistake means I am bad;\
 curiosity is a threat;\
@@ -238,15 +238,15 @@ The fact does not always change. The status of the fact changes. And status chan
 
 When status is fixed, a person no longer returns to verification each time. They automatically read the situation through a ready-made definition.
 
-Doubt — betrayal.\
-Fear — weakness.\
-Self-sacrifice — love.\
-Submission — honor.\
-One’s own dream — selfishness.\
-Question — disrespect.\
-Obedience — maturity.\
-Refusal — guilt.\
-Exit — ingratitude.
+Doubt – betrayal.\
+Fear – weakness.\
+Self-sacrifice – love.\
+Submission – honor.\
+One’s own dream – selfishness.\
+Question – disrespect.\
+Obedience – maturity.\
+Refusal – guilt.\
+Exit – ingratitude.
 
 After this, the person does not need to be ordered every time. It is enough for the required status to trigger inside.
 
@@ -306,13 +306,13 @@ The deepest neuroprogramming does not say: do this. It makes the person say: I w
 The programming of a dream begins when the correct future is inserted into a person before they have been able to discover their own.
 
 A family can insert the dream of the lineage.\
-The state — the dream of service.\
-A religious system — the dream of the correct soul.\
-A corporation — the dream of career status.\
-The market — the dream of consumption.\
-A group — the dream of belonging.\
-An ideology — the dream of a historical mission.\
-The army — the dream of a function in which a person identifies themselves with an order.
+The state – the dream of service.\
+A religious system – the dream of the correct soul.\
+A corporation – the dream of career status.\
+The market – the dream of consumption.\
+A group – the dream of belonging.\
+An ideology – the dream of a historical mission.\
+The army – the dream of a function in which a person identifies themselves with an order.
 
 Not every transmitted dream is neuroprogramming. A person can receive inspiration from parents, a teacher, culture, tradition, profession, or a heroic example. The problem begins where a dream does not open a field, but closes alternatives; where another future receives the status of betrayal, weakness, stupidity, sin, ingratitude, or shame.
 
@@ -392,16 +392,16 @@ Why does advertising have the right to form desire, not merely inform about a pr
 Neuroprogramming does not like “why?” because this question breaks the automatism. When a person asks “why?”, they are no longer merely carrying out status. They are checking the link.
 
 That is why systems of neuroprogramming almost always defend themselves against “why?” through status:\
-question — disrespect;\
-doubt — weakness;\
-analysis — danger;\
-criticism — betrayal;\
-disobedience — sin;\
-independence — selfishness;\
-exit — ingratitude;\
-verification — distrust;\
-boundary — coldness;\
-refusal — guilt.
+question – disrespect;\
+doubt – weakness;\
+analysis – danger;\
+criticism – betrayal;\
+disobedience – sin;\
+independence – selfishness;\
+exit – ingratitude;\
+verification – distrust;\
+boundary – coldness;\
+refusal – guilt.
 
 In this way, the system protects not the fact. It protects the definition.
 
@@ -612,14 +612,14 @@ The problem begins when money moves from the status of instrument into the statu
 
 Then a person’s internal map changes.
 
-Do not make it better — earn more.\
-Do not produce better — monetize more efficiently.\
-Do not offer something more useful — sell for more.\
-Do not serve quality — serve growth.\
-Do not seek truth — seek what sells.\
-Do not be competent — be sellable.\
-Do not improve reality — increase conversion.\
-Do not create value — capture attention.
+Do not make it better – earn more.\
+Do not produce better – monetize more efficiently.\
+Do not offer something more useful – sell for more.\
+Do not serve quality – serve growth.\
+Do not seek truth – seek what sells.\
+Do not be competent – be sellable.\
+Do not improve reality – increase conversion.\
+Do not create value – capture attention.
 
 This is no longer simply economics. This is the neuroprogramming of value.
 
@@ -627,15 +627,15 @@ Money begins to define what should be considered success, intelligence, strength
 
 A deep inversion appears: the instrument that was supposed to serve life begins to define life.
 
-More money — more value.\
-More sales — more rightness.\
-More market — more quality.\
-More visibility — more significance.\
-More capital — more right to define.
+More money – more value.\
+More sales – more rightness.\
+More market – more quality.\
+More visibility – more significance.\
+More capital – more right to define.
 
 Thus money becomes not a means, but an internal measure of the person and society.
 
-**When money stops being an instrument and becomes the measure of a person, success, truth, quality, and future — this is the neuroprogramming of value.**
+**When money stops being an instrument and becomes the measure of a person, success, truth, quality, and future – this is the neuroprogramming of value.**
 
 ## Advertising as Commercial Propaganda
 Advertising can be information. In its clean form, it says: here is the product, here is the function, here is the price, here are the terms, here is the difference, here is who it may be useful for.
