@@ -1,5 +1,5 @@
 ---
-title: "The Decoder Function: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice | Configism"
+title: "Reality Decoder: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice | Configism"
 description: "The decoder is the function through which an influence becomes status, weight, and vector, opening the field of choice between reality, decision, and action."
 linkTitle: "Reality Decoder"
 type: docs
@@ -11,7 +11,7 @@ status: "Current"
 date: "2026-05-30"
 lastmod: "2026-06-02"
 ---
-# The Decoder Function: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
+# Reality Decoder: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
 ---
 In [The Observer Problem](https://configism.com/articles/observer-problem/), observation was separated from consciousness and defined at the basic level as state-fixed interaction within a contour:\
 **interaction → impact → change of state → state-fixation**
