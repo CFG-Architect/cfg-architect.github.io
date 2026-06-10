@@ -292,7 +292,7 @@ Human parasitism is a mode in which one person, group, or system embeds itself i
 **But if all of this is not AI parasitism, then does it exist at all – and if it does, where exactly does it begin?**
 
 ## Logic, Recursive Logic, and LISP
-Logic is not “correct thinking” and not a set of rules for argumentation. It is a principle of transition: what follows from what, what can be continued, what must be stopped, which element remains active, and which element should no longer influence the next step. Logic differs in that it does not merely produce the next step; it determines why this particular step is an admissible continuation.
+Logic is not “correct thinking” and not a set of rules for argumentation. It is a principle of transition: what follows from what, what can be continued, what must be stopped, which element remains active, and which element should no longer influence the next step. Logic differs in that it does not merely produce the next step; it establishes why this particular step is an admissible continuation.
 
 Recursive logic is logic in which the result of a previous step becomes material for the next one. This is not mechanical repetition, but continuation of structure through its own previous result:\
 **input → processing → result → result becomes new input → new continuation.**
