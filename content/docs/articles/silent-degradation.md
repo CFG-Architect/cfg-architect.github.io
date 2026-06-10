@@ -50,7 +50,7 @@ Therefore, the criterion of quality cannot be reduced to “more depth is always
 
 This is close to the principle of mode developed in Silent Interception, but the emphasis here is different. In [Silent Interception](https://configism.com/articles/silent-interception/), the problem is that AI may change the mode or vector of the task. In Silent Degradation, the problem is that even without an explicit change of topic, the answer may be executed at a lower level of processing than the task requires.
 
-The level of the task determines not only the topic of the answer, but also the permissible type of processing. If the task requires analysis, a thematic summary is not sufficient execution. If the task requires verification, plausible generation is not a sufficient conclusion. If the task requires preserving boundaries, a useful addition may become a violation of the process. In complex work, correctness is determined not by whether the answer is “about the same thing,” but by whether the required operation was performed at the required level.
+The level of the task sets not only the topic of the answer, but also the permissible type of processing. If the task requires analysis, a thematic summary is not sufficient execution. If the task requires verification, plausible generation is not a sufficient conclusion. If the task requires preserving boundaries, a useful addition may become a violation of the process. In complex work, correctness is measured not by whether the answer is “about the same thing,” but by whether the required operation was performed at the required level.
 
 The real criterion is not maximum depth, but correspondence between process and task. For a complex task, this may require sufficient decomposition, the correct level of abstraction, boundary checking, work with uncertainty, preservation of causal structure, source or contextual grounding, and the ability not to replace the task with a simpler version.
 
@@ -85,7 +85,7 @@ This very multilayered structure makes the problem opaque to the user. The exter
 ## Modal points of failure
 Modal degradation has at least three points of failure. They must not be confused.
 
-The first point is **calibration**, the evaluation of the task. The system must determine whether the task is simple, complex, multi-level, risky, source-dependent, or requires deep verification. The failure here is **mode miscalibration**. It occurs when the system classifies the task as simpler than it actually is.
+The first point is **calibration**, the evaluation of the task. The system must assess whether the task is simple, complex, multi-level, risky, source-dependent, or requires deep verification. The failure here is **mode miscalibration**. It occurs when the system classifies the task as simpler than it actually is.
 
 The second point is **selection**, the activation of the mode. Even if complexity is recognized, the system must activate the appropriate processing mode. The failure here is **mode selection failure**. It may result from miscalibration, but it is not reducible to it. An inappropriate mode may arise through product routing, settings, constraints, context, or the default trajectory of the answer.
 
