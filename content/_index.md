@@ -10,7 +10,7 @@ Configism is a discipline of thought based on Configurational Logic, studying ho
 
 **Configurational Logic**
 
-Configurational Logic is the configurational principle of a defined connection in which any object of analysis is approached through its configuration and unfolding.
+Configurational Logic is the configurational principle of defined connection: any object of analysis is approached through its configuration and unfolding.
 
 ---
 
