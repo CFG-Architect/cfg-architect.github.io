@@ -17,7 +17,7 @@ Neuroprogramming is one of those topics that society has learned not to look at 
 
 **But neuroprogramming is not NLP.**
 
-NLP is only a surface shadow of a much larger topic. NLP speaks about techniques of influence over reaction. Neuroprogramming concerns a deeper level: how a person’s system of thinking is changed — the system from which their reactions, thoughts, desires, dreams, fears, boundaries, shame, guilt, self-image, and life direction arise.
+That is why NLP is only a shadow on the surface of a deeper problem: a person can be changed not only in behavior, but in the internal system of thinking itself — the system through which they come to consider certain behavior correct, desirable, inevitable, or their own for the rest of their life.
 
 That is why NLP is only a shadow on the surface of a deeper problem: a person can be changed not only in behavior, but in the internal system of thinking itself — the system that definition what behavior they will consider correct, desirable, inevitable, or their own for the rest of their life.
 
@@ -56,7 +56,7 @@ A child does not know from the beginning who they are. The child does not know w
 
 A child enters the world without a complete map. That is why the first stage of human development is the most valuable and the most vulnerable at the same time.
 
-If a child is given logic, experience, neutral information, space to try, the right to make mistakes, and the right to ask questions, the child begins to self-definition. They try. They feel. They compare. They connect. They make mistakes. They return. They see what is closer to them. What works better. What creates living interest. What creates resistance. Where talent appears. Where their own direction begins to emerge.
+If a child is given logic, experience, neutral information, space to try, the right to make mistakes, and the right to ask questions, the child begins the process of self-definition. They try. They feel. They compare. They connect. They make mistakes. They return. They see what is closer to them. What works better. What creates living interest. What creates resistance. Where talent appears. Where their own direction begins to emerge.
 
 This is the natural process of human formation.
 
@@ -78,9 +78,9 @@ Here is the role that makes you worthy of love.\
 Here is the submission that is called maturity.\
 Here is the sacrifice that is called honor.
 
-In this way, knowledge is not merely passed to a person. The person is defined for themselves.
+In this way, knowledge is not merely passed to a person. The person is defined instead of being allowed to define themselves.
 
-**Self-Definition Before Ready-Made Definition**
+## Self-Definition Before Ready-Made Definition
 The most valuable moment in human development is the moment when a person’s links have not yet been finally defined.
 
 A child does not yet know who they will become. They do not yet know what exactly their path is. They do not yet know which abilities will become central, which interests will remain superficial, which fears will disappear after experience, which desires will turn out to be their own, and which were only the reflection of someone else’s expectation.
@@ -90,7 +90,7 @@ In this state, a child does not need emptiness. A child needs support. But suppo
 There is a great difference between opening a field and defining the person inside that field.
 
 One can say: mathematics shows quantitative and structural links; here are problems, try.\
-Or one can say: you are a humanities child, mathematics is not yours.
+Or one can say: you are not a math person; mathematics is not yours.
 
 One can say: music gives a way to hear and create form; here is an instrument, try.\
 Or one can say: you are our musician, this is your destiny.
@@ -108,7 +108,7 @@ The first opens a field. The second fixes the person before their self-definitio
 
 **Clean logic opens self-definition. Neuroprogramming captures self-definition.**
 
-Clean logic does not mean coldness, emotionlessness, or a formal game with rules. It means the ability to see a link before status, fear, shame, guilt, authority, love, dogma, or someone else’s interest has been mixed into it. Clean logic does not ask “who said this?” or “how am I supposed to feel about this?” It asks what exactly is linked to what, why it is linked, what cause it has, what consequence follows from it, and whether this link can be checked. Clean logic does not take away a person’s feelings, experience, or values. Clean logic does not allow the link itself to be replaced by an emotional evaluation, a role, or an order.
+Clean logic does not mean coldness, emotionlessness, or a formal game with rules. It means the ability to see a link before status, fear, shame, guilt, authority, love, dogma, or someone else’s interest has been mixed into it. Clean logic does not ask “who said this?” or “how am I supposed to feel about this?” It asks what exactly is linked to what, why it is linked, what its cause is, what consequence follows from it, and whether this link can be checked. Clean logic does not take away a person’s feelings, experience, or values. Clean logic does not allow the link itself to be replaced by an emotional evaluation, a role, or an order.
 
 That is why clean logic is the direct opposite of neuroprogramming. Neuroprogramming works when a person is given not a link for understanding, but a ready-made status for acceptance: this is shameful, this is sacred, this is betrayal, this is weakness, this is love, this is your duty, this is your dream. Clean logic breaks this automatism. It separates fact from status, mistake from personality, boundary from guilt, love from submission, authority from truth. Where a person can ask “why exactly this way?” and check the answer, neuroprogramming loses its main entry point.
 
@@ -197,7 +197,7 @@ Authority is not evil. Without authority, it is impossible to pass on experience
 ## Punitive and Reward-Based Neuroprogramming
 Neuroprogramming does not always come through fear. It is often mistakenly imagined as crude pressure, humiliation, punishment, violence, or direct prohibition. That is only one form.
 
-Punitive neuroprogramming is more obvious. It works through shame, threat, fear, rejection, guilt, humiliation, punishment. A person is compressed. They are shown that a certain action, thought, boundary, or desire will make them bad, weak, dangerous, ungrateful, sinful, traitorous, or unworthy of love.
+Punitive neuroprogramming is more obvious. It works through shame, threat, fear, rejection, guilt, humiliation, punishment. The person is pressured inward. They are shown that a certain action, thought, boundary, or desire will make them bad, weak, dangerous, ungrateful, sinful, traitorous, or unworthy of love.
 
 But reward-based neuroprogramming is often deeper, because it is not experienced as violence.
 
@@ -215,7 +215,7 @@ You are one of us when you repeat what the group repeats.
 Punitive neuroprogramming says: do not be like that, or you will be rejected.\
 Reward-based neuroprogramming says: be exactly like this, and you will be loved.
 
-The mechanics are the same. In both cases, the person is not helped to define themselves. The person is shown for which version of themselves they will receive acceptance, love, safety, pride, belonging, or status.
+The mechanics are the same. In both cases, the person is not helped to define themselves. The person is shown which version of themselves will receive acceptance, love, safety, pride, belonging, or status.
 
 **A person can be changed not only through pain, but also through reward for the correct form of themselves.**
 
@@ -234,7 +234,7 @@ A person doubts. This can be a sign of responsibility. Or it can be given the st
 
 A person obeys. This can be a temporary necessity in shared action. Or it can be proclaimed as honor, maturity, love, or moral superiority.
 
-The fact does not always change. The status of the fact changes. And status changes the entire internal passage.
+The fact does not always change. The status of the fact changes. And status changes the entire internal pathway.
 
 When status is fixed, a person no longer returns to verification each time. They automatically read the situation through a ready-made definition.
 
@@ -279,18 +279,18 @@ Successful neuroprogramming does not need constant external supervision. Control
 
 The person shames themselves.\
 Blames themselves.\
-Fears by themselves.\
-Does not ask by themselves.\
-Stops their dream by themselves.\
-Gives up their boundary by themselves.\
-Protects the system that formed them by themselves.
+Becomes afraid on their own.\
+Stops asking on their own.\
+Stops their dream on their own.\
+Gives up their boundary on their own.\
+Protects the system that formed them on their own.
 
 **The strongest neuroprogramming is external definition that has become internal self-control.**
 
 ## The Programming of Dreams
 Behavior can be changed by order. Thought can be changed by argument or pressure. Desire can be changed by reward, fear, shame, or repetition. But a dream is a deeper level.
 
-A dream organizes time. It determines what a person endures for, learns for, risks for, gives up alternatives for, accepts pain for, overcomes fatigue for, chooses between options for, and sees the future through.
+A dream organizes time. It shapes what a person endures for, learns for, risks for, gives up alternatives for, accepts pain for, overcomes fatigue for, chooses between options for, and sees the future through.
 
 If a person’s dream is changed, they do not need to be constantly pushed. They begin to move in the given direction by themselves.
 
@@ -365,7 +365,7 @@ Coercion says: do this, or there will be punishment.
 
 Neuroprogramming does something else: you yourself must consider this correct, desirable, inevitable, moral, worthy, or the only possible thing.
 
-That is why behavior after neuroprogramming often looks voluntary. A person may sincerely say: this is my choice. Formally, they are not lying. The problem is not whether they pressed the choice with their own hand. The problem is which internal links this choice arose from.
+That is why behavior after neuroprogramming often looks voluntary. A person may sincerely say: this is my choice. Formally, they are not lying. The problem is not whether they selected the option themselves. The problem is which internal links this choice arose from.
 
 **Neuroprogramming does not always take choice away directly. It changes the field in which a certain choice begins to look like one’s own.**
 
@@ -391,7 +391,7 @@ Why does advertising have the right to form desire, not merely inform about a pr
 
 Neuroprogramming does not like “why?” because this question breaks the automatism. When a person asks “why?”, they are no longer merely carrying out status. They are checking the link.
 
-That is why systems of neuroprogramming almost always defend themselves from “why?” through status:
+That is why systems of neuroprogramming almost always defend themselves against “why?” through status:\
 question — disrespect;\
 doubt — weakness;\
 analysis — danger;\
@@ -463,9 +463,9 @@ What must not be asked about.
 
 The power of social neuroprogramming is that authority dissolves into the environment. It seems to the person: no one is defining me; this is just how everyone understands it. This is how it is done. This is normal. This is correct. This is how people live. This is what our people do.
 
-Instead of one authority, a collective authority of norm appears.
+Instead of one authority, the collective authority of the norm appears.
 
-**The system does not want only obedient action. The system wants a person who produces the correct action for the system by themselves.**
+**The system does not want only obedient action. The system wants a person who produces the action required by the system from within.**
 
 ## The Usurper’s Interest
 A usurper is not necessarily one person. It can be a regime, a group, a corporation, a sect, an ideology, a clan, a party, a military structure, a family, a school, an information machine, any system that wants to appropriate the right to define a person.
@@ -517,9 +517,9 @@ For a usurping system, these safeguards look like obstacles. For humanity, they 
 
 Where a system calls the shutdown of human safeguards strength, the extreme level of neuroprogramming begins.
 
-**The human function is a person in whom self-definition has been replaced by usefulness to an external system.**
+**The human-as-function is a person in whom self-definition has been replaced by usefulness to an external system.**
 
-But it does not follow from this that every external structure is a threat. A person cannot self-determine in chaos where the right to define is always given to the stronger. If there is no common boundary, its place is taken by force, fear, money, group, status, or private interest. Therefore, the problem is not the existence of rules, institutions, or law itself. The problem is whether they protect the field of self-definition, or begin to define the person in the interest of a system.
+But it does not follow from this that every external structure is a threat. A person cannot define themselves in chaos where the right to define is always taken by the stronger. If there is no common boundary, its place is taken by force, fear, money, group, status, or private interest. Therefore, the problem is not the existence of rules, institutions, or law itself. The problem is whether they protect the field of self-definition, or begin to define the person in the interest of a system.
 
 ## Law as Necessary Support
 Law by itself is not neuroprogramming. On the contrary, healthy law is needed precisely because without it, a person loses common support.
@@ -562,7 +562,7 @@ But: loyalty to the procedure is more important than reality.
 Not simply: the state has the right to organize common order.\
 But: the state has the right to define your role, fear, duty, dream, shame, and boundary.
 
-Here law stops being an external procedure and begins to become an internal instrument for forming the person.
+Here law stops being an external procedure and becomes an internal instrument for forming the person.
 
 The especially dangerous moment is when law begins to replace logic with the authority of the state.
 
@@ -584,7 +584,7 @@ The form remains: norms, courts, procedures, permits, prohibitions, licenses, ce
 
 But the function changes.
 
-Law begins not to protect the field of self-definition, but to grow the required citizen, the required worker, the required consumer, the required voter, the required soldier, the required silent carrier of the system for the service of a separate contour of interest.
+Law begins not to protect the field of self-definition, but to grow the required citizen, the required worker, the required consumer, the required voter, the required soldier, the required silent carrier of the system for the service of a separate structure of interest.
 
 Corruption eats law not only when money buys decisions. It eats law when private interest receives the right to define the social norm.
 
@@ -623,7 +623,7 @@ Do not create value — capture attention.
 
 This is no longer simply economics. This is the neuroprogramming of value.
 
-Money begins to define what should be considered success, intelligence, strength, freedom, dignity, rightness, future. A person begins to read themselves through financial status. Society begins to read quality through profitability. The market begins to read rightness through sales.
+Money begins to define what should be considered success, intelligence, strength, freedom, dignity, rightness, and the future. A person begins to read themselves through financial status. Society begins to read quality through profitability. The market begins to read rightness through sales.
 
 A deep inversion appears: the instrument that was supposed to serve life begins to define life.
 
@@ -672,18 +672,18 @@ Do I belong without this.\
 Am I not losing without this.\
 Will I not become invisible without this.
 
-**Advertising becomes neuroprogramming where it stops informing about a product and begins to define for a person who they are without the product and who they will become after purchase.**
+**Advertising becomes neuroprogramming where it stops informing about a product and begins to define who a person is without the product and who they will become after purchase.**
 
 ## The Market of Attention
-The market by itself is not neuroprogramming. It can be a mechanism of exchange, competition, comparison, search for better solutions. But the market becomes a support for neuroprogramming when access to the information space is determined not by quality, but by ability to pay.
+The market by itself is not neuroprogramming. It can be a mechanism of exchange, competition, comparison, and the search for better solutions. But the market becomes a support for neuroprogramming when access to the information space depends not on quality, but on the ability to pay.
 
 Whoever has more money receives more visibility, more repetition, more access to attention, more presence, more ability to impose statuses, more capacity to push alternatives out.
 
-A person often perceives what is visible as important. What is repeated as normal. What is mass as correct. What is expensive as quality. What is everywhere as legitimate.
+A person often perceives what is visible as important. What is repeated as normal. What is widespread as correct. What is expensive as quality. What is everywhere as legitimate.
 
 Thus money buys not merely advertising. It buys frequency of entry into human attention.
 
-When law does not limit manipulative advertising, hidden propaganda, exploitation of fear, shame, child vulnerability, inequality of access to the information space, and purchased visibility, the market begins to program the mass map of desires.
+When law does not limit manipulative advertising, hidden propaganda, the exploitation of fear, shame, children’s vulnerability, inequality of access to the information space, and purchased visibility, the market begins to program the mass map of desires.
 
 Money buys information space.\
 Information space forms statuses.\
@@ -715,11 +715,11 @@ The citizen gradually turns into a consumer, resource, function, or electoral un
 
 Modern neuroprogramming often does not come as crude dogma. It comes as market necessity, career advice, motivational culture, commercial dream, brand identity, political advertising, state communication, algorithmically amplified repetition, legal procedure, social norm.
 
-It does not always order a person who to be. It creates an environment in which a certain type of person becomes more economically, socially, and legally advantageous.
+It does not always tell a person who to be. It creates an environment in which a certain type of person becomes more economically, socially, and legally advantageous.
 
 That is why the modern form of neuroprogramming is so complex. It can look like freedom of choice, while in fact the field of desires, fears, statuses, and possibilities has already been prepared.
 
-**When law loses its purity, money stops being an instrument, advertising stops being information, and the market begins to sell access to attention, society receives not an economy of freedom, but an infrastructure of neuroprogramming.**
+**When law loses its purity, money stops being an instrument, advertising stops being information, and the market begins to sell access to attention, society does not receive an economy of freedom, but an infrastructure of neuroprogramming.**
 
 ## The Opposite of Neuroprogramming
 The opposite of neuroprogramming is not chaos. Not anarchy. Not the rejection of upbringing. Not the rejection of law. Not the rejection of values. Not the rejection of culture. Not indifference toward a child. Not leaving a person without orientation.
@@ -756,14 +756,14 @@ The opposite principle says: here is the link, check it, understand it, accept o
 
 This does not destroy the person. It returns to the person the right to be human.
 
-**A person does not need to be left without links. A person must not have their right to define which links will become their own replaced by someone else.**
+**A person does not need to be left without links. But no one should replace a person’s right to define which links will become their own.**
 
 ## Conclusion: The Right to Define Oneself
 Neuroprogramming is not a technique of influence. It is the capture of the moment in which a person was supposed to become themselves.
 
 It begins where a person does not yet have their own experience for verification. Through authority, they are given not only information, but status. Through status, weight is formed. Through weight, direction is opened. Through shame, guilt, fear, or love, this direction is fixed. Through dogma, the question “why?” is closed. Through social norm, external definition is made obvious. Through law, it can be given legal form. Through money, an instrument can be turned into a goal. Through advertising, desire can be formed. Through the market of attention, required statuses can be repeated until they become an internal map.
 
-Neuroprogramming does not always break a person crudely. Often, it forms a person softly, beautifully, morally, legally, commercially, caringly, patriotically, spiritually, professionally, or familially. That is why it is difficult to see.
+Neuroprogramming does not always break a person crudely. Often, it forms a person softly, beautifully, morally, legally, commercially, caringly, patriotically, spiritually, professionally, or within the family. That is why it is difficult to see.
 
 The most dangerous neuroprogramming does not force a person to live someone else’s life. It makes the person call someone else’s life their own.
 
