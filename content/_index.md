@@ -10,7 +10,7 @@ Configism is a discipline of thought based on Configurational Logic, studying ho
 
 **Configurational Logic**
 
-Configurational Logic is a model of logic in which everything is thought as a configuration and its unfolding.
+Configurational Logic is the configurational principle of a defined connection in which any object of analysis is approached through its configuration and unfolding.
 
 ---
 
