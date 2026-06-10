@@ -289,7 +289,7 @@ Religion, myth, ritual, taboo, law, morality, money, state, nation, ideology, ed
 
 A symbolic status is not dangerous because it is symbolic. It is dangerous when it begins to behave like an untouchable primary reality.
 
-At this level, **neuroprogramming** emerges. Not in the popular sense of a “manipulative technique,” but in the precise logical sense: a sign becomes stably decoded into a particular symbolic status, this status receives weight and opens a vector, and the whole chain begins to **automatically trigger** behavioral readiness.
+At this level, [neuroprogramming](https://configism.com/articles/neuroprogramming/) emerges. Not in the popular sense of a “manipulative technique,” but in the precise logical sense: a sign becomes stably decoded into a particular symbolic status, this status receives weight and opens a vector, and the whole chain begins to **automatically trigger** behavioral readiness.
 
 A word, image, flag, command, doctrine, or social role ceases to be merely a symbol. It becomes a trigger of passage. The person no longer decodes the signal, but executes a fixed sequence.
 
