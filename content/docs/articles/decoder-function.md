@@ -121,7 +121,7 @@ When a condition passes through this axis and receives the status threat / non-t
 
 Threat / non-threat is not a thought, not an evaluation, and not a symbolic meaning. It is the primary PAL-status of a condition in relation to living passage.
 
-PAL, as the Primary Algorithm of Life, does not decode “law,” “sin,” “evidence,” “command,” “honor,” or “symbol.” At the PAL level, a condition is decoded in relation to life.
+PAL, as the Primary Algorithm of Life, does not decode “law”, “sin”, “evidence”, “command”, “honor”, or “symbol”. At the PAL level, a condition is decoded in relation to life.
 
 A nutrient for a cell, light for a plant, a toxin for an organism, temperature, pressure, lack, pain, or damage pass as conditions of life. At this level, they are not yet symbols, facts, or social meanings. But they are no longer merely physical changes. They receive status, weight, and direction in relation to living passage.
 
@@ -187,7 +187,7 @@ The decoder has three main links: status, weight, and vector.
 
 At the PAL level, status has the simplest form: threat / non-threat. At the variational-functional level, ways of passage receive status. At the subject-level, status passes through experience. At the social level, through group, role, and norm. At the symbolic level, through sign, law, morality, faith, or meaning.
 
-Status does not describe a thing “in itself.” Status defines what this thing, action, event, or signal is for a specific contour at a specific level of decoding.
+Status does not describe a thing “in itself”. Status defines what this thing, action, event, or signal is for a specific contour at a specific level of decoding.
 
 **Weight** answers the question:\
 **how significant is this?**
@@ -289,7 +289,7 @@ Religion, myth, ritual, taboo, law, morality, money, state, nation, ideology, ed
 
 A symbolic status is not dangerous because it is symbolic. It is dangerous when it begins to behave like an untouchable primary reality.
 
-At this level, [neuroprogramming](https://configism.com/articles/neuroprogramming/) emerges. Not in the popular sense of a “manipulative technique,” but in the precise logical sense: a sign becomes stably decoded into a particular symbolic status, this status receives weight and opens a vector, and the whole chain begins to **automatically trigger** behavioral readiness.
+At this level, [neuroprogramming](https://configism.com/articles/neuroprogramming/) emerges. Not in the popular sense of a “manipulative technique”, but in the precise logical sense: a sign becomes stably decoded into a particular symbolic status, this status receives weight and opens a vector, and the whole chain begins to **automatically trigger** behavioral readiness.
 
 A word, image, flag, command, doctrine, or social role ceases to be merely a symbol. It becomes a trigger of passage. The person no longer decodes the signal, but executes a fixed sequence.
 
@@ -392,4 +392,4 @@ Therefore, reality does not become action directly. It enters a living contour a
 ### change log
 
 - **v1.0** · 2026-05-30 – Initial public version.
-- **v1.1** · 2026-06-02 – Refined the Decoder Function’s internal logic by clarifying how fixed conditions pass into status / weight / vector formation within a contour. Replaced residual “carrier” terminology with “contour,” added observer distinctions for living and artificial contours, introduced a dedicated Primary and Secondary Choice section, and clarified secondary choice as the variational-functional level of decoding.
+- **v1.1** · 2026-06-02 – Refined the Decoder Function’s internal logic by clarifying how fixed conditions pass into status / weight / vector formation within a contour. Replaced residual “carrier” terminology with “contour”, added observer distinctions for living and artificial contours, introduced a dedicated Primary and Secondary Choice section, and clarified secondary choice as the variational-functional level of decoding.
