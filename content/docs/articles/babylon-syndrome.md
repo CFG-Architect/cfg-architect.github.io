@@ -7,9 +7,8 @@ url: "/articles/babylon-syndrome/"
 weight: 100
 mode: "Plain Human Language"
 version: "v1.1"
-status: "Current"
 date: "2026-06-04"
-lastmod: "2026-06-09"
+lastmod: "2026-06-11"
 ---
 # The Babylon Syndrome Is Not a Myth About Confused Languages
 ---
