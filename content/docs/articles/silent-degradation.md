@@ -7,9 +7,8 @@ url: "/articles/silent-degradation/"
 weight: 60
 mode: "Plain Human Language"
 version: "v1.0"
-status: "Current"
 date: "2026-05-31"
-lastmod: "2026-05-31"
+lastmod: "2026-06-11"
 ---
 # Silent Degradation: When AI Answers Look Competent but Lose Depth 
 ---
