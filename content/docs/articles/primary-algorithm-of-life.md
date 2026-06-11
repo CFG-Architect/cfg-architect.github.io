@@ -7,9 +7,8 @@ url: "/articles/primary-algorithm-of-life/"
 weight: 30
 mode: "Plain Human Language"
 version: "v1.1"
-status: "Current"
 date: "2026-05-27"
-lastmod: "2026-06-02"
+lastmod: "2026-06-11"
 ---
 # The Primary Algorithm of Life: From State-Fixation to Primary Choice
 ---
