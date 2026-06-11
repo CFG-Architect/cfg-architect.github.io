@@ -7,9 +7,8 @@ url: "/articles/decoder-function/"
 weight: 40
 mode: "Plain Human Language"
 version: "v1.1"
-status: "Current"
 date: "2026-05-30"
-lastmod: "2026-06-02"
+lastmod: "2026-06-11"
 ---
 # Reality Decoder: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
 ---
