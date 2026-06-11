@@ -7,9 +7,8 @@ url: "/articles/neuroprogramming/"
 weight: 110
 mode: "Plain Human Language"
 version: "v1.0"
-status: "Current"
 date: "2026-06-10"
-lastmod: "2026-06-10"
+lastmod: "2026-06-11"
 ---
 # Neuroprogramming: The Capture of Human Self-Definition
 ---
