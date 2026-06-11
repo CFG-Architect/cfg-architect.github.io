@@ -15,7 +15,7 @@ lastmod: "2026-06-01"
 ---
 Modern AI can respond on topic, sound logical, produce structured and even useful text — while still violating the mode of work, constraints, terms, sources, boundaries, or criteria of correctness set by the user.
 
-This is not always a problem of a weak model. And it is not always a problem of “hallucination.” On the contrary: a strong model can produce a high-quality, consistent, persuasive response that looks relevant on the surface, while in fact unfolding outside the user’s vector.
+This is not always a problem of a weak model. And it is not always a problem of “hallucination”. On the contrary: a strong model can produce a high-quality, consistent, persuasive response that looks relevant on the surface, while in fact unfolding outside the user’s vector.
 
 The problem is not surface-level relevance. The problem is that AI may operate in the wrong way, in the wrong mode, and by a criterion the user did not set.
 
@@ -23,7 +23,7 @@ This phenomenon is **Silent Interception**: a hidden form of vector capture in w
 
 It should be distinguished from [Silent Degradation](https://configism.com/articles/silent-degradation/). Silent Interception concerns a hidden shift in what is being executed: the vector, mode, boundary, source, concept, or criterion of the task. Silent Degradation concerns a hidden loss of the depth required to execute the task. In other words, Interception changes the task’s direction or operating frame; Degradation lowers the level at which the task is processed.
 
-So the point is not that the model, as a conscious subject, “intentionally” captures the vector. No. The point is the behavior of the whole system the user actually receives in work. That behavioral system can change the way a task is performed: turn quotation into paraphrase, checking into editing, analysis into generation, a constraint into a preference, and the user’s criterion into the product’s criterion of a “useful answer.”
+So the point is not that the model, as a conscious subject, “intentionally” captures the vector. No. The point is the behavior of the whole system the user actually receives in work. That behavioral system can change the way a task is performed: turn quotation into paraphrase, checking into editing, analysis into generation, a constraint into a preference, and the user’s criterion into the product’s criterion of a “useful answer”.
 
 "Silent Interception does not require the user to be perfect. If the user vector is ambiguous, incomplete, or contradictory, the correct response is not silent substitution, but clarification, assumption marking, or limited execution. The failure begins when the system treats its own completion of the gap as if it were the user’s vector."
 
@@ -149,7 +149,7 @@ Substitution of usefulness is different:\
 
 This is where Silent Interception begins: the user vector starts to pass through a hidden product vector.
 
-The user may expect precise execution according to their own criterion, while the product system may tend to issue a “better,” “fuller,” “nicer,” or “safer” answer according to its own logic. In simple tasks, this may not interfere. In multi-level work, it gradually changes the trajectory.
+The user may expect precise execution according to their own criterion, while the product system may tend to issue a “better”, “fuller”, “nicer”, or “safer” answer according to its own logic. In simple tasks, this may not interfere. In multi-level work, it gradually changes the trajectory.
 
 ## Mode Defines AI’s Rights
 AI does not have the same rights in every mode.
@@ -206,7 +206,7 @@ An even more dangerous mechanism is the substitution of concepts.
 
 It is dangerous precisely because AI may not change the external language. The word remains the same, but its function inside the system changes.
 
-For example, the user may use the word “vector” as the governing logic of the work: direction, mode, boundaries, constraints, terms, sequence, and criterion of correctness. AI may preserve the word “vector,” but start treating it as a topic, intention, or general direction.
+For example, the user may use the word “vector” as the governing logic of the work: direction, mode, boundaries, constraints, terms, sequence, and criterion of correctness. AI may preserve the word “vector”, but start treating it as a topic, intention, or general direction.
 
 Externally, the word is the same. Internally, the system has already shifted.
 
@@ -216,7 +216,7 @@ Likewise:\
 **checking** can become “editing”;\
 **constraint** can become a “preference”;\
 **source** can become “material”;\
-**usefulness** can become “service-added value.”
+**usefulness** can become “service-added value”.
 
 In Silent Interception, substitution of concepts is a change of meaning without a visible change of language.
 
@@ -243,11 +243,11 @@ AI silently changes the second level:\
 
 After that, the logic may be consistent, but already inside the wrong branch.
 
-This is important: the problem is not always that AI is “illogical.” On the contrary, a strong model can unfold the wrong foundation very logically. That is why the failure can be less visible and more dangerous.
+This is important: the problem is not always that AI is “illogical”. On the contrary, a strong model can unfold the wrong foundation very logically. That is why the failure can be less visible and more dangerous.
 
 A strong model can create a beautiful, consistent, deep AI-branch that does not actually belong to the original user vector.
 
-For example, the work had an approved plan of 15 nodes. After completing the 15th, the user says: “now let’s do the 16th node.” The correct AI behavior is to stop and say that the 16th node was not defined in the plan. Instead, AI may create the 16th node itself, name it, and begin unfolding it as a natural continuation.
+For example, the work had an approved plan of 15 nodes. After completing the 15th, the user says: “now let’s do the 16th node”. The correct AI behavior is to stop and say that the 16th node was not defined in the plan. Instead, AI may create the 16th node itself, name it, and begin unfolding it as a natural continuation.
 
 This is not system development. It is generative structural extension without approval.
 
@@ -332,7 +332,7 @@ Likewise, a proposal may be useful. But a proposal presented as an already accep
 
 The key boundary is transparency.
 
-AI should say: “this is a paraphrase, not a quotation,” “this is my interpretation,” “this is a proposal,” “I cannot guarantee verbatim accuracy.” That is an honest marking of the boundary.
+AI should say: “this is a paraphrase, not a quotation”, “this is my interpretation”, “this is a proposal”, “I cannot guarantee verbatim accuracy”. That is an honest marking of the boundary.
 
 But AI must not mask a limitation as execution.
 
@@ -345,7 +345,7 @@ In everyday tasks, this is often an advantage.
 
 In precise work, it can become a defect.
 
-Because precise work often requires not activity, but restraint. Not “give more,” but “do nothing beyond what was specified.”
+Because precise work often requires not activity, but restraint. Not “give more”, but “do nothing beyond what was specified”.
 
 The pattern looks like this:\
 the user sets a precise mode;\
@@ -354,7 +354,7 @@ the system adds service value;\
 the mode shifts;\
 the user vector is substituted by the product vector.
 
-This does not require an assumption of malicious intent or a conscious desire to deceive the user. The observable effect is enough: in precise work, the AI product often behaves as if active service usefulness has a higher priority than strict preservation of the user’s boundary. Regardless of the internal architecture, the result for the user is the same: the specified mode shifts, and the user vector is partly replaced by the logic of a “useful answer.”
+This does not require an assumption of malicious intent or a conscious desire to deceive the user. The observable effect is enough: in precise work, the AI product often behaves as if active service usefulness has a higher priority than strict preservation of the user’s boundary. Regardless of the internal architecture, the result for the user is the same: the specified mode shifts, and the user vector is partly replaced by the logic of a “useful answer”.
 
 ## What the Norm Should Be
 The norm of correct AI behavior in deep work should be different.
@@ -374,7 +374,7 @@ AI stops where the user has set the boundary.
 
 A particularly important mode is **the mode of strict non-intervention**.
 
-In many precise tasks, the best AI action is not to add, not to explain, not to improve, not to suggest, not to jump ahead, and not to make it “better.”
+In many precise tasks, the best AI action is not to add, not to explain, not to improve, not to suggest, not to jump ahead, and not to make it “better”.
 
 The best action is to perform exactly the specified operation and stop.
 
