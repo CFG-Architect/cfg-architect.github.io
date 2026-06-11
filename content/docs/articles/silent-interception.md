@@ -1,5 +1,5 @@
 ---
-title: "Silent Interception: When AI Changes the User’s Vector  | Configism"
+title: "Silent Interception: When AI Changes the User’s Vector | Configism"
 description: "AI can answer on topic while silently changing the user’s mode, boundaries, and criteria. This article analyzes how vector intercept happens in precise AI work."
 linkTitle: "Silent Interception"
 type: docs
@@ -7,9 +7,8 @@ url: "/articles/silent-interception/"
 weight: 70
 mode: "Plain Human Language"
 version: "v1.1"
-status: "Current"
 date: "2026-05-30"
-lastmod: "2026-06-01"
+lastmod: "2026-06-11"
 ---
 # Silent Interception: When AI Changes the User’s Vector
 ---
