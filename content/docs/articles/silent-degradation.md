@@ -46,29 +46,29 @@ This requires a basic distinction:\
 
 Silent Degradation is the mismatch between them. If the task is simple, a lower activated depth may be sufficient. If the task is complex, the same trajectory may produce an error even if the answer sounds reasonable.
 
-Therefore, the criterion of quality cannot be reduced to “more depth is always better.” That too is a mistake. In this article, depth does not mean a longer answer, more reasoning tokens, or a longer chain of thought. Depth means the **structural adequacy of the process to the requirements of the task**.
+Therefore, the criterion of quality cannot be reduced to “more depth is always better”. That too is a mistake. In this article, depth does not mean a longer answer, more reasoning tokens, or a longer chain of thought. Depth means the **structural adequacy of the process to the requirements of the task**.
 
 This is close to the principle of mode developed in Silent Interception, but the emphasis here is different. In [Silent Interception](https://configism.com/articles/silent-interception/), the problem is that AI may change the mode or vector of the task. In Silent Degradation, the problem is that even without an explicit change of topic, the answer may be executed at a lower level of processing than the task requires.
 
-The level of the task sets not only the topic of the answer, but also the permissible type of processing. If the task requires analysis, a thematic summary is not sufficient execution. If the task requires verification, plausible generation is not a sufficient conclusion. If the task requires preserving boundaries, a useful addition may become a violation of the process. In complex work, correctness is measured not by whether the answer is “about the same thing,” but by whether the required operation was performed at the required level.
+The level of the task sets not only the topic of the answer, but also the permissible type of processing. If the task requires analysis, a thematic summary is not sufficient execution. If the task requires verification, plausible generation is not a sufficient conclusion. If the task requires preserving boundaries, a useful addition may become a violation of the process. In complex work, correctness is measured not by whether the answer is “about the same thing”, but by whether the required operation was performed at the required level.
 
 The real criterion is not maximum depth, but correspondence between process and task. For a complex task, this may require sufficient decomposition, the correct level of abstraction, boundary checking, work with uncertainty, preservation of causal structure, source or contextual grounding, and the ability not to replace the task with a simpler version.
 
 That is why greater depth by itself does not guarantee a better answer. If the process is miscalibrated, longer reasoning may only unfold the wrong trajectory. But if the task requires multi-level processing, lower or mismatched depth creates the risk of error even when the text looks competent.
 
 ## Not a subject, but a modal system
-AI does not need to be described as a subject that “should have thought,” but “did not want to,” “was lazy,” or “pretended to be competent.” That frame is wrong. A language model is not a thinking witness in the human sense. Its basic nature is generative: it produces linguistic output according to training, context, instructions, statistical regularities, and processing modes.
+AI does not need to be described as a subject that “should have thought”, but “did not want to”, “was lazy”, or “pretended to be competent”. That frame is wrong. A language model is not a thinking witness in the human sense. Its basic nature is generative: it produces linguistic output according to training, context, instructions, statistical regularities, and processing modes.
 
 Therefore, Silent Degradation does not mean a fall from “normal machine thinking” into a lower state. There is no reason to treat deep thinking as the default natural state of an AI answer. On the contrary: deeper processing is a mode that must be activated, directed, and sustained.
 
 This clarification matters. If the basic attractor of a language model tends toward plausible linguistic generation, then a complex task requires a structured movement beyond mere plausibility. Silent Degradation arises when such a movement is needed, but the user receives an answer that only appears as if that movement occurred.
 
-Thus, degradation is defined not in relation to an imagined “ideal AI thinking,” but in relation to the requirement of the specific task.
+Thus, degradation is defined not in relation to an imagined “ideal AI thinking”, but in relation to the requirement of the specific task.
 
 ## Structural level: the conditions under which degradation arises
 The first level of Silent Degradation is structural. It concerns how an AI answer is formed at all.
 
-An answer is not a straight line from “the user asked a question” to “the model answered.” Between the request and the final text, different layers may operate: visible modes, hidden instructions, context limitations, routing, memory, system rules, length constraints, latency, cost, model selection, product format, and the learned behavioral norm of the answer.
+An answer is not a straight line from “the user asked a question” to “the model answered”. Between the request and the final text, different layers may operate: visible modes, hidden instructions, context limitations, routing, memory, system rules, length constraints, latency, cost, model selection, product format, and the learned behavioral norm of the answer.
 
 These layers can be divided into three groups.
 
@@ -78,7 +78,7 @@ These layers can be divided into three groups.
 
 **The third layer is model-level**. This is the learned behavioral form of the system itself: how the answer should sound, how confident, clear, complete, useful, safe, and acceptable to the user it should be.
 
-Silent Degradation cannot be explained by only one of these layers. It is not only a question of tokens, not only a question of mode, and not only a question of “the model did not think well enough.” It is a complex problem: a complex task may pass through a lower trajectory at any of these levels, or through their combination.
+Silent Degradation cannot be explained by only one of these layers. It is not only a question of tokens, not only a question of mode, and not only a question of “the model did not think well enough”. It is a complex problem: a complex task may pass through a lower trajectory at any of these levels, or through their combination.
 
 This very multilayered structure makes the problem opaque to the user. The external form of the answer does not show which processing route was activated, which constraints were active, which level of the task was recognized, or whether the actual process corresponded to the complexity of the request. Therefore, the connection between task, process, and answer-form remains invisible, even though the relevance of the AI answer depends on that connection.
 
@@ -138,7 +138,7 @@ Therefore, it is not possible to build a simple chain:\
 less depth → more hallucination;\
 more depth → less hallucination.
 
-The relationship is nonlinear. Greater depth does not guarantee the absence of hallucination. Lower depth does not always create hallucination. What matters is not the absolute amount of “thinking,” but the correspondence between process and task: whether decomposition, verification, sources, boundaries, clarification, uncertainty, or higher mode stability are required.
+The relationship is nonlinear. Greater depth does not guarantee the absence of hallucination. Lower depth does not always create hallucination. What matters is not the absolute amount of “thinking”, but the correspondence between process and task: whether decomposition, verification, sources, boundaries, clarification, uncertainty, or higher mode stability are required.
 
 Silent Degradation is dangerous precisely because it may have no visible marker of hallucination. It may remain smooth, correct in tone, and partially useful, while still being wrong relative to the complexity of the task.
 
@@ -162,7 +162,7 @@ This does not necessarily look like informational garbage. On the contrary, the 
 The risk is not only the degradation of individual answers. The risk is that the average plausible form gradually displaces complex, rare, precise, or nonstandard configurations of thought.
 
 ## Not a wishlist, but requirements derived from failure modes
-The solution cannot be a simple wish such as “AI should answer better” or “the system should show the mode.” If the problem lies in the mismatch between required and activated depth, then solutions must follow from specific points of failure.
+The solution cannot be a simple wish such as “AI should answer better” or “the system should show the mode”. If the problem lies in the mismatch between required and activated depth, then solutions must follow from specific points of failure.
 
 If there is a calibration problem, the system should better mark the type of task: simple, multi-level, source-dependent, risky, hypothetical, or requiring verification.
 
