@@ -11,7 +11,6 @@
 <div class="article-meta">
   <span><strong>mode:</strong> {{ .Page.Params.mode }}</span>
   {{- with .Page.Params.version }}<span> · <strong>version:</strong> {{ . }}</span>{{ end -}}
-  {{- with .Page.Params.status }}<span> · <strong>status:</strong> {{ . }}</span>{{ end -}}
   {{- if not .Page.Date.IsZero }}<span> · <strong>date:</strong> {{ .Page.Date.Format "2006-01-02" }}</span>{{ end -}}
   {{- if .Page.Params.lastmod }}<span> · <strong>lastmod:</strong> {{ .Page.Lastmod.Format "2006-01-02" }}</span>{{ end -}}
 </div>
