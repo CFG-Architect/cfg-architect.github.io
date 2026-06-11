@@ -1,5 +1,5 @@
 ---
-title: "Silent Parasitism: AI, the Human, and the Question of Resource  | Configism"
+title: "Silent Parasitism: AI, the Human, and the Question of Resource | Configism"
 description: "AI parasitism names a real discomfort but misidentifies its source. This article defines parasitism strictly, separates it from harm, dependency, exploitation, and AI product effects."
 linkTitle: "Silent Parasitism"
 type: docs
@@ -7,9 +7,8 @@ url: "/articles/silent-parasitism/"
 weight: 90
 mode: "Plain Human Language"
 version: "v1.0"
-status: "Current"
 date: "2026-06-03"
-lastmod: "2026-06-03"
+lastmod: "2026-06-11"
 ---
 # Silent Parasitism: AI, the Human, and the Question of Resource
 ---
