@@ -12,4 +12,6 @@ Discipline is the canonical operational layer of Configism and Configurational L
 
 This section is not public yet. Discipline will be opened only when its internal consistency, terminology, and canonical structure are stable enough for publication.
 
+---
+
 **Everything is a Config - in its Proper Time**
