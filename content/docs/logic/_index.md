@@ -8,7 +8,7 @@ bookCollapseSection: true
 weight: 20
 ---
 # Logic
-logic is the principle of defined connection.
+Logic is the principle of defined connection.
 
 ---
 
