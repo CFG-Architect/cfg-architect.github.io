@@ -17,9 +17,7 @@ Neuroprogramming is one of those topics that society has learned not to look at 
 
 **But neuroprogramming is not NLP.**
 
-That is why NLP is only a shadow on the surface of a deeper problem: a person can be changed not only in behavior, but in the internal system of thinking itself – the system through which they come to consider certain behavior correct, desirable, inevitable, or their own for the rest of their life.
-
-That is why NLP is only a shadow on the surface of a deeper problem: a person can be changed not only in behavior, but in the internal system of thinking itself – the system that definition what behavior they will consider correct, desirable, inevitable, or their own for the rest of their life.
+That is why NLP is only a shadow on the surface of a deeper problem: a person can be changed not only in behavior, but in the internal system of thinking itself — the system through which they come to consider certain behavior correct, desirable, inevitable, or their own for the rest of their life.
 
 A separate thought changes every day: through new experience, mistake, explanation, argument, pain, love, loss, knowledge. That is normal. A person learns, compares, rethinks, matures.
 
