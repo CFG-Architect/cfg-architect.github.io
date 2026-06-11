@@ -90,7 +90,7 @@ This is when the error of zero acquires civilizational scale.
 ## School zero
 The school level is not proof of the error of zero. The error arose earlier — at the level of status, when absence received the form of a number. Education does something else: it transmits this shift en masse as something obvious.
 
-When a child is taught the sequence 0, 1, 2, 3, zero stops looking like a special sign of an empty place. It looks like the first element of numerical order. Then it is simultaneously presented as a digit, as a number, as a mark for “nothing,” as a position before one, and as part of a scale.
+When a child is taught the sequence 0, 1, 2, 3, zero stops looking like a special sign of an empty place. It looks like the first element of numerical order. Then it is simultaneously presented as a digit, as a number, as a mark for “nothing”, as a position before one, and as part of a scale.
 
 Thus different statuses merge into one obviousness. The child learns not only a sign. The child learns a way of reading in which absence has a place in the numerical sequence.
 
@@ -129,7 +129,7 @@ Modern computational systems did not solve the philosophical problem of zero. Th
 
 This is not a philosophical proof by the intention of developers. It is an operational fact: real execution does not tolerate mixing where different states must produce different behavior.
 
-0 children means a known value: there are no children. NULL in a database means that the value is unknown or not set. An empty list means that the structure exists, but there are no elements in it. false means logical “no,” not quantity. NaN means a non-numerical result in a numerical context. At a lower machine level, these states may be represented by bits, addresses, or service codes, but their meaning does not arise from the bits themselves; it is assigned through execution context and type.
+0 children means a known value: there are no children. NULL in a database means that the value is unknown or not set. An empty list means that the structure exists, but there are no elements in it. false means logical “no”, not quantity. NaN means a non-numerical result in a numerical context. At a lower machine level, these states may be represented by bits, addresses, or service codes, but their meaning does not arise from the bits themselves; it is assigned through execution context and type.
 
 If all of this is replaced by one 0, the system loses semantic precision. It stops distinguishing absence, unknownness, empty structure, falsity, invalidity, and numerical zero.
 
