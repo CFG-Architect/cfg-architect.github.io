@@ -7,9 +7,8 @@ url: "/articles/observer-problem/"
 weight: 20
 mode: "Plain Human Language"
 version: "v1.1"
-status: "Current"
 date: "2026-05-26"
-lastmod: "2026-06-01"
+lastmod: "2026-06-11"
 ---
 # The Problem of the Observer: Why Observation Does Not Begin with Consciousness
 ---
