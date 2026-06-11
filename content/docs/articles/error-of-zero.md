@@ -7,9 +7,8 @@ url: "/articles/error-of-zero/"
 weight: 50
 mode: "Plain Human Language"
 version: "v1.0"
-status: "Current"
 date: "2026-05-28"
-lastmod: "2026-05-31"
+lastmod: "2026-06-11"
 ---
 # The Fundamental Error of Zero
 ---
