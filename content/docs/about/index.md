@@ -12,8 +12,9 @@ configism.com is the canonical public source for Configism and Configurational L
 
 It contains the current public materials, articles, structural notices, and future publication layers related to Configism and Configurational Logic.
 
-## Authorial Contour
+---
 
+## Authorial Contour
 Configism and Configurational Logic are not presented here as the work of a public personality, a personal brand, or a single performative identity.
 
 It is authored and maintained through an authorial contour.
@@ -23,8 +24,9 @@ This means that canonical status does not come from the biography of an author, 
 The authorship exists.\
 The private layer of authorship is not part of the public material.
 
-## Canonical Source
+---
 
+## Canonical Source
 The canonical source of record is:
 
 [configism.com](https://configism.com/)
@@ -33,24 +35,27 @@ All definitions, articles, structural notices, versions, and future public mater
 
 Materials related to Configism and Configurational Logic may be copied, archived, translated, quoted, discussed, criticized, or preserved across other platforms, provided that attribution and a link to the canonical source are retained.
 
-## Official External Channel
+---
 
+## Official External Channel
 The official external channel for updates, secondary notes, and public references is:
 
 [CFG_Architect on X](https://x.com/CFG_Architect)
 
 This account may be used for announcements, fragments, comments, publication notices, and secondary materials related to Configism and Configurational Logic.
 
-## Secondary Publications
+---
 
+## Secondary Publications
 Secondary publications are not the canon.
 
 A text, fragment, quote, repost, translation, comment, or discussion outside configism.com should be treated as secondary unless it clearly points back to the canonical source.
 
 If a version of Configism and Configurational Logic appears elsewhere and differs from the version published on configism.com, the version on configism.com has priority.
 
-## Authenticity
+---
 
+## Authenticity
 There is one canonical public source for Configism and Configurational Logic:
 
 [configism.com](https://configism.com/)
@@ -66,5 +71,7 @@ The rule is simple:
 canonical source – [configism.com](https://configism.com/)\
 official external channel – [CFG_Architect on X](https://x.com/CFG_Architect)\
 unconfirmed source or channel  – not part of Configism and Configurational Logic
+
+---
 
 **Everything is a Config**
