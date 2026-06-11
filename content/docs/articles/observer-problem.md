@@ -44,13 +44,13 @@ In this sense, granite observes solar impact not because it has eyes or consciou
 
 This is basic observation.
 
-A thermometer is a more complex example. It does not “understand” temperature, but thermal impact changes its state: liquid expands, a pointer shifts, or an electronic sensor changes a parameter. This change is fixed as a reading. Only then does a human read that value and define it as “20°C,” “hot,” “cold,” “normal,” or “dangerous.” The thermometer itself fixes a change of state; the mind gives that change meaning.
+A thermometer is a more complex example. It does not “understand” temperature, but thermal impact changes its state: liquid expands, a pointer shifts, or an electronic sensor changes a parameter. This change is fixed as a reading. Only then does a human read that value and define it as “20°C”, “hot”, “cold”, “normal”, or “dangerous”. The thermometer itself fixes a change of state; the mind gives that change meaning.
 
 This is important: **observation is not the same as understanding what is observed.**
 
-Likewise, a camera does not “understand” a tree. Light reaches its sensor, the material structure of the sensor changes, and that change is fixed as a technical record. Only then can a human, an algorithm, or another system interpret the record as “tree,” “face,” “road,” or “sky.” Basic fixation and later meaning are different levels.
+Likewise, a camera does not “understand” a tree. Light reaches its sensor, the material structure of the sensor changes, and that change is fixed as a technical record. Only then can a human, an algorithm, or another system interpret the record as “tree”, “face”, “road”, or “sky”. Basic fixation and later meaning are different levels.
 
-This is why we must be careful with the word “signal.” At the fundamental level, an impact is not a signal. Sunlight for granite is not a message, not a code, and not a sign. It is an impact. It becomes a change of state. The word “signal” appears when a mind, or a system created by mind, begins to treat an impact or a change as a carrier of information.
+This is why we must be careful with the word “signal”. At the fundamental level, an impact is not a signal. Sunlight for granite is not a message, not a code, and not a sign. It is an impact. It becomes a change of state. The word “signal” appears when a mind, or a system created by mind, begins to treat an impact or a change as a carrier of information.
 
 That is:\
 **interaction is fundamental;**\
@@ -101,11 +101,11 @@ This is a more precise starting point.
 **Why this matters?**
 Because the concept of the “observer” is used across many fields: physics, cosmology, quantum mechanics, biology, philosophy of consciousness, information theory, artificial intelligence, and systems thinking. If different levels are already mixed inside the term itself, that mixing then enters discussions and models.
 
-One person speaks about physical interaction. Another speaks about a detector. A third speaks about a human. A fourth speaks about consciousness. A fifth speaks about interpretation of the result. All of them use the word “observer,” but they are actually speaking about different things.
+One person speaks about physical interaction. Another speaks about a detector. A third speaks about a human. A fourth speaks about consciousness. A fifth speaks about interpretation of the result. All of them use the word “observer”, but they are actually speaking about different things.
 
 Because of this, some discussions about the observer look more complex than they actually are. Not because the problem is simple, but because the term immediately moves us across different levels: from stone to human, from detector to consciousness, from fixation to meaning.
 
-The solution is not to ban the word “observer.” The solution is to clarify it by levels.
+The solution is not to ban the word “observer”. The solution is to clarify it by levels.
 
 At the basic level:\
 **observation is an impact fixed as a change of state.**
@@ -120,7 +120,7 @@ Then it becomes clear: observation does not begin with consciousness. It begins 
 ## The main conclusion
 **An observer is not the one who understands, but the contour in which interaction becomes state-fixed as a change of state.**
 
-This is not a mystical thesis and not a claim that “everything is conscious.” On the contrary, it is a way to avoid confusion. A stone has no consciousness. A thermometer has no mind. A camera has no meaning of its own. But all of them can be contours in which interaction becomes state-fixed.
+This is not a mystical thesis and not a claim that “everything is conscious”. On the contrary, it is a way to avoid confusion. A stone has no consciousness. A thermometer has no mind. A camera has no meaning of its own. But all of them can be contours in which interaction becomes state-fixed.
 
 Therefore, the observer should not begin with eyes, brain, or subjecthood, but with the simplest level:\
 **interaction → impact → change of state → state-fixation**
@@ -132,4 +132,4 @@ Everything else – signal, [decoding](https://configism.com/articles/decoder-fu
 ### change log
 
 - **v1.0** · 2026-05-26 – Initial public version.
-- **v1.1** · 2026-06-01 – Refined the observer definition through “state-fixation” and “contour,” clarifying basic observation as state-fixed interaction within a bounded locus. Added a logical bridge to the Primary Algorithm of Life as a later living-contour level.
+- **v1.1** · 2026-06-01 – Refined the observer definition through “state-fixation” and “contour”, clarifying basic observation as state-fixed interaction within a bounded locus. Added a logical bridge to the Primary Algorithm of Life as a later living-contour level.
