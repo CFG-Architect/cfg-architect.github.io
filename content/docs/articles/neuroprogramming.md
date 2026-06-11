@@ -366,7 +366,7 @@ That is why behavior after neuroprogramming often looks voluntary. A person may 
 
 **Neuroprogramming does not always take choice away directly. It changes the field in which a certain choice begins to look like one’s own.**
 
-That is why freedom cannot be reduced only to the presence of options. A person may have options, but be formed in such a way that only one of them seems morally permitted, worthy of love, safe, or “their own.”
+That is why freedom cannot be reduced only to the presence of options. A person may have options, but be formed in such a way that only one of them seems morally permitted, worthy of love, safe, or “their own”.
 
 ## The Loss of “Why?”
 The question “why?” is one of the main protections against neuroprogramming.
@@ -508,7 +508,7 @@ More identification with the group.\
 More readiness for self-sacrifice.\
 More ability to carry out an external direction as one’s own will.
 
-A normal person has internal safeguards: doubt, fear of death, empathy, the right to a boundary, the ability to say “no,” the ability to ask a question, the ability to see another human being not as an object, the ability to distinguish duty from self-destruction.
+A normal person has internal safeguards: doubt, fear of death, empathy, the right to a boundary, the ability to say “no”, the ability to ask a question, the ability to see another human being not as an object, the ability to distinguish duty from self-destruction.
 
 For a usurping system, these safeguards look like obstacles. For humanity, they are protection.
 
