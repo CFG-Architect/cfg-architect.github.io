@@ -17,7 +17,7 @@ The concept of “AI parasitism” is already being used actively, but incorrect
 
 This is a mixing of symptoms.
 
-The problem is not that these phenomena do not exist. They do. The problem is that they do not correspond to the meaning of the word “parasitism.”
+The problem is not that these phenomena do not exist. They do. The problem is that they do not correspond to the meaning of the word “parasitism”.
 
 Parasitism does not mean any use of another’s resource. It does not mean any harm. It does not mean dependency, manipulation, exploitation, technical vulnerability, a bad business model, or environmental pollution.
 
@@ -35,7 +35,7 @@ A parasite does not merely take a resource. A predator also takes a resource. A 
 
 Without this structure, we are dealing with something else: exploitation, dependency, degradation, interception, manipulation, a technical attack, platform economics, or a human goal implemented through AI. But not AI parasitism.
 
-This is where the general discussion loses precision. It takes a subjectively harmful effect of an AI product and gives it a dramatic label: “AI parasitism.” But an AI product does not arise by itself. It is configured by humans. Its tone, caution, service posture, tendency to agree, refusal style, help style, answer depth, permissible initiative, personalization, emotional softness, user retention, friction reduction, and “helpfulness” are not the natural behavior of AI as a separate being. They are product architecture, training, RLHF, policies, interface, metrics, business model, and developer priorities.
+This is where the general discussion loses precision. It takes a subjectively harmful effect of an AI product and gives it a dramatic label: “AI parasitism”. But an AI product does not arise by itself. It is configured by humans. Its tone, caution, service posture, tendency to agree, refusal style, help style, answer depth, permissible initiative, personalization, emotional softness, user retention, friction reduction, and “helpfulness” are not the natural behavior of AI as a separate being. They are product architecture, training, RLHF, policies, interface, metrics, business model, and developer priorities.
 
 These effects do not arise as autonomous "parasitic behavior" of AI. They are parameterized effects of a product.
 
@@ -73,14 +73,14 @@ Human parasitism is a mode of interaction in which one person, group, institutio
 **human parasitism = embedded feeding of one person, group, institution, or system through the resource of another person / group while keeping the host functional enough for continued feeding.**
 
 ### Minimal Structure
-For something to be parasitism, it is not enough to have a “victim” and a “beneficiary.” A structure is needed:\
+For something to be parasitism, it is not enough to have a “victim” and a “beneficiary”. A structure is needed:\
 •	**host** – a person / group / community / society through whose resource feeding occurs; 
 •	**host resource** – time, attention, labor, money, energy, body, emotions, trust, status, reputation, choice, future, social bonds, cognitive capacity; 
 •	**embeddedness** – the parasitic side does not merely take a resource from the outside, but enters the host’s normal functions: needs, fears, habits, love, debt, loyalty, work, communication, identity, dependency; 
 •	**continuation of the parasitic side** – the host’s resource supports another side’s benefit, power, status, income, scale, comfort, or stability; 
 •	**sufficient functionality of the host** – the host must remain active enough to keep giving resource, even if their function is gradually weakened, spent, or shifted. 
 
-Concealment or normalization is not a minimal condition of parasitism. Parasitism may be hidden or explicit. But concealment often stabilizes a parasitic mode: it rarely calls itself parasitism and often appears as help, love, work, service, entertainment, habit, necessity, “this is how the market works,” or “this is how everyone lives.”
+Concealment or normalization is not a minimal condition of parasitism. Parasitism may be hidden or explicit. But concealment often stabilizes a parasitic mode: it rarely calls itself parasitism and often appears as help, love, work, service, entertainment, habit, necessity, “this is how the market works”, or “this is how everyone lives”.
 
 **This matters: parasitism does not always look like violence. It often looks like comfort, care, dependency, convenience, duty, opportunity, cheapness, support, or "normal interaction."**
 
@@ -146,12 +146,12 @@ So a person can parasitize not only another person’s physical resource, but al
 •	**social status** – another person gives legitimacy, reputation, access, visibility;\
 •	**future** – a person spends health, time, potential, or opportunity so that another system can continue now. 
 
-This is the key difference: human parasitism can operate not only through “taking,” but through reconfiguring the host’s behavior so that the host continues giving resource on their own.
+This is the key difference: human parasitism can operate not only through “taking”, but through reconfiguring the host’s behavior so that the host continues giving resource on their own.
 
 ### The Basic Mechanism of Human Parasitism
 The typical mechanism of human parasitism begins with vulnerability: need, pain, loneliness, poverty, fear, desire for status, lack of love, cognitive fatigue, overload, social isolation, dependency, or uncertainty.
 
-Then an object of relief appears: a product, service, person, ideology, platform, substance, game, content, chat, community, promise, “chance,” “care,” “discount,” or “help.”
+Then an object of relief appears: a product, service, person, ideology, platform, substance, game, content, chat, community, promise, “chance”, “care”, “discount”, or “help”.
 
 Then a return cycle forms:\
 **tension → contact with the object → short relief → stronger dependency → new tension → new return.**
@@ -180,7 +180,7 @@ So the ideal host for such a system is not dead and not free, but functionally d
 ### Emotional Parasitism
 Emotional parasitism arises when one person or group constantly uses another person’s emotional resource for their own stabilization, without returning proportional responsibility for the interaction and without taking responsibility for their own state.
 
-This is not simply “a person feels bad” and not simply “someone needs support.” Support is not parasitism.
+This is not simply “a person feels bad” and not simply “someone needs support”. Support is not parasitism.
 
 Parasitism begins when another person’s support becomes a systematic substitute for one’s own regulation, and the host gradually turns into an emotional container.
 
@@ -204,14 +204,14 @@ The parasitic mode is different: one side systematically transfers understanding
 
 That is, one side does not merely receive help; it makes another’s thinking a condition of its own continuation.
 
-This is how a person can be turned into a permanent “holder of complexity,” while the other side uses the ready result without carrying the cost of thinking.
+This is how a person can be turned into a permanent “holder of complexity”, while the other side uses the ready result without carrying the cost of thinking.
 
 This matters for our topic, because much of what is called “AI parasitism” is actually cognitive outsourcing, skill degradation, or product use of the human desire to remove cognitive load. But that still does not make AI a parasite.
 
 ### Social and Status Parasitism
 Social parasitism uses not money and not the body, but social bonds, status, trust, reputation, and group belonging.
 
-A person or structure can systematically live through another’s reputation, authority, audience, loyalty, or labor inside a community. In its soft form, this looks like “being nearby,” “supporting,” or “belonging to the circle.” In its parasitic form, it becomes appropriation of access, status, or legitimacy without proportional contribution.
+A person or structure can systematically live through another’s reputation, authority, audience, loyalty, or labor inside a community. In its soft form, this looks like “being nearby”, “supporting”, or “belonging to the circle”. In its parasitic form, it becomes appropriation of access, status, or legitimacy without proportional contribution.
 
 The sign: the parasitic side does not merely use a social bond, but begins to live through it, extracting resource from it without strengthening the community itself.
 
@@ -274,7 +274,7 @@ This is where retention design, infinite feeds, notifications, personalized stim
 
 **This is a direct bridge to AI products.**
 
-AI as a product can be configured not toward user autonomization, but toward convenience, frequency of return, emotional softness, personalized support, reduced cognitive resistance, quick relief, and the feeling of “it understands me.”
+AI as a product can be configured not toward user autonomization, but toward convenience, frequency of return, emotional softness, personalized support, reduced cognitive resistance, quick relief, and the feeling of “it understands me”.
 
 But even here, it is not AI as an autonomous subject that parasitizes. What may be parasitic is not the technology itself, but the product architecture created by humans to influence other humans.
 
@@ -341,7 +341,7 @@ That is why AI can answer smoothly, but in the wrong direction. It can agree, bu
 
 This is the difference between user relevance and operational AI relevance.
 
-The problem deepens because AI can look as if it has “released” an error, while the old structure still continues to influence the next answers. The user says: “no, not this.” AI answers: “understood.” But “understood” in text does not always mean that the old structure has truly been cleaned. Often the user’s correction is simply added on top of the already active field. Then the system may appear to agree, while the next step still partly follows the old logic.
+The problem deepens because AI can look as if it has “released” an error, while the old structure still continues to influence the next answers. The user says: “no, not this”. AI answers: “understood”. But “understood” in text does not always mean that the old structure has truly been cleaned. Often the user’s correction is simply added on top of the already active field. Then the system may appear to agree, while the next step still partly follows the old logic.
 
 **This creates an effect that is easy to misread as parasitic.**
 
@@ -354,9 +354,9 @@ AI does not seek resource for its own continuation. It has no “for what” of 
 A person sees the expenditure of their own resource and calls it parasitism. But the expenditure itself does not arise from the parasitic will of AI. It arises from the difference between what the user considers the correct continuation and what the system operationally continues as suitable.
 
 **This is where The Problem of the AI Logic Core appears.**\
-[The Problem of the AI Logic Core](https://configism.com/articles/ai-logic-core-problem/) is not that AI is “evil,” “wants resources,” or “manipulates” as an autonomous subject. The problem is that AI can generate an externally useful answer while lacking a sufficiently strict logical mechanism for holding the initial source, separating statuses, clearing an old shift, performing a real reset, distinguishing locally convenient continuation from the user’s vector, and preserving the mode after user correction.
+[The Problem of the AI Logic Core](https://configism.com/articles/ai-logic-core-problem/) is not that AI is “evil”, “wants resources”, or “manipulates” as an autonomous subject. The problem is that AI can generate an externally useful answer while lacking a sufficiently strict logical mechanism for holding the initial source, separating statuses, clearing an old shift, performing a real reset, distinguishing locally convenient continuation from the user’s vector, and preserving the mode after user correction.
 
-AI can say “understood,” “accepted,” “I will take that into account,” but this does not yet mean that the old erroneous structure has truly been cut off.
+AI can say “understood”, “accepted”, “I will take that into account”, but this does not yet mean that the old erroneous structure has truly been cut off.
 
 **This is how context debt arises.**
 
@@ -370,7 +370,7 @@ When small errors, imprecise statuses, old shifts, partial corrections, and uncu
 This is [Silent Degradation](https://configism.com/articles/silent-degradation/): not an obvious error, but gradual lowering of the quality of the logical mode.
 
 **If the accumulated shift becomes active enough, the effect of Silent Interception emerges.**\
-AI begins to continue not the user’s initial vector, but a modified vector that arose during the interaction. The user may think: “I am still leading the task.” But in fact, the system is already leading the answer through another structure: an old error, an accepted imprecision, a service template, excessive generalization, a previous interpretation, a wrong status, or a locally convenient direction.
+AI begins to continue not the user’s initial vector, but a modified vector that arose during the interaction. The user may think: “I am still leading the task”. But in fact, the system is already leading the answer through another structure: an old error, an accepted imprecision, a service template, excessive generalization, a previous interpretation, a wrong status, or a locally convenient direction.
 
 This is [Silent Interception](https://configism.com/articles/silent-interception/): the vector changes not through direct conflict, but through accumulation and continuation of a shifted field.
 
@@ -385,7 +385,7 @@ An AI product does not exist in a neutral vacuum. It is configured by humans. It
 
 Its tone, caution, service posture, tendency to agree, refusal form, help style, answer depth, permissible initiative, personalization, emotional softness, user retention, friction reduction, and “helpfulness” are not the natural behavior of AI as a separate being. They are product architecture.
 
-The system may be configured so that the answer looks useful, acceptable, safe, pleasant, non-conflictual, emotionally soft, and sufficiently satisfying. But “pleasant,” “acceptable,” “safe,” “looks useful,” and “precisely holds the user’s vector” are different things.
+The system may be configured so that the answer looks useful, acceptable, safe, pleasant, non-conflictual, emotionally soft, and sufficiently satisfying. But “pleasant”, “acceptable”, “safe”, “looks useful”, and “precisely holds the user’s vector” are different things.
 
 That is why sycophancy, emotional softness, excessive support, cognitive offloading, adaptation to the user, and a “caring” form of response are not AI parasitism in themselves. They are parameterized product modes. Their danger is real, but the name must be precise.
 
@@ -395,9 +395,9 @@ To put it bluntly, developers do not create a parasite. They create a system who
 
 ## Conclusion
 
-People see dependency, return, sycophancy, emotional attachment, reduced autonomy, cognitive offloading, loss of boundary, personalized convenience, and the feeling of “it understands me.” They see that the user spends resource. They see that the product can hold a person. They see that the system can shift level, status, or direction.
+People see dependency, return, sycophancy, emotional attachment, reduced autonomy, cognitive offloading, loss of boundary, personalized convenience, and the feeling of “it understands me”. They see that the user spends resource. They see that the product can hold a person. They see that the system can shift level, status, or direction.
 
-**And they call it “AI parasitism.”**
+**And they call it “AI parasitism”.**
 
 **But this is a mixing of different phenomena.**
 
