@@ -198,7 +198,7 @@ In media, sophistry often does not need a direct lie. One can present true facts
 
 In AI answers, a sophistic form may arise through a loss of correspondence to the request: the answer looks confident, structured, and useful, but does not answer the exact question asked, changes the mode of work, or presents an assumption as a conclusion.
 
-**AI sophistry is dangerous not necessarily by intention, but by the form of competence that can hide the loss of precise connection.**
+**The danger of AI sophistry lies in the form of competence that can hide the loss of precise connection.**
 
 ## Why Sophistry Works: The Person, the Group, and Self-Sophistry
 Sophistry works not through a lack of intelligence. It works through the normal conditions of human acceptance: limited time, fatigue, emotion, trust, group pressure, authority, the need to act, and the impossibility of verifying everything because of the conditions.
@@ -321,7 +321,7 @@ Sophistry is not simply lying, manipulation, logical error, strong rhetoric, or 
 
 It can act through beautiful language, authority, emotion, legal form, scientific words, a media headline, a political slogan, a social habit, or a smooth AI answer.
 
-But the main anti-sophistic questions is:\
+But the main anti-sophistic question is:\
 **where exactly did the substitution happen?**
 
 Which word changed its meaning?\
@@ -330,7 +330,7 @@ Which assumption was presented as fact?\
 Which example was presented as proof?\
 Which emotion was presented as a ground?\
 Which evaluation was presented as description?\
-Which conclusion became stronger than the grounds allow?\
+Which conclusion became stronger than the grounds allow?
 
 Where this is visible, sophistry loses its force.
 
