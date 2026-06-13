@@ -12,7 +12,7 @@ lastmod: "2026-06-13"
 ---
 # AI as Machine Sophistry: When the Form of an Answer Replaces the Answer
 ---
-Sophistry is not simply lying.
+[Sophistry](https://configism.com/articles/sophistry/) is not simply lying.
 
 A lie says something false directly. Sophistry works more subtly: it can keep the right words, a confident tone, a clean structure, examples, explanations, and a conclusion, while changing the path from the question to the answer.
 
@@ -58,10 +58,10 @@ Not style, not rhythm, not smoothness, not confidence, and not the length of the
 
 Machine sophistry begins where this form is preserved externally, but the path itself has not been passed through or is not secured.
 
-## Machine sophistry without intent to deceive
+## Machine sophistry as a subjectless process
 AI is not a sophist in the human sense.
 
-Human sophistry is often connected with intention: a person wants to win an argument, shift attention, defend a position, hide a weak point, or persuade an audience. In machine sophistry, this human intention is not a required condition.
+Human [sophistry](https://configism.com/articles/sophistry/) is often connected with intention: a person wants to win an argument, shift attention, defend a position, hide a weak point, or persuade an audience. In machine sophistry, this human intention is not a required condition.
 
 Machine sophistry is a subjectless process. 
 
@@ -274,9 +274,9 @@ If a weak form of answer constantly appears as a normal answer, it can gradually
 This is where machine sophistry moves from the level of a single text to the level of an information environment.
 
 ## AI-amplified Babylon Syndrome: the internal demands of words
-Babylon Syndrome, in this context, is not about people speaking different languages.
+[Babylon Syndrome](https://configism.com/articles/babylon-syndrome/) is not only about people speaking different languages.
 
-The problem is subtler: people can use the same words while those words carry different internal demands.
+The problem is subtler: people can use the same words while those words carry different meanings and different internal demands.
 
 A word is not only a name. A word carries a demand.
 
@@ -348,7 +348,7 @@ A good AI answer is not required to always close the question with a strong conc
 
 Fact-checking checks whether a claim is invented or not. But this is not enough. Even true facts can be connected incorrectly. That is why the main anti-sophistic tool is logic: not as an academic discipline, but as the simple demand to check the transition from question to ground, from ground to conclusion, and from conclusion to boundary.
 
-The simplest anti-sophistic check is this:
+The simplest anti-sophistic check is this:\
 **what exactly was asked?**\
 **what does the answer rest on?**\
 **does the conclusion actually follow?**\
