@@ -8,7 +8,7 @@ weight: 100
 mode: "Plain Human Language"
 version: "v1.1"
 date: "2026-06-04"
-lastmod: "2026-06-11"
+lastmod: "2026-06-13"
 ---
 # The Babylon Syndrome Is Not a Myth About Confused Languages
 ---
@@ -188,7 +188,7 @@ The criterion of identity is not needed to freeze language. It is needed to dist
 ## AI as a Modern Accelerator of the Old Babel Mechanism
 AI did not create the Babylon Syndrome. AI entered a world where the Babylon Syndrome already exists in human languages, disciplines, institutions, translations, statuses, and models. But AI has become a powerful accelerator of the old mechanism because AI works precisely with linguistic traces. AI receives prompts, context, instructions, style, previous words, statistical patterns, constraints, and expectations of response. AI has no direct access to a person’s canonical intention. AI stabilizes the linguistic trace.
 
-When a word is ambiguous, the model chooses one reading. When a phrase has multiple statuses, the model assigns one. When an operator floats, the model stabilizes the connection. When context contains several versions, the model may average them. When a person sets a boundary emotionally, the model may read it as mood. When the model is uncertain, it often continues anyway. This is [hidden arbitration](https://configism.com/articles/ai-logic-core-problem/) of meanings.
+When a word is ambiguous, the model chooses one reading. When a phrase has multiple statuses, the model assigns one. When an operator floats, the model stabilizes the connection. When context contains several versions, the model may average them. When a person sets a boundary emotionally, the model may read it as mood. When the model is uncertain, it often continues anyway. This is [Silent Arbitration](https://configism.com/articles/silent-arbitration/) of meanings.
 
 The danger is not only hallucination. A crude error can be seen. Far more dangerous is an answer that is thematically relevant, grammatically strong, factually acceptable, but wrong in status or vector. The model may be “on topic” while not holding the node. It may use correct words while not holding the correct operator. It may produce a strong text while building a double of the structure.
 
@@ -210,7 +210,7 @@ Degradation is the loss of structural relevance. Interception is the change of t
 The Babylon Syndrome is the entrance into both mechanisms. If the sign is not defined, someone will effectively decide what it means. If the status is not set, someone will assign it. If the operator is not fixed, someone will stabilize the connection. If this is done not by the person and not by the accepted core of the work, but by a system according to local relevance, hidden structural change begins.
 
 ## Meta-Language as the Correction of the Babylon Syndrome
-If the primary tragedy of the Babylon Syndrome was the destruction of a shared meta-linguistic connection, the answer cannot be a simple return to one natural language. Even if all humanity spoke one language, this would not guarantee shared definedness. One natural language can still contain status compression, operator impurity, social power, disciplinary substitutions, and [hidden arbitration](https://configism.com/articles/ai-logic-core-problem/).
+If the primary tragedy of the Babylon Syndrome was the destruction of a shared meta-linguistic connection, the answer cannot be a simple return to one natural language. Even if all humanity spoke one language, this would not guarantee shared definedness. One natural language can still contain status compression, operator impurity, social power, disciplinary substitutions, and [Silent Arbitration](https://configism.com/articles/silent-arbitration/).
 
 After the Babylon Syndrome, humanity needs not one language, but a meta-linguistic principle. This is not a universal natural language, not a new dictionary, and not a finished formal system. It is a principle of univocal fixation of terms and transfer of defined nodes between languages without loss of core, status, operator, causal role, and vector.
 
@@ -240,4 +240,4 @@ The final formula:\
 ### change log
 
 - **v1.0** · 2026-06-04 – Initial public version.
-- **v1.1** · 2026-06-09 – Grammar and logical inconsistencies were corrected, and references to hidden arbitration were added.
+- **v1.1** · 2026-06-09 – Grammar and logical inconsistencies were corrected, and references to [Silent Arbitration](https://configism.com/articles/silent-arbitration/) were added.
