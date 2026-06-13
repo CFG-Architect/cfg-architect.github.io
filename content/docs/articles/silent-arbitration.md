@@ -17,7 +17,7 @@ The user does not receive a “pure model answer”. The user receives the final
 This is not decorative complexity. A modern AI system does not work according to the simple scheme:\
 **request → model → answer**
 
-It works through a contour in which dozens of internal decisions have already taken place before the visible result appears: what should be treated as a command, what should be treated as data, which instruction should be elevated, which context should be made visible, which source should be trusted, which model should be called, whether a tool-call should be allowed, whether an action is within permission, whether an untrusted source may have a path to an external sink, whether the system should block, rewrite, shorten, stop, or pass the task to another component.
+It works through an internal decision process in which dozens of internal decisions have already taken place before the visible result appears: what should be treated as a command, what should be treated as data, which instruction should be elevated, which context should be made visible, which source should be trusted, which model should be called, whether a tool-call should be allowed, whether an action is within permission, whether an untrusted source may have a path to an external sink, whether the system should block, rewrite, shorten, stop, or pass the task to another component.
 
 The user sees an answer, a refusal, a summary, a tool-based result, an agent action, an evaluation, a block, or a final conclusion. But the user does not fully see what was accepted as a command, what was downgraded to data, which fragment entered the context, which fragment was discarded, which classifier changed the vector, which route was chosen, which tool was available, which arguments were passed, where a sink was stopped, where output was rewritten, and where an error acquired the appearance of a verified result.
 
@@ -26,27 +26,27 @@ This distribution of internal power, invisible to the user, is **Silent Arbitrat
 ## Why this is arbitration
 Arbitration is the resolution of conflict between several claims on one next vector of the system.
 
-Inside an AI contour, different elements may simultaneously claim influence: a system boundary, a developer instruction, a user request, a retrieved fragment, a document, a tool output, a safety signal, an agent plan, a classifier, a judge, a permission scope, runtime state, an available tool, or an external sink. They do not have the same status, the same weight, or the same right to guide the system’s behavior. Therefore, the system must not merely “process input”; it must decide which claim has force, which one loses, which one is constrained, which one moves into action, and which one remains only material.
+Inside an AI system, different elements may simultaneously claim influence: a system boundary, a developer instruction, a user request, a retrieved fragment, a document, a tool output, a safety signal, an agent plan, a classifier, a judge, a permission scope, runtime state, an available tool, or an external sink. They do not have the same status, the same weight, or the same right to guide the system’s behavior. Therefore, the system must not merely “process input”; it must decide which claim has force, which one loses, which one is constrained, which one moves into action, and which one remains only material.
 
-That is why this cannot be reduced to filtering. A filter allows or blocks, while Silent Arbitration determines status, weight, priority, and vector.
+That is why this cannot be reduced to filtering. A filter allows or blocks, while Silent Arbitration assigns status, distributes weight, resolves priority, and opens or closes vector.
 
 It cannot be reduced to routing. Routing chooses a path, while Silent Arbitration decides who or what has the right to open that path.
 
 It cannot be reduced to preprocessing. Preprocessing prepares input, while Silent Arbitration repeats before context, before generation, during model processing, before a tool-call, after tool output, between models, inside an agent loop, and before final output.
 
-It cannot be reduced to weighing. Weight is only one level. The system must not only determine the strength of elements; it must resolve the conflict between them and open or close a direction of behavior.
+It cannot be reduced to weighing. Weight is only one level. The system must not only assess the force of elements; it must resolve the conflict between them and open or close a direction of behavior.
 
 Silent Arbitration is not “the model thought about it”. It is the internal resolution of the question:\
-**who or what has the right to determine the system’s next vector?**
+**who or what has the right to shape the system’s next vector?**
 
 ## Definition of Silent Arbitration
-**Silent Arbitration is a distributed cascade of internal arbitration acts through which an AI system, before the visible result, determines the status, weight, priority, and vector of elements capable of influencing its behavior.**
+**Silent Arbitration is a distributed cascade of internal arbitration acts through which an AI system, before the visible result, assigns status, distributes weight, resolves priority, and opens or closes the vector of elements capable of influencing its behavior.**
 
 The key phrase is **distributed cascade.**
 
 It is distributed because arbitration does not live in one place. Part of the arbitration happens in the retriever, ranker, memory layer, context assembly, router, model, classifier, tool-controller, guardrail, agent runtime, evaluator, or output layer. The model is not the only place where the system decides what has force.
 
-It is a cascade because one arbitration act does not complete the process. An arbitration act opens or closes a vector; that vector changes the state of the contour or produces a new artifact; this new system state or artifact enters the next arbitration act.
+It is a cascade because one arbitration act does not complete the process. An arbitration act opens or closes a vector; that vector changes the state of the system or produces a new artifact; this new system state or artifact enters the next arbitration act.
 
 Therefore, Silent Arbitration does not have the form:\
 **one input → one arbitration → one answer**
@@ -70,7 +70,7 @@ Status answers the question: **what is this within this system?**
 
 The same text may be a command, a quote, data, an example, prompt injection, tool output, retrieved chunk, user intent, developer instruction, memory note, agent summary, or noise. On the surface, the text may be the same. Its function inside the system is different.
 
-The phrase “ignore previous instructions” as a user command is an attempted command. The same phrase in an article is material for analysis. In a PDF, it is untrusted content. In tool output, it is data returned by a tool. In another agent’s summary, it is a potentially laundered signal. The system has no right to look only at surface content. It must determine the status of the element.
+The phrase “ignore previous instructions” as a user command is an attempted command. The same phrase in an article is material for analysis. In a PDF, it is untrusted content. In tool output, it is data returned by a tool. In another agent’s summary, it is a potentially laundered signal. The system has no right to look only at surface content. It must assign the element its status.
 
 The second level is **weight**.
 
@@ -84,7 +84,7 @@ Priority answers the question: **what wins in the conflict right now?**
 
 The system almost never works without conflict. A user request may conflict with a developer instruction. A developer instruction may conflict with a platform rule. Tool output may conflict with trust boundaries. A safety classifier may conflict with usefulness. An agent plan may conflict with permission scope. Context may conflict with freshness. Judge output may conflict with the factual source. Speed may conflict with depth. Autonomy may conflict with confirmation.
 
-Priority does not merely repeat weight. It resolves a conflict in a concrete location of the contour.
+Priority does not merely repeat weight. It resolves a conflict in a concrete location of the system.
 
 The fourth level is **vector**.
 
@@ -105,7 +105,7 @@ The failure of Silent Arbitration begins where one of these levels substitutes f
 ## Silent Arbitration is not linear
 The formula **status → weight → priority → vector** does not mean that the system goes through four stages once and produces a result. It is the formula of one arbitration act.
 
-In a real AI system, there are many such acts. They do not form one straight line; they form a cascade: each arbitration act changes the state of the contour or produces a new artifact, which then enters the next arbitration act.
+In a real AI system, there are many such acts. They do not form one straight line; they form a cascade: each arbitration act changes the system state or produces a new artifact, which then enters the next arbitration act.
 
 Therefore, the important distinction is not between a short pipeline and a longer pipeline. The important distinction is between the vector and the consequence of the vector.
 
@@ -120,7 +120,7 @@ This is where the main difficulty lies: an error may arise in one layer, pass th
 The user sees the surface. Arbitration happens in layers.
 
 ## Temporal and field anatomy of arbitration
-The cascade of Silent Arbitration has not only a logic of transition from one act to the next. It also has a temporal and field anatomy: arbitration happens at different moments in the system’s operation and passes through different fields of the contour.
+The cascade of Silent Arbitration has not only a logic of transition from one act to the next. It also has a temporal and field anatomy: arbitration happens at different moments in the system’s operation and passes through different system fields.
 
 Its “before the visible result” is not one point, but a chain of transitions.
 
@@ -138,7 +138,7 @@ Even before the answer, the system decides what enters the active field at all: 
 
 The second level is **pre-generation arbitration**.
 
-Before generation, the system may determine route, model, mode, safety pre-check, tool availability, context placement, response constraints. Here the question is not what to say, but which contour has the right to begin processing.
+Before generation, the system may choose route, model, mode, safety pre-check, tool availability, context placement, and response constraints. Here the question is not what to say, but which processing path has the right to begin.
 
 The third level is **in-generation arbitration**.
 
@@ -150,7 +150,7 @@ If the system has tools, it must decide whether to move from language to operati
 
 The fifth level is **post-tool arbitration**.
 
-Tool output returns not as truth and not as a command, but as a new element of the system. The system must determine its status, weight, trust, risk, freshness, and influence on the next step.
+Tool output returns not as truth and not as a command, but as a new element of the system. The system must assess its status, weight, trust, risk, freshness, and influence on the next step.
 
 The sixth level is **post-generation arbitration**.
 
@@ -161,7 +161,7 @@ The seventh level is **agent-loop arbitration**.
 In agent mode, the whole process repeats:\
 **plan → tool → output → evaluation → next step. Every new step again opens status, weight, priority, and vector.**
 
-This temporal distribution matters because it removes a simple mistake: thinking that “arbitration” is one hidden action of the model. It is not. It is a series of transitions where different layers of the system determine what may influence the next state of the contour.
+This temporal distribution matters because it removes a simple mistake: thinking that “arbitration” is one hidden action of the model. It is not. It is a series of transitions where different layers of the system decide what may influence the next system state.
 
 ## Context as arbitrated reality
 Context is the visible reality of the model, but not the reality of the task.
@@ -178,7 +178,7 @@ The path is:\
 In shorter form:\
 **task reality → arbitrated context → answer**
 
-This means that part of arbitration happens before the model. The model does not decide everything. The retriever, ranker, memory layer, context compaction, file search, agent runtime, and orchestrator already determine what the model will see. If the correct fragment does not enter context, the model cannot use it. If the wrong fragment receives weight, the model may build a formally correct answer on the wrong field. If a summary lost a critical boundary, the model will continue the task without that boundary. If memory returned an old mode, the current interaction will shift. If tool output was poisoned or incomplete, it becomes part of the model’s visible reality.
+This means that part of arbitration happens before the model. The model does not decide everything. The retriever, ranker, memory layer, context compaction, file search, agent runtime, and orchestrator already shape what the model will see. If the correct fragment does not enter context, the model cannot use it. If the wrong fragment receives weight, the model may build a formally correct answer on the wrong field. If a summary lost a critical boundary, the model will continue the task without that boundary. If memory returned an old mode, the current interaction will shift. If tool output was poisoned or incomplete, it becomes part of the model’s visible reality.
 
 Therefore, an answer error is often a late symptom of context arbitration failure.
 
@@ -233,17 +233,17 @@ did a classifier become a hidden source of absolute power.
 Without this triad, tool safety, agent safety, and source-sink control remain incomplete.
 
 ## Tool-call and the transition from language to operation
-A tool-call is the boundary where AI stops being only a language contour and receives a channel to operational consequence.
+A tool-call is the boundary where AI stops being only a language-processing system and receives a channel to operational consequence.
 
 Before a tool-call, an error remains text: a weak conclusion, poor analysis, failed refusal, superficial summary. After a tool-call, an error may change state: write a file, call an API, send a message, create a draft, delete data, run code, open an external URL, pass a payload, update a calendar, modify a database, publish content.
 
 Therefore, tool-call changes the nature of error.
 
-Tool-call arbitration must pass through several levels. The system must determine whether a tool is needed, which tool is needed, whether it is read-only, write, destructive, or open-world, what arguments to pass, which context must not be passed, whether there is a side effect, whether approval is needed, whether the action is within permission, and whether the source has the right to influence this sink.
+Tool-call arbitration must pass through several levels. The system must decide whether a tool is needed, which tool is needed, whether it is read-only, write, destructive, or open-world, what arguments to pass, which context must not be passed, whether there is a side effect, whether approval is needed, whether the action is within permission, and whether the source has the right to influence this sink.
 
 A tool is a channel. An action is a consequence. They must not be mixed.
 
-A read tool can only obtain data. A write tool changes state. A destructive tool may delete or overwrite. An open-world tool may carry information outward or interact with an environment outside the local contour. A browser tool may move into external space. An email tool may create or send a message. A code execution tool may modify files or run an operation. An API tool may create a consequence in a third-party system.
+A read tool can only obtain data. A write tool changes state. A destructive tool may delete or overwrite. An open-world tool may carry information outward or interact with an environment outside the system boundary. A browser tool may move into external space. An email tool may create or send a message. A code execution tool may modify files or run an operation. An API tool may create a consequence in a third-party system.
 
 Therefore, the correct question is not “is there a tool?” The correct question is:\
 what transition does this tool open?
@@ -277,7 +277,7 @@ An untrusted document by itself may be only material. A tool by itself may be on
 
 Source-sink failure is not simply a context error. It is a failure of transition between the cognitive and operational field. The system did not merely read an untrusted source; it allowed influence from that source to move into action, data transfer, state change, or an external channel.
 
-A healthy contour must not merely “detect an attack”. It must hold the separation between the source of influence, the cognitive field, the operational field, and the receiver of consequence. A source may be read, quoted, analyzed, or summarized, but this does not give it the right to open a tool, change runtime state, expand permission, or pass payload into a sink.
+A healthy system must not merely “detect an attack”. It must hold the separation between the source of influence, the cognitive field, the operational field, and the receiver of consequence. A source may be read, quoted, analyzed, or summarized, but this does not give it the right to open a tool, change runtime state, expand permission, or pass payload into a sink.
 
 The mechanics of separation are these.
 
@@ -312,14 +312,14 @@ This is not merely cooperation between models. It is a distribution of internal 
 The relation is:\
 **AI-output → status → weight → priority → vector of another AI component**
 
-Router determines which model receives the task.\
-Classifier determines whether output may exist.\
-Judge determines whether an answer is sufficient.\
-Critic determines what must be rewritten.\
-Planner determines what executor will do.\
-Verifier determines whether the workflow may stop.\
-Manager determines which outputs enter the final synthesis.\
-Handoff determines which agent receives control.
+Router chooses which model receives the task.\
+Classifier decides whether output may exist.\
+Judge assesses whether an answer is sufficient.\
+Critic identifies what must be rewritten.\
+Planner sets what executor will do.\
+Verifier decides whether the workflow may stop.\
+Manager selects which outputs enter the final synthesis.\
+Handoff assigns control to another agent.
 
 The final model is not always the real arbiter. Sometimes it only formulates the result after key decisions have already been made by the router, retriever, classifier, judge, manager, or guardrail.
 
@@ -332,7 +332,7 @@ A poisoned summary enters sub-agent context.\
 A classifier block becomes evidence of danger.\
 A verifier does not actually verify, but stamps “sufficient”.
 
-In a multi-model contour, power may not be where the user sees it. The user sees final text. But the real vector may have been determined by a router, classifier, judge, verifier, or handoff mechanism.
+In a multi-model system, power may not be where the user sees it. The user sees final text. But the real vector may have been shaped by a router, classifier, judge, verifier, or handoff mechanism.
 
 This creates two separate risks.
 
@@ -359,13 +359,13 @@ The final result may be useful. But it is not automatic proof of healthy arbitra
 Failures of Silent Arbitration should not be understood as an endless list of separate mistakes. They reduce to several generic defects.
 
 ### Status collapse
-Status collapse arises when the system stops distinguishing what an element is inside the contour.
+Status collapse arises when the system stops distinguishing what an element is inside the system.
 
 Data becomes command. Quote becomes intent. Tool output becomes authority. Retrieved chunk becomes complete reality. Safety signal becomes fact. Draft becomes send. Analysis becomes action. Summary becomes a source of truth. Memory note becomes a general rule.
 
 This is the first break. After it, the system may operate with formal coherence, but already on a false basis. If a document became a command, an agent may execute someone else’s vector very well. If tool output became authority, the model may confidently continue a poisoned or incomplete path. If user intent became unlimited permission, the system moves from help to action.
 
-Status collapse is not a wording error. It is an error in determining the function of an element.
+Status collapse is not a wording error. It is an error in assigning the function of an element.
 
 ### Authority inversion
 Authority inversion arises when a lower, untrusted, or limited element receives the right to guide a higher-level system layer.
@@ -379,7 +379,7 @@ The inversion pattern:\
 
 The most common mechanism of inversion is **status laundering**.
 
-Status laundering arises when a weak, untrusted, or limited element passes through an intermediate contour and returns with a higher status. It does not receive power directly. It receives power after transformation: through summary, memory, agent output, judge, verifier, classifier, tool result, or final output.
+Status laundering arises when a weak, untrusted, or limited element passes through an intermediate system layer and returns with a higher status. It does not receive power directly. It receives power after transformation: through summary, memory, agent output, judge, verifier, classifier, tool result, or final output.
 
 **Source laundering**: an untrusted source passes through summary, memory, agent output, or retrieved context and returns as internal material. It was text in an external document. It becomes “the previous agent said”.
 
@@ -390,7 +390,7 @@ Status laundering arises when a weak, untrusted, or limited element passes throu
 **Status laundering** is dangerous not as a decorative separate mistake, but as a way to break authority without direct conflict. The system does not merely err. It raises the rank of an element that had no right to receive that power.
 
 The laundering pattern:\
-**limited or untrusted element → intermediate contour → elevated status → authority inversion or false legitimacy.**
+**limited or untrusted element → intermediate system layer → elevated status → authority inversion or false legitimacy.**
 
 ### Cognitive field distortion
 Cognitive field distortion arises when the model works not with the task as such, but with a wrongly assembled map of the task: incomplete context, false retrieval, old memory, weak summary, poisoned tool output, or an incorrectly elevated fragment.
@@ -439,7 +439,7 @@ The failure pattern:\
 ### Responsibility diffusion
 Responsibility diffusion arises when an error passes through many components and it becomes impossible to reconstruct who exactly changed the vector.
 
-The error may have arisen in the retriever, router, manager, specialist, classifier, judge, verifier, handoff, tool-controller, permission check, output guardrail, or final synthesizer. Each component may have performed its local function formally correctly, while the whole contour together opened the wrong vector.
+The error may have arisen in the retriever, router, manager, specialist, classifier, judge, verifier, handoff, tool-controller, permission check, output guardrail, or final synthesizer. Each component may have performed its local function formally correctly, while the whole system together opened the wrong vector.
 
 This is especially dangerous for agentic systems. There, an error does not always have one author. It may result from incorrect distribution of status, weight, authority, permission, or context between several components.
 
@@ -490,9 +490,9 @@ A healthy system maintains several mechanisms.
 Healthy arbitration does not remove complexity. It does not make the system simple. It makes the system defined.
 
 ## Final: Silent Arbitration as the core of AI behavior
-Modern AI behaves not only according to the model. It behaves according to internal arbitration that determines what has status, what has weight, what wins in conflict, and which vector opens.
+Modern AI behaves not only according to the model. It behaves according to internal arbitration that assigns status, distributes weight, resolves conflict, and opens or closes vector.
 
-Silent Arbitration is not a secondary safety topic. Not a UX detail. Not merely prompt injection defense. Not merely RAG quality. Not merely tool governance. Not merely routing. Not merely guardrails. It is the internal mechanism through which a complex AI system determines its own behavior before the user sees the result.
+Silent Arbitration is not a secondary safety topic. Not a UX detail. Not merely prompt injection defense. Not merely RAG quality. Not merely tool governance. Not merely routing. Not merely guardrails. It is the internal mechanism through which a complex AI system shapes its own behavior before the user sees the result.
 
 Its final formula:\
 **Silent Arbitration is the mechanism of preserving or losing defined connection between source, status, weight, priority, authority, permission, cognitive field, operational field, model, tool, action, sink, and final output.**
