@@ -33,7 +33,7 @@ The canonical source of record is:
 
 All definitions, articles, structural notices, versions, and future public materials published here should be treated as the primary source unless explicitly replaced, corrected, or updated on this site.
 
-Materials related to Configism and Configurational Logic may be copied, archived, translated, quoted, discussed, criticized, or preserved across other platforms, provided that attribution and a link to the canonical source are retained.
+Materials related to Configism and Configurational Logic may be copied, archived, quoted, discussed, criticized, or preserved across other platforms, provided that attribution and a link to the canonical source are retained.
 
 ---
 
