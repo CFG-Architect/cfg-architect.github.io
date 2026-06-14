@@ -30,7 +30,7 @@ For this reason, we recommend beginning with the articles, where Configism is in
 
 configism.com is the canonical source of record for Configism and Configurational Logic. It contains the current definitions, principles, paradoxes, articles, versions, and working canon of the discipline.
 
-All definitions, principles, paradoxes, articles, versions, and the working canon published on configism.com may be copied, archived, translated, discussed, quoted, criticized, or preserved across other platforms, provided that the authorship and original source are clearly credited, and configism.com is linked as the canonical reference. These external forms are important for preservation and distribution, but they are not the canon itself.
+All definitions, principles, paradoxes, articles, versions, and the working canon published on configism.com may be copied, archived, discussed, quoted, criticized, or preserved across other platforms, provided that the authorship and original source are clearly credited, and configism.com is linked as the canonical reference. These external forms are important for preservation and distribution, but they are not the canon itself.
 
 The purpose of this distinction is not to control discussion, but to preserve conceptual integrity. Configism and Configurational Logic depend on precise definitions, level separation, and disciplined terminology; therefore, when versions differ, configism.com remains the sole reference point for the current canonical formulation.
 
