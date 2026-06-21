@@ -1,9 +1,9 @@
 ---
 title: "Word: The Power to Define Reality | Configism"
 description: "An article about the word as a defined connection carried into transferable form. It traces how a fixed change of state receives weight, passes through decoding, becomes a word, enters shared memory, logic, civilization, creation, destruction, and finally responsibility for the connection the word brings into reality."
-linkTitle: "Word"
+linkTitle: "Word Power"
 type: docs
-url: "/articles/word/"
+url: "/articles/word-power/"
 weight: 140
 mode: "Plain Human Language"
 version: "v1.0"
