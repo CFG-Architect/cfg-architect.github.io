@@ -4,11 +4,11 @@ description: "The decoder is the function through which an influence becomes sta
 linkTitle: "Reality Decoder"
 type: docs
 url: "/articles/decoder-function/"
-weight: 40
+weight: 120
 mode: "Plain Human Language"
 version: "v1.1"
 date: "2026-05-30"
-lastmod: "2026-06-11"
+lastmod: "2026-06-23"
 ---
 # Reality Decoder: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
 ---
@@ -51,7 +51,7 @@ Without status, the condition is not defined for the contour. Without weight, it
 The full sequence can be written as:\
 **interaction → impact → change of state → state-fixation → condition / signal → decoding → status / weight / vector → field of choice → choice → decision → action**
 
-An impact by itself is not yet a signal. An impact is what changes a state: light, pressure, sound, touch, a chemical substance, temperature, a word, an image, an action, or an event.
+An impact by itself is not yet a signal. An impact is what changes a state: light, pressure, sound, touch, a chemical substance, temperature, a [word](https://configism.com/articles/word-power/), an image, an action, or an event.
 
 A signal emerges when an impact or fixed condition enters a contour through sensory apparatus, receptors, fixators, technical mechanisms of registration, or another system of correspondence. An organism translates impact into a neural, chemical, or physiological signal. An artificial system translates impact into an electrical, digital, or algorithmically processable signal.
 
