@@ -4,11 +4,11 @@ description: "What is the minimal logical form of a living system? An analysis o
 linkTitle: "Primary Algorithm of Life"
 type: docs
 url: "/articles/primary-algorithm-of-life/"
-weight: 30
+weight: 110
 mode: "Plain Human Language"
 version: "v1.1"
 date: "2026-05-27"
-lastmod: "2026-06-11"
+lastmod: "2026-06-23"
 ---
 # The Primary Algorithm of Life: From State-Fixation to Primary Choice
 ---
@@ -78,7 +78,7 @@ At the minimal level, a living contour does not require morality, language, thou
 
 This is not a psychological evaluation. A cell does not need to “fear”, “understand”, or “think”. At this level, threat / non-threat is a functional weight of process-passage. It establishes whether a certain impact, state, or transition is compatible with the continuation of the organization of a living contour.
 
-The word “weights” is used deliberately here. Threat / non-threat is not a simple binary filter. A living contour does not merely classify an impact as “pass” or “block”. It passes through intensity, time, context, previous state, and possible modes of execution.
+The [word](https://configism.com/articles/word-power/) “weights” is used deliberately here. Threat / non-threat is not a simple binary filter. A living contour does not merely classify an impact as “pass” or “block”. It passes through intensity, time, context, previous state, and possible modes of execution.
 
 A weak threat, immediate threat, delayed threat, local loss, possible resource, or risky transition do not have the same functional weight for PAL.
 
