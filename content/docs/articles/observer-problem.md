@@ -8,13 +8,13 @@ weight: 20
 mode: "Plain Human Language"
 version: "v1.1"
 date: "2026-05-26"
-lastmod: "2026-06-11"
+lastmod: "2026-06-23"
 ---
 # The Problem of the Observer: Why Observation Does Not Begin with Consciousness
 ---
 The concept of the “observer” seems obvious until we begin to break it down by levels. In ordinary thinking, an observer is someone who looks, sees, measures, understands, or becomes aware. In science, it may be a human, an instrument, a detector, or a measurement system. In philosophy, it is often a subject. In biology, it may be an organism with sensory capacity. In technology, it may be a camera, microphone, telescope, or another device of registration.
 
-The problem is that all these examples do not belong to the same level. A human, a camera, a thermometer, a cell, a stone, and a physical wave are different types of objects and processes. Yet the word “observer” is often used as if it immediately meant registration, measurement, perception, understanding, consciousness, and subjecthood all at once.
+The problem is that all these examples do not belong to the same level. A human, a camera, a thermometer, a cell, a stone, and a physical wave are different types of objects and processes. Yet the [word](https://configism.com/articles/word-power/) “observer” is often used as if it immediately meant registration, measurement, perception, understanding, consciousness, and subjecthood all at once.
 
 This is where the confusion begins.
 
