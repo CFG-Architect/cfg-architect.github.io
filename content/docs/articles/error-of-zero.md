@@ -4,11 +4,11 @@ description: "Zero is not one thing. How the fusion of absence, empty place, bou
 linkTitle: "Fundamental Error of Zero"
 type: docs
 url: "/articles/error-of-zero/"
-weight: 50
+weight: 220
 mode: "Plain Human Language"
 version: "v1.0"
 date: "2026-05-28"
-lastmod: "2026-06-11"
+lastmod: "2026-06-23"
 ---
 # The Fundamental Error of Zero
 ---
@@ -165,5 +165,4 @@ The fundamentality of the error of zero is much deeper and broader than it may s
 ---
 
 ### change log
-
 - **v1.0** · 2026-05-28 – Initial public version.
