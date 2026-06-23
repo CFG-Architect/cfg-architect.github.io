@@ -4,11 +4,11 @@ description: "An article about the word as a defined connection carried into tra
 linkTitle: "Word Power"
 type: docs
 url: "/articles/word-power/"
-weight: 140
+weight: 200
 mode: "Plain Human Language"
 version: "v1.0"
 date: "2026-06-21"
-lastmod: "2026-06-21"
+lastmod: "2026-06-23"
 ---
 # Word: The Power to Define Reality
 ---
