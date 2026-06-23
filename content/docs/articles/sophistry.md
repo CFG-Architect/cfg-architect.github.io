@@ -4,11 +4,11 @@ description: "Sophistry preserves the appearance of correctness after the real c
 linkTitle: "Sophistry"
 type: docs
 url: "/articles/sophistry/"
-weight: 120
+weight: 210
 mode: "Plain Human Language"
 version: "v1.0"
 date: "2026-06-12"
-lastmod: "2026-06-12"
+lastmod: "2026-06-23"
 ---
 # Sophistry: When the Appearance of Correctness Hides a Substituted Connection
 ---
@@ -36,7 +36,7 @@ To see sophistry, one does not first need to search for the name of a logical fa
 The substitution can happen in different places.
 
 **The word.**\
-The word sounds the same, but it already means something else. For example, “order” may begin as an agreed rule of shared life and end as a demand for unconditional obedience.
+The [word](https://configism.com/articles/word-power/) sounds the same, but it already means something else. For example, “order” may begin as an agreed rule of shared life and end as a demand for unconditional obedience.
 
 **The question.**\
 A person asks about one thing, but the answer moves toward another. Formally, there is an answer, but not to the question that was asked.
@@ -345,5 +345,4 @@ Sophistry works as long as the substitution remains unseen. Logic stops sophistr
 ---
 
 ### change log
-
 - **v1.0** · 2026-06-12 – Initial public version.
