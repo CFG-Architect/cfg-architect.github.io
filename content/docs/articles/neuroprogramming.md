@@ -4,15 +4,15 @@ description: "Neuroprogramming is the capture of human self-definition : the imp
 linkTitle: "Neuroprogramming"
 type: docs
 url: "/articles/neuroprogramming/"
-weight: 110
+weight: 130
 mode: "Plain Human Language"
 version: "v1.0"
 date: "2026-06-10"
-lastmod: "2026-06-11"
+lastmod: "2026-06-23"
 ---
 # Neuroprogramming: The Capture of Human Self-Definition
 ---
-Neuroprogramming is one of those topics that society has learned not to look at directly. It is convenient to hide it under weaker words: influence, upbringing, motivation, socialization, advertising, propaganda, persuasion, dogma, culture, tradition, education, discipline. It is even more convenient to hide it under the idea of NLP, where the whole problem is supposedly reduced to techniques, phrases, “anchors”, behavioral patterns, and popular pseudopsychology.
+Neuroprogramming is one of those topics that society has learned not to look at directly. It is convenient to hide it under weaker [words](https://configism.com/articles/word-power/): influence, upbringing, motivation, socialization, advertising, propaganda, persuasion, dogma, culture, tradition, education, discipline. It is even more convenient to hide it under the idea of NLP, where the whole problem is supposedly reduced to techniques, phrases, “anchors”, behavioral patterns, and popular pseudopsychology.
 
 **But neuroprogramming is not NLP.**
 
