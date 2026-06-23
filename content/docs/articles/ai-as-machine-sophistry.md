@@ -4,17 +4,17 @@ description: "AI as Machine Sophistry explains machine sophistry not as intentio
 linkTitle: "AI as Machine Sophistry"
 type: docs
 url: "/articles/ai-as-machine-sophistry/"
-weight: 130
+weight: 20
 mode: "Plain Human Language"
 version: "v1.0"
 date: "2026-06-13"
-lastmod: "2026-06-13"
+lastmod: "2026-06-23"
 ---
 # AI as Machine Sophistry: When the Form of an Answer Replaces the Answer
 ---
 [Sophistry](https://configism.com/articles/sophistry/) is not simply lying.
 
-A lie says something false directly. Sophistry works more subtly: it can keep the right words, a confident tone, a clean structure, examples, explanations, and a conclusion, while changing the path from the question to the answer.
+A lie says something false directly. Sophistry works more subtly: it can keep the right [words](https://configism.com/articles/word-power/), a confident tone, a clean structure, examples, explanations, and a conclusion, while changing the path from the question to the answer.
 
 That is why sophistry is dangerous. It often does not look like collapse. It looks like a reasonable answer, a strong argument, a logical explanation, or a useful conclusion. But inside, a substitution may already have taken place.
 
@@ -365,5 +365,4 @@ Where the path from question to ground, from ground to conclusion, and from conc
 ---
 
 ### change log
-
 - **v1.0** · 2026-06-13 – Initial public version.
