@@ -4,7 +4,7 @@ description: "A structural analysis of what Observer actually means — separati
 linkTitle: "Observer Problem"
 type: docs
 url: "/articles/observer-problem/"
-weight: 20
+weight: 100
 mode: "Plain Human Language"
 version: "v1.1"
 date: "2026-05-26"
