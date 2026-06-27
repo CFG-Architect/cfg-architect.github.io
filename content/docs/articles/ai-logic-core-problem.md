@@ -8,7 +8,7 @@ weight: 10
 mode: "Plain Human Language"
 version: "v1.1"
 date: "2026-05-21"
-lastmod: "2026-06-13"
+lastmod: "2026-06-27"
 ---
 # The Problem of AI Logic Core
 ---
@@ -37,4 +37,4 @@ It depends on humanity’s readiness to accept another level of logic as the fou
 ### change log
 
 - **v1.0** · 2026-05-21 – Initial public version.
-- **v1.1** · 2026-06-13 – Cleaned several formulations that could create a sophistic impression through overgeneralization, rhetorical force, or false opposition; added a logical cross-link to [Silent Arbitration](https://configism.com/articles/silent-arbitration/).
+- **v1.1** · 2026-06-13 – Cleaned several formulations that could create a sophistic impression through overgeneralization, rhetorical force, or false opposition.
