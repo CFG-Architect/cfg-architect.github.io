@@ -6,9 +6,9 @@ type: docs
 url: "/articles/ai-as-machine-sophistry/"
 weight: 20
 mode: "Plain Human Language"
-version: "v1.1"
+version: "v1.2"
 date: "2026-06-13"
-lastmod: "2026-06-27"
+lastmod: "2026-06-28"
 ---
 # AI as Machine Sophistry: When the Form of an Answer Replaces the Answer
 ---
@@ -163,7 +163,7 @@ Simple explanation and reduction are different operations.
 
 Plain language can preserve complexity. A good explanation can say a complex thing clearly without losing the important conditions. The problem begins when complexity is removed without being marked.
 
-The user asks: **“Is this safe in my situation”** AI answers: **“In general, this is considered safe”**.
+The user asks: **“Is this safe in my situation?”** AI answers: **“In general, this is considered safe”**.
 
 The user asks: **“Does this prove a causal link?”** AI answers: **“This shows an interesting connection”**.
 
@@ -188,7 +188,7 @@ The first is **structure**. Headings, lists, clear paragraphs, and a final concl
 
 The second is **tone**. AI-generated answers often sound calm, neutral, and authoritative. The absence of emotion is easily confused with objectivity, while verification still depends on the preserved connection.
 
-The third is **completion**. The answer has an introduction, explanation, examples, and conclusion, so it feels like the question has been closed. A completed text still has to be tested as a completed check.
+The third is **completion**. The answer has an introduction, explanation, examples, and conclusion, so it feels like the question has been closed. A completed text still has to be tested as an answer.
 
 All three can be useful. Clarity, structure, and calm language really do help the reader. The problem begins when they replace the ground, the transition, and the boundary.
 
@@ -322,9 +322,7 @@ The response to AI-amplified Babylon Syndrome is the restoration of the demands 
 ## What a good AI answer looks like
 The answer to this problem is disciplined use.
 
-Work through AI systems can help a person clarify, structure, find weak points, notice possible substitutions, and check the boundaries of an answer. Correctness remains tied to the preserved transition, not to the system that produced the text.
-
-An AI-generated answer can support checking, but correctness must be judged by the preserved transition: from question to ground, from ground to conclusion, and from conclusion to boundary.
+Work through AI systems can help a person clarify, structure, find weak points, notice possible substitutions, and check the boundaries of an answer. An AI-generated answer can support checking, but correctness must be judged by the preserved transition: from question to ground, from ground to conclusion, and from conclusion to boundary.
 
 A good AI answer behaves honestly: it shows how the answer is built, what it rests on, and where its boundary lies.
 
@@ -355,3 +353,4 @@ Where the path from question to ground, from ground to conclusion, and from conc
 ### change log
 - **v1.0** · 2026-06-13 – Initial public version.
 - **v1.1** · 2026-06-27 – The revision refined the article’s **anti-sophistic** consistency and clarified the core subject of the text: machine sophistry as a structural effect of generated answer-forms, rather than an intentional act by AI. The edits reduced unnecessary negative framing, removed several misleading agentive formulations, and shifted the focus from “AI doing something” to human-language sophistic forms acquiring machine scale through AI systems.
+- **v1.2** · 2026-06-28 – Fixed minor grammar, punctuation, and stylistic issue; removed a small repetitive fragment and refined several phrases for clearer reading.
