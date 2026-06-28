@@ -6,9 +6,9 @@ type: docs
 url: "/articles/sophistry/"
 weight: 210
 mode: "Plain Human Language"
-version: "v1.1"
+version: "v1.2"
 date: "2026-06-12"
-lastmod: "2026-06-27"
+lastmod: "2026-06-28"
 ---
 # Sophistry: When the Appearance of Correctness Hides a Substituted Connection
 ---
@@ -88,7 +88,7 @@ Intention affects ethical assessment. But the absence of intention does not alwa
 ## Sophists, the Polis, and the Force of Language
 A sophist and sophistry are not the same thing.
 
-The historical sophist appears where the word becomes a practical force: in court, in public assemblies, in self-defense before others, in political struggle, in the education of citizens. When a decision depends on how a person speaks, there appears a need for those who teach how to speak strongly, persuasively, and effectively.
+The historical sophist appears where the word becomes a practical force: in court, in public assemblies, in self-defense before others, in political struggle, in the education of citizens. When a decision depends on how a person speaks, there is a need for those who teach how to speak strongly, persuasively, and effectively.
 
 In such an environment, language no longer merely describes reality. It influences choice, reputation, verdict, power, trust, and a person’s place among others.
 
@@ -109,7 +109,7 @@ Logic requires a defined connection: a word must keep its meaning, a question mu
 
 Therefore, the main struggle is between proof and acceptability. Logic asks: does this truly follow? Sophistry asks: can this be made acceptable?
 
-In Protagoras, this conflict opens through the problem of measure. If what people recognize as true, correct, or just passes through human perception, language, custom, benefit, and position in the community, then the struggle can shift from truth itself to the measure by which something will be accepted as true. Sophistry enters precisely here: it can work not only with the answer, but with what will make the answer be recognized as correct.
+In Protagoras, this conflict opens through the problem of measure. If what people recognize as true, correct, or just is filtered through human perception, language, custom, benefit, and position in the community, then the struggle can shift from truth itself to the measure by which something will be accepted as true. Sophistry enters precisely here: it can work not only with the answer, but with what will make the answer be recognized as correct.
 
 In Gorgias, this clash opens through the force of the word. Language can act before verification. It can produce fear, trust, sympathy, anger, shame, or a sense of obviousness before a person has seen the ground. Rhetoric becomes sophistic when the force of the word replaces verification of the connection. A person has not yet verified, but has already accepted; has not yet understood, but has already felt that “this is true”.
 
@@ -147,7 +147,7 @@ Linguistic ambiguity becomes a key threat when shared meaning must be held, but 
 
 Sophistry enters when ambiguity is not removed, but used as a place of hidden substitution.
 
-The scheme is simple: first, the word enters in one meaning; on that meaning, a person agrees; then the same word quietly shifts into another meaning; and the conclusion is already built on the second meaning.
+The scheme is simple: first, the word enters in one meaning; a person agrees to that meaning; then the same word quietly shifts into another meaning; and the conclusion is already built on the second meaning.
 
 “Security” may begin as the protection of people and end as the justification of control.\
 “Criticism” may begin as the verification of a decision and end as an attack.\
@@ -202,7 +202,7 @@ Sophistry works through the normal conditions of human acceptance: limited time,
 
 It acts faster than verification.\
 It gives an emotion that feels like a ground.\
-It gives a simple answer when complexity exhausts.\
+It gives a simple answer when complexity is exhausting.\
 It repeats a phrase until familiarity begins to feel like truth.\
 It relies on authority to remove the need to ask.\
 It uses the group so that doubt becomes socially dangerous.\
@@ -233,7 +233,7 @@ Some of these phrases can truly be correct. They become self-sophistry when a pe
 
 **Self-sophistry is when a person preserves the appearance of correctness for themselves after they have already replaced the ground, motive, boundary, or conclusion.**
 
-Therefore, responsibility is distributed according to position, knowledge, power, access to an audience, and capacity to verify. The one who has more knowledge, power, or access to an audience has greater responsibility. The reader or listener also has their part where they have the capacity to verify: to avoid accepting the force of a phrase as proof, emotion as ground, familiarity as truth, or authority as the end of the question.
+Therefore, responsibility is distributed according to position, knowledge, power, access to an audience, and capacity to verify: the more of these a participant has, the greater the responsibility. The reader or listener also has their part where they have the capacity to verify: to avoid accepting the force of a phrase as proof, emotion as ground, familiarity as truth, or authority as the end of the question.
 
 ## How to Catch Sophistry
 Sophistry is recognized by checking the transition, not by judging the tone. It may be aggressive, soft, academic, legal, media-like, friendly, caring, dry, or very beautiful. Tone can signal pressure, but it does not determine whether the connection has been preserved. The decisive question is whether the word, ground, question, boundary, and conclusion still belong to the same transition.
@@ -290,7 +290,7 @@ Sophistry begins small: one word changes meaning, one question is substituted by
 
 Then people seem to be speaking about one thing, but in reality their words already lead in different directions.
 
-In such a state, simple refutation stops working. Because the problem is no longer only in one false fact. The problem is that the sides may no longer share answers to basic questions:
+In such a state, simple refutation stops working because the problem is no longer only in one false fact. The problem is that the sides may no longer share answers to basic questions:
 
 What exactly does the word mean?\
 What counts as proof?\
@@ -323,9 +323,7 @@ Which conclusion became stronger than the grounds allow?
 
 Where this is visible, sophistry loses its force.
 
-The strongest anti-sophistic means is logic itself.
-
-Because logic requires a return to the very place that sophistry has substituted: the word, the meaning, the question, the ground, the boundary, the cause, the consequence, and the conclusion. It does not allow the appearance of connection to be accepted as the connection itself. It does not ask, “does this sound persuasive?” It asks, “is this truly connected?”
+Logic is the strongest anti-sophistic means because it requires a return to the very place that sophistry has substituted: the word, the meaning, the question, the ground, the boundary, the cause, the consequence, and the conclusion. It does not allow the appearance of connection to be accepted as the connection itself. It does not ask, “does this sound persuasive?” It asks, “is this truly connected?”
 
 Sophistry works as long as the substitution remains unseen. Logic stops sophistry where it restores the defined connection and shows what exactly has been changed.
 
@@ -336,3 +334,4 @@ Sophistry works as long as the substitution remains unseen. Logic stops sophistr
 ### change log
 - **v1.0** · 2026-06-12 – Initial public version.
 - **v1.1** · 2026-06-27 – The revision focused on **anti-sophistic** consistency: reducing unnecessary negative framing, strengthening direct definitions, clarifying where substitutions occur, and tightening the distinction between sophistry, error, rhetoric, ambiguity, pseudoknowledge, and verification. Several sections were adjusted to preserve the article’s original logic while removing repeated or overly broad formulations. The final definition was refined to emphasize logic as the primary anti-sophistic means: restoring the defined connection and showing where substitution has occurred.
+- **v1.2** · 2026-06-28 – Fixed minor grammar, punctuation, and stylistic issues; removed a small repetitive fragment and refined several phrases for clearer reading.
