@@ -37,4 +37,4 @@ It depends on humanity’s readiness to accept another level of logic as the fou
 ### change log
 - **v1.0** · 2026-05-21 – Initial public version.
 - **v1.1** · 2026-06-13 – Cleaned several formulations that could create a **sophistic** impression through overgeneralization, rhetorical force, or false opposition.
-- **v1.2** · 2026-05-21 – Fixed minor grammar, punctuation, and stylistic issues; refined several phrases for clearer reading.
+- **v1.2** · 2026-06-28 – Fixed minor grammar, punctuation, and stylistic issues; refined several phrases for clearer reading.
