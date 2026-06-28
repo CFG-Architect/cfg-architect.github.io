@@ -1,14 +1,14 @@
 ---
 title: "Neuroprogramming: The Capture of Human Self-Definition | Configism"
-description: "Neuroprogramming is the capture of human self-definition : the imposed shaping of thought, desire, fear, shame, dreams, behavior, law, money, and the market of attention."
+description: "Neuroprogramming is the capture of human self-definition: the imposed shaping of thought, desire, fear, shame, dreams, behavior, law, money, and the market of attention."
 linkTitle: "Neuroprogramming"
 type: docs
 url: "/articles/neuroprogramming/"
 weight: 130
 mode: "Plain Human Language"
-version: "v1.1"
+version: "v1.2"
 date: "2026-06-10"
-lastmod: "2026-06-27"
+lastmod: "2026-06-28"
 ---
 # Neuroprogramming: The Capture of Human Self-Definition
 ---
@@ -25,7 +25,7 @@ The problem begins where the foundation that produces thoughts is changed.
 The question is:\
 From what do you begin to think at all.\
 From which internal links does your choice arise.\
-Who and when defined what exactly you should consider your desire.\
+Who defined, and when, what exactly you should consider your desire.\
 Who implanted this fear in you as the correct boundary.\
 Who defined what exactly in you must receive the status of shame.\
 Did this dream grow from your self-definition, or was it inserted into you as the correct future.
@@ -100,7 +100,7 @@ Clean logic means the ability to see a link before status, fear, shame, guilt, a
 That is why clean logic is the direct opposite of neuroprogramming. Neuroprogramming works when a person is given not a link for understanding, but a ready-made status for acceptance: this is shameful, this is sacred, this is betrayal, this is weakness, this is love, this is your duty, this is your dream. Clean logic breaks this automatism. It separates fact from status, mistake from personality, boundary from guilt, love from submission, authority from truth. Where a person can ask “why exactly this way?” and check the answer, neuroprogramming loses its main entry point.
 
 ## Lack of Experience as an Entry Point
-Where a person does not yet have experience, they are vulnerable before authority.
+Where a person does not yet have experience, they are vulnerable to authority.
 
 This is a normal condition of development, not weakness. A child cannot check everything alone. A beginner cannot know all consequences. A person in crisis does not always have full support. Whoever enters a new environment is temporarily dependent on those who already know the rules.
 
@@ -108,7 +108,7 @@ This is where authority has the greatest power.
 
 Authority can pass on logic. Or it can replace definition.
 
-When a child is told, “do not touch electrical wiring, because electric current can injure you”, a causal link is being passed to them. This is protection through explanation.
+When a child is told, “Do not touch electrical wiring, because electric current can injure you”, a causal link is being passed to them. This is protection through explanation.
 
 But reality rarely remains this clean. Often, status is mixed into the fact:
 are you stupid;\
@@ -325,8 +325,8 @@ Part of what a person calls character may be the result of programmed boundaries
 
 Discipline, responsibility, modesty, strength, or non-conflict can be healthy traits. The decisive question is the origin of the link.
 
-Did this trait grow from one’s own definition, experience, choice, and understanding.\
-Or was it fixed through fear, shame, guilt, dependency, love for conformity, or authority.
+Did this trait grow from one’s own definition, experience, choice, and understanding?\
+Or was it fixed through fear, shame, guilt, dependency, love for conformity, or authority?
 
 The programming of personality works through four zones.
 
@@ -362,18 +362,18 @@ The question “why?” is one of the main protections against neuroprogramming.
 
 The question “why?” is important because it returns a person to the place where the link was defined. Its value is not automatic correctness, but the reopening of the defined connection.
 
-Why is this correct.\
-Why is this shameful.\
-Why is this my dream.\
-Why is my boundary selfishness.\
-Why is my refusal betrayal.\
-Why is submission called honor.\
-Why is self-sacrifice called love.\
-Why is doubt called weakness.\
-Why is a question called disrespect.\
-Why did money become the measure of human value.\
-Why does law have the right to define not only action, but the person.\
-Why does advertising have the right to form desire, not merely inform about a product.
+Why is this correct?\
+Why is this shameful?\
+Why is this my dream?\
+Why is my boundary selfishness?\
+Why is my refusal betrayal?\
+Why is submission called honor?\
+Why is self-sacrifice called love?\
+Why is doubt called weakness?\
+Why is a question called disrespect?\
+Why did money become the measure of human value?\
+Why does law have the right to define not only action, but the person?\
+Why does advertising have the right to form desire, not merely inform about a product?
 
 The question “why?” breaks the automatism of neuroprogramming. When a person asks “why?”, they stop merely carrying out status and begin checking the link.
 
@@ -451,7 +451,7 @@ The power of social neuroprogramming is that authority dissolves into the enviro
 
 Instead of one authority, the collective authority of the norm appears.
 
-**The system is structured to produce more than obedient action: a person who generates the required action from within.**
+**The system is structured to produce not only obedient action, but a person who generates the required action from within.**
 
 ## The Usurper’s Interest
 A usurper can be any structure of interest that appropriates the right to define a person: a regime, a group, a corporation, a sect, an ideology, a clan, a party, a military structure, a family, a school, or an information machine.
@@ -530,9 +530,7 @@ Law must hold balance: a verifiable boundary between action, consequence, right,
 The problem begins when law stops being support and begins to perform the function of neuroprogramming.
 
 ## When Law Becomes Neuroprogramming
-Law becomes neuroprogramming when prohibition or punishment begins to define the person in the interest of a system. A prohibition may be necessary if it protects life, safety, another person’s freedom, property, boundary, or common stability.
-
-Law becomes neuroprogramming when it begins to define the person in the interest of a system.
+Law becomes neuroprogramming when it begins to define the person in the interest of a system. A prohibition may be necessary if it protects life, safety, another person’s freedom, property, boundary, or common stability.
 
 From: this action has a consequence.\
 To: a correct citizen must think this way.
@@ -568,7 +566,7 @@ The form remains: norms, courts, procedures, permits, prohibitions, licenses, ce
 
 The function changes.
 
-Law begins not to protect the field of self-definition, but to grow the required citizen, the required worker, the required consumer, the required voter, the required soldier, the required silent carrier of the system for the service of a separate structure of interest.
+Law begins not to protect the field of self-definition, but to grow the required citizen, the required worker, the required consumer, the required voter, the required soldier, the required silent carrier serving a separate structure of interest.
 
 Corruption eats law when private interest receives the right to define the social norm, not only when money buys decisions.
 
@@ -649,12 +647,12 @@ This is where advertising becomes neuroprogramming.
 
 The transition happens when advertising interferes with a person’s self-reading.
 
-Who am I without this.\
-Am I sufficient without this.\
-Do I have status without this.\
-Do I belong without this.\
-Am I losing without this.\
-WWill I become invisible without this.
+Who am I without this?\
+Am I sufficient without this?\
+Do I have status without this?\
+Do I belong without this?\
+Am I losing without this?\
+Will I become invisible without this?
 
 **Advertising becomes neuroprogramming where it stops informing about a product and begins to define who a person is without the product and who they will become after purchase.**
 
@@ -711,7 +709,7 @@ Danger should be explained without humiliating the person.\
 A boundary should be shown together with why it is needed.\
 Values should remain open to the question of why they should be accepted.\
 The experience of elders should be passed on without being turned into dogma.\
-Law should be cleaned from private interest.\
+Law should be kept clean of private interest.\
 The market should be bounded so it cannot buy the right to form desire without limit.\
 Advertising can remain information without becoming commercial propaganda of self-reading.
 
@@ -754,3 +752,4 @@ The most dangerous neuroprogramming makes a person call someone else’s life th
 
 - **v1.0** · 2026-06-10 – Initial public version.
 - **v1.1** · 2026-06-27 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency. The edits clarified neuroprogramming as the capture of self-definition through imposed internal links, statuses, fears, desires, dreams, authority, law, money, advertising, and social infrastructure. The update reduced unnecessary negative framing, tightened several section openings, clarified the difference between support and capture, and refined the boundary between education, upbringing, authority, law, market mechanisms, and neuroprogramming. Several formulations were adjusted to preserve direct logical movement, avoid repeated negation-based starts, reduce unnecessary personalization of systems, and keep the focus on defined links, self-reading, and the right of a person to define themselves.
+- **v1.2** · 2026-06-28 – Fixed minor grammar, punctuation, and stylistic issues; removed a small repetitive fragment and refined several phrases for clearer reading.
