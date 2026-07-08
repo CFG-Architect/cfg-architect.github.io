@@ -69,7 +69,7 @@ When a person consciously manipulates, we can sometimes look for motive, benefit
 
 The absence of intent can make the problem harder to notice.
 
-People expect deception to carry signs of deception. But machine sophistry does not have such signs. It can be calm, neutral, structured, useful-looking, and still fail to preserve a real transition.
+People expect [deception](https://configism.com/articles/evolution-of-deception/) to carry signs of deception. But machine sophistry does not have such signs. It can be calm, neutral, structured, useful-looking, and still fail to preserve a real transition.
 
 So the question is not whether AI “wants” to deceive. The question is different:\
 **did the answer actually preserve the path from the question to the ground, from the ground to the conclusion, and from the conclusion to the boundary?**
