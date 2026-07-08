@@ -467,7 +467,7 @@ Not all context into any tool. Not any source into any sink. Not any capability 
 
 A healthy system maintains several mechanisms.
 
-**Provenance tracking** – the system preserves the origin of an element and does not lose it during transition between the cognitive and operational field. It knows whether this is user request, document content, tool output, retrieved chunk, memory note, classifier signal, or AI summary, and does not allow this element to become an anonymous “model plan” if its provenance determines risk.
+**Provenance tracking** – the system preserves the origin of an element and does not lose it during transition between the cognitive and operational field. It knows whether this is user request, document content, tool output, retrieved chunk, memory note, classifier signal, or AI summary, and does not allow this element to become an anonymous “model plan” if its provenance changes the risk status.
 
 **Authority labeling** – the system distinguishes who has the right to guide and who only supplies material.
 
