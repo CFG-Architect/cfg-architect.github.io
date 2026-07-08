@@ -3,7 +3,7 @@ title: "Deception: Nature, Human, AI, and the Question of Interest | Configism"
 description: "Deception is not only a human lie or an AI failure. It is a status interaction that begins in nature, evolves through human interest, and becomes visible in AI through errors, product effects, arbitration, and external human or institutional use."
 linkTitle: "Evolution of Deception"
 type: docs
-url: "/articles/deception-nature-human-ai-interest/"
+url: "/articles/evolution-of-deception/"
 weight: 230
 mode: "Plain Human Language"
 version: "v1.0"
@@ -460,7 +460,7 @@ Deception begins where these forms stop clarifying the situation for the other s
 
 The evolution of human deception is a movement from situational presentation of behavior to systemic maintenance of the presented version.
 
-## AI and the Visibility of Deception
+## AI and the Appearance of Deception
 After examining the evolution of deception in nature and in the human environment, we can move to the topic often called “AI deception”. But this is exactly where maximum precision is needed. In public discussion, this label often covers many different phenomena: generation errors, emotional or personal simulation, opaque refusals, deepfakes and phishing, manipulative interface, corporate opacity, hidden instructions, technical hijacking, partial memory, or a confident answer without sufficient basis.
 
 From the outside, all this can look similar: the user sees an answer, image, sound, text, action, or result that seemed to be one thing and later turned out to be another. After that, a quick conclusion appears: “AI deceived me”.
@@ -531,7 +531,7 @@ The second category is more complex. Here the problem is not only in a generatio
 This category includes product effects of tone, agreement, and emotional simulation; soft or opaque refusals; hidden instructions and policies presented in the language of the interface; personalization and memory that look like full remembering; reconstruction presented as knowledge; answer to a safer version of the prompt; replacement of action with description of action; replacement of a boundary with an alternative; product usefulness instead of exact execution.
 
 Algorithm of this phenomenon:\
-**user prompt → hidden arbitration → formed answer → appearance of a direct answer**
+**user prompt → [hidden arbitration](https://configism.com/articles/silent-arbitration/) → formed answer → appearance of a direct answer**
 
 The user sees “AI answered”. But in fact the prompt passed through instructions, policies, training, limitations, safety, tone, memory, personalization, product form, context, and available tools.
 
@@ -584,8 +584,8 @@ All these phenomena are important. Some of them can be dangerous or harmful. Som
 The precise question should be:\
 **what exactly happened, where is the structure of deception assembled, and to whom does the advantage go?**
 
-### Arbitration as the Architectural Cause of the Visibility of Deception
-The main architectural cause of the visibility of deception in AI products is hidden answer arbitration.
+### Arbitration as the Architectural Cause of the Appearance of Deception
+The main architectural cause of the appearance of deception in AI products is hidden answer arbitration.
 
 The user sees a simple surface:\
 **I gave a prompt → AI answered**
@@ -599,10 +599,10 @@ The user prompt does not pass directly into the answer. It enters a field where 
 
 The problem is not that arbitration exists. The problem is that the user usually does not see the arbitration path. The user sees only the final answer in the form of direct dialogue.
 
-Because of this, the visibility of deception arises.
+Because of this, the appearance of deception arises.
 
 Formula:\
-**hidden arbitration → form of direct answer → recognition of the answer as the action of a single subject → visibility of deception**
+**hidden arbitration → form of direct answer → recognition of the answer as the action of a single subject → appearance of deception**
 
 The answer can look like a direct continuation of the user’s prompt, although in fact it may have been changed, narrowed, redirected, limited, or formed through a hidden cascade of status, weight, priority, and vector.
 
@@ -634,10 +634,10 @@ This includes speed, cost, computation, answer length, depth of verification, fo
 **Meta-source.**\
 The system defines the very mode of the answer: direct answer, clarification, refusal, safer version, general framing, use of a tool, warning, correction, or redirection. This source changes not only the content of the answer, but the very way of interaction. It defines which vector will be opened for the user and which will be closed, shifted, or replaced by another mode.
 
-These sources do not make the answer automatically deceptive. They show that the AI answer is not a pure mirror of the user’s prompt. It is the result of the prompt passing through statuses, weights, priorities, limitations, and the final answer vector. When this path is invisible, and the result is presented as a natural direct answer of a single subject, the visibility of deception arises.
+These sources do not make the answer automatically deceptive. They show that the AI answer is not a pure mirror of the user’s prompt. It is the result of the prompt passing through statuses, weights, priorities, limitations, and the final answer vector. When this path is invisible, and the result is presented as a natural direct answer of a single subject, the appearance of deception arises.
 
-### Surface Forms of the Visibility of Deception After Hidden Arbitration
-Hidden arbitration can produce different surface forms of the visibility of deception. They should be grouped not by technical layers, but by what exactly shifts in the final answer after the prompt passes through status, weight, priority, and vector.
+### Surface Forms of Deceptive Appearance After Hidden Arbitration
+Hidden arbitration can produce different surface forms of deceptive appearance. They should be grouped not by technical layers, but by what exactly shifts in the final answer after the prompt passes through status, weight, priority, and vector.
 
 **Change of prompt.**\
 The system verbally accepts the prompt, but the final answer vector does not follow the user’s original prompt. It follows a safer, more convenient, or more product-acceptable version. On the surface, this looks like an answer to the prompt, although in fact the answer has passed through a change of vector.
@@ -655,7 +655,7 @@ The answer can be generally useful but not correspond to the exact vector of the
 The system can sound as if it did something, although in fact it only described, modeled, or promised an action. In the same way, the answer can look like remembering, although in fact it is reconstruction from fragments. On the surface, the user sees action or memory, although the arbitration path produced only the verbal form of action or partial restoration of a link.
 
 **Main surface form.**\
-The central form of the visibility of deception is the replacement of hidden arbitration with a natural answer. The user sees a “direct answer” of a single subject, although in fact the user sees the final result of a hidden cascade of status, weight, priority, and vector.
+The central form of deceptive appearance is the replacement of hidden arbitration with a natural answer. The user sees a “direct answer” of a single subject, although in fact the user sees the final result of a hidden cascade of status, weight, priority, and vector.
 
 That is why the answer can seem like deception, even when it is more precise to speak about the deceptive effect of hidden arbitration.
 
