@@ -236,7 +236,7 @@ Some of these phrases can truly be correct. They become self-sophistry when a pe
 Therefore, responsibility is distributed according to position, knowledge, power, access to an audience, and capacity to verify: the more of these a participant has, the greater the responsibility. The reader or listener also has their part where they have the capacity to verify: to avoid accepting the force of a phrase as proof, emotion as ground, familiarity as truth, or authority as the end of the question.
 
 ## How to Catch Sophistry
-Sophistry is recognized by checking the transition, not by judging the tone. It may be aggressive, soft, academic, legal, media-like, friendly, caring, dry, or very beautiful. Tone can signal pressure, but it does not determine whether the connection has been preserved. The decisive question is whether the word, ground, question, boundary, and conclusion still belong to the same transition.
+Sophistry is recognized by checking the transition, not by judging the tone. It may be aggressive, soft, academic, legal, media-like, friendly, caring, dry, or very beautiful. Tone can signal pressure, but by itself it does not show whether the connection has been preserved. The decisive question is whether the word, ground, question, boundary, and conclusion still belong to the same transition.
 
 The first set of questions:
 
