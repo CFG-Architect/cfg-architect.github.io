@@ -1,14 +1,14 @@
 ---
 title: "The Primary Algorithm of Life | Configism"
-description: "What is the minimal logical form of a living system? An analysis of preserve, continue, and scale as the primary algorithm — before consciousness, before evolution. Abbreviated: PAL."
+description: "The Primary Algorithm of Life defines life as the execution of a living contour through state-fixation, threat / non-threat weights, and primary choice: preserving, continuing, and scaling its own organization."
 linkTitle: "Primary Algorithm of Life"
 type: docs
 url: "/articles/primary-algorithm-of-life/"
 weight: 110
 mode: "Plain Human Language"
-version: "v1.1"
+version: "v1.2"
 date: "2026-05-27"
-lastmod: "2026-06-23"
+lastmod: "2026-07-09"
 ---
 # The Primary Algorithm of Life: From State-Fixation to Primary Choice
 ---
@@ -138,9 +138,7 @@ That is why error is not a fundamental description of this level. More fundament
 
 ## 5. Why PAL Is Not a Metaphor
 
-PAL may seem like a metaphor if it is read as a poetic description of life. But we use it differently.
-
-PAL is not an image. It is a logical formalization.
+PAL is a logical formalization of the minimal execution sequence of a living contour. It may seem like a metaphor only if it is read as a poetic description of life.
 
 A minimal living contour does not merely have organization; it maintains it. If it does not maintain its own organization, it is not a living contour. It may be a reaction system, a chemical network, or a complex sequence of processes, but it is not yet living organization in the strong sense.
 
@@ -160,9 +158,9 @@ Humanity often binds choice to consciousness. If there is choice, then there mus
 
 But this is only the upper, human level of choice.
 
-At a lower level, choice can be not conscious, but contour-level.
+At the lowest level, choice is contour-level.
 
-A cell, bacterium, or simple living contour does not “think” in the human sense. But it can transition between modes. It can change the direction of process-passage. It can activate restoration. It can reduce activity. It can enter a waiting state. It can change its internal mode. It can stop one process in order to preserve another. It can die in such a way that a larger contour or line of continuation has a greater chance of being preserved.
+Simple living contour (a cell, bacterium etc.) does not “think” in the human sense. But it can transition between modes. It can change the direction of process-passage. It can activate restoration. It can reduce activity. It can enter a waiting state. It can change its internal mode. It can stop one process in order to preserve another. It can die in such a way that a larger contour or line of continuation has a greater chance of being preserved.
 
 None of this requires consciousness.\
 But it is already not simple linear SF.\
@@ -194,6 +192,6 @@ That is why error is not a fundamental concept at this level. More fundamental i
 ---
 
 ### change log
-
 - **v1.0** · 2026-05-27 – Initial public version.
 - **v1.1** · 2026-06-02 – Refined the PAL transition from State-Fixation by replacing residual “carrier” terminology with “contour” and clarifying the shift from non-living contour to living contour. Added a logical bridge from PAL to the Decoder Function, marking how fixed conditions begin to receive status, weight, and direction within a contour.
+- **v1.2** · 2026-07-09 – The revision strengthened the article’s internal logic and anti-sophistic consistency, clarified its core distinction: tightens basic-level formulations by prioritizing direct defined connections over negation-based framing. It clarifies PAL as an algorithm of execution, refines threat / non-threat as functional weights of process-passage, and strengthens primary choice as a transition between modes of execution.
