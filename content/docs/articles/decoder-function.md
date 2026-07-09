@@ -1,14 +1,14 @@
 ---
 title: "Reality Decoder: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice | Configism"
-description: "The decoder is the function through which an influence becomes status, weight, and vector, opening the field of choice between reality, decision, and action."
+description: "Reality Decoder defines decoding as the formation of status, weight, and vector within a contour, showing how impact, condition, or signal becomes a field of choice, decision, and action."
 linkTitle: "Reality Decoder"
 type: docs
 url: "/articles/decoder-function/"
-weight: 120
+weight: 120  
 mode: "Plain Human Language"
-version: "v1.1"
+version: "v1.2"
 date: "2026-05-30"
-lastmod: "2026-06-23"
+lastmod: "2026-07-09"
 ---
 # Reality Decoder: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
 ---
@@ -49,7 +49,7 @@ In other words: **the decoder** establishes what this is for the contour, how mu
 Without status, the condition is not defined for the contour. Without weight, it has no significance or priority. Without vector, it does not enter the field of choice, decision, and action. Therefore, status, weight, and vector are not an arbitrary list, but the minimal structure of decoding: status defines, weight ranks, vector directs.
 
 The full sequence can be written as:\
-**interaction → impact → change of state → state-fixation → condition / signal → decoding → status / weight / vector → field of choice → choice → decision → action**
+**interaction → impact → change of state → state-fixation → signal → decoding → status / weight / vector → field of choice → choice → decision → action**
 
 An impact by itself is not yet a signal. An impact is what changes a state: light, pressure, sound, touch, a chemical substance, temperature, a [word](https://configism.com/articles/word-power/), an image, an action, or an event.
 
@@ -60,7 +60,7 @@ But a signal is not yet meaning. It is not yet a fact, threat, resource, command
 ## Contour, Observer, Living Contour, and PAL
 A contour is an organized integrity separated from its environment, in which states, relations, and processes do not fall apart into isolated events, but are held as a connected structure. A contour has a boundary, internal connectedness, passage of changes, and its own way of conducting them.
 
-A contour is not an observer merely because it exists as a bounded integrity. In the sense defined in [The Observer Problem](https://configism.com/articles/observer-problem/), a contour becomes an observer only where an impact becomes state-fixed within it as a change of state. Observation is not the same as life, decoding, understanding, or subjecthood. It is the basic level at which interaction becomes fixed within a contour.
+In the sense defined in [The Observer Problem](https://configism.com/articles/observer-problem/), a contour becomes an observer where an impact becomes state-fixed within it as a change of state. Observation is the basic level at which interaction becomes fixed within a contour.
 
 A living contour is a contour that does not merely have organization, but maintains it: it preserves the boundary between internal and external, regulates the passage of matter, energy, and influences, responds to threats to integrity, restores or restructures itself, and continues its own organization in time.
 
@@ -112,7 +112,7 @@ The decoder is present where a condition or signal receives status, weight, and 
 Everything that does not involve status, weight, and vector assignment is not yet a decoder. It may be a physical influence, reaction, chemical change, fixation, decision, or action. But the decoding function begins where a contour establishes what this is for it, how much it weighs, and where it directs further passage.
 
 ## PAL and the Functional Decoder
-PAL is not a separate decoding mechanism beside life. PAL is the Primary Algorithm of Life, which sets the axis of living execution: preservation / continuation / scaling.
+PAL is the Primary Algorithm of Life. It sets the axis of living execution: preservation / continuation / scaling.
 
 When a condition passes through this axis and receives the status threat / non-threat, a primary weight, and a mode of passage, the PAL level works as the first functional level of the decoder.
 
@@ -313,7 +313,7 @@ In an artificial decoder, status, weight, and vector depend on the type of artif
 
 At the structural level of an artificial decoder, status defines what an influence becomes within the artificial contour. Weight defines force, intensity, duration, scale, or degree of passage. Vector opens the path by which the influence becomes a result.
 
-At this structural level, decoding does not mean understanding, interpretation, or meaning. It means a system of correspondences through which an influence receives status, weight, and vector within an artificial contour.
+At this structural level, decoding means a system of correspondences through which an influence receives status, weight, and vector within an artificial contour.
 
 At the operational level of an artificial decoder, status defines not only what an influence or signal becomes, but also how the system conducts it further: what action, processing, priority, permission, prohibition, recommendation, or blocking it opens.
 
@@ -347,9 +347,9 @@ A recommendation system assigns weight: relevant, irrelevant, popular, desirable
 
 A scoring system assigns status to a person, behavior, risk, solvency, reliability, or suspiciousness.
 
-AI is a complex artificial contour and has a decoder in which the system of correspondences is executed through a model. An input signal passes through the model, is compared with a learned system of correspondences, and receives status, weight, and direction of further processing.
+An AI system is a complex artificial contour with a decoder in which the system of correspondences is executed through a model. An input signal passes through the model, is compared with a learned system of correspondences, and receives status, weight, and direction of further processing.
 
-AI classifies what the input signal is: a request, command, error, threat, relevant fragment, violation, intention, object, person, risk, or answer. Then the system gives this status weight and opens a direction of action: respond, refuse, classify, recommend, hide, block, pass further, amplify, or lower priority.
+The AI system classifies what the input signal is: a request, command, error, threat, relevant fragment, violation, intention, object, person, risk, or answer. Then the system gives this status weight and opens a direction of action: respond, refuse, classify, recommend, hide, block, pass further, amplify, or lower priority.
 
 The artificial decoder is derivative of the human one. Humans create artificial contours and set their systems of correspondences, materials, forms, rules, models, metrics, goals, constraints, training data, reward functions, success criteria, and admissible statuses.
 
@@ -389,6 +389,6 @@ Therefore, reality does not become action directly. It enters a living contour a
 ---
 
 ### change log
-
 - **v1.0** · 2026-05-30 – Initial public version.
 - **v1.1** · 2026-06-02 – Refined the Decoder Function’s internal logic by clarifying how fixed conditions pass into status / weight / vector formation within a contour. Replaced residual “carrier” terminology with “contour”, added observer distinctions for living and artificial contours, introduced a dedicated Primary and Secondary Choice section, and clarified secondary choice as the variational-functional level of decoding.
+- **v1.2** · 2026-07-09 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency, clarified its core distinction: tightens the distinction between impact, signal, condition, decoding, status, weight, vector, choice, decision, and action. Several formulations were refined to prioritize direct defined connections, reduce unnecessary negation-based framing, and clarify artificial / AI system decoding as status-weight-vector formation through a system of correspondences.
