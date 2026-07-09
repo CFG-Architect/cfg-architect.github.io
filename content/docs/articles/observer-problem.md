@@ -1,14 +1,14 @@
 ---
 title: "The Problem of the Observer | Configism"
-description: "A structural analysis of what Observer actually means — separating physical interaction, sensory fixation, and conscious perception into distinct logical levels."
+description: "The Problem of the Observer defines observation from the basic level of state-fixed interaction, showing that consciousness, meaning, signal, decoding, and subjecthood are later levels built on top of impact, change of state, and fixation."
 linkTitle: "Observer Problem"
 type: docs
 url: "/articles/observer-problem/"
 weight: 100
 mode: "Plain Human Language"
-version: "v1.1"
+version: "v1.2"
 date: "2026-05-26"
-lastmod: "2026-06-23"
+lastmod: "2026-07-09"
 ---
 # The Problem of the Observer: Why Observation Does Not Begin with Consciousness
 ---
@@ -20,12 +20,12 @@ This is where the confusion begins.
 
 The observer is often imagined as the one who understands what is observed. But understanding is not the basic level of observation. Understanding appears much later, where there is mind, model, interpretation, memory, language, and criteria of meaning. Observation as a basic process begins earlier.
 
-At the fundamental level, another sequence is sufficient:\
+At the fundamental level, this sequence is sufficient for basic observation:\
 **interaction → impact → change of state → state-fixation**\
 This is the minimal basis of observation.
 
 **Interaction** means that one thing affects another.\
-**Impact** is what affects the contour in the process of interaction (at this level, a contour does not mean consciousness, life, or subjecthood. It means the minimal boundedness of an object or system: that in which an impact can be localized and fixed as its own change of state.).\
+**Impact** is what affects the contour is what affects the contour in the process of interaction. At this level, a contour means the minimal boundedness of an object or system: that in which an impact can be localized and fixed as its own change of state.\
 **Change of state** is what happens to the contour because of this impact.\
 **State-fixation** means that the change does not remain without consequence for that contour: it manifests, continues, leaves a trace, or changes a parameter, structure, position, temperature, form, tension, or another state.
 
@@ -39,9 +39,9 @@ Or, more briefly:\
 
 This definition does not make a stone “conscious” and does not attribute thinking to a thermometer. It simply separates the levels. A stone does not think about an impact, but the impact may be fixed in it as a crack. Metal does not understand heat, but heat may be fixed in it as expansion. Water does not interpret cold, but cold may be fixed as a change of aggregate state. Granite does not “see” the Sun, but sunlight changes its state: part of the light is reflected, part is absorbed, the surface heats up, thermal stresses arise, and over time microcracks, weathering, and surface changes may appear.
 
-In this sense, granite observes solar impact not because it has eyes or consciousness, but because the impact becomes a change of its state.
+In this basic sense, granite is an observer of solar impact: because the impact becomes fixed as a change of its state.
 
-This is basic observation.
+This is basic observation: state-fixed interaction without meaning, interpretation, or subjecthood.
 
 A thermometer is a more complex example. It does not “understand” temperature, but thermal impact changes its state: liquid expands, a pointer shifts, or an electronic sensor changes a parameter. This change is fixed as a reading. Only then does a human read that value and define it as “20°C”, “hot”, “cold”, “normal”, or “dangerous”. The thermometer itself fixes a change of state; the mind gives that change meaning.
 
@@ -49,15 +49,15 @@ This is important: **observation is not the same as understanding what is observ
 
 Likewise, a camera does not “understand” a tree. Light reaches its sensor, the material structure of the sensor changes, and that change is fixed as a technical record. Only then can a human, an algorithm, or another system interpret the record as “tree”, “face”, “road”, or “sky”. Basic fixation and later meaning are different levels.
 
-This is why we must be careful with the word “signal”. At the fundamental level, an impact is not a signal. Sunlight for granite is not a message, not a code, and not a sign. It is an impact. It becomes a change of state. The word “signal” appears when a mind, or a system created by mind, begins to treat an impact or a change as a carrier of information.
+This is why we must be careful with the word “signal”. At the fundamental level, an impact becomes a change of state. Signal appears only at a later level, when a change is read through a defined rule. Sunlight for granite is not a message, not a code, and not a sign. It is an impact. It becomes a change of state. The word “signal” appears when a mind, or a system created by mind, begins to treat an impact or a change as a carrier of information.
 
 That is:\
 **interaction is fundamental;**\
 **impact is fundamental;**\
 **change of state is fundamental;**\
 **fixation of change of state is fundamental;**\
-**signal is an interpretive term;**\
-**information is the result of defining a change at the level of mind or an organized system.**
+**signal is an interpretive term that appears when a change is read through a defined rule;**\
+**information is the result of defining a fixed change through a rule of reading at the level of mind or an organized system.**
 
 The same applies to the [decoding of signals](https://configism.com/articles/decoder-function/). At the fundamental level, reality does not decode signals. Reality interacts. Decoding appears where there is already a code, a format, a rule of reading, an expected reconstruction, a language, a protocol, or an artificially defined correspondence.
 
@@ -83,11 +83,11 @@ a fixed change is defined as information, sign, meaning, or message.
 **Subject level:**\
 the defined meaning enters a model, choice, action, responsibility, or self-reference.
 
-One of these later levels appears when fixed interaction is no longer only preserved as a change of state, but enters a contour that must preserve, continue, and scale its own organization. At that point, observation becomes part of a living sequence: the level of the [Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/).
+A later living level appears when state-fixed interaction enters a contour that must preserve, continue, and scale its own organization. At that point, observation becomes part of a living sequence: the level of the [Primary Algorithm of Life](https://configism.com/articles/primary-algorithm-of-life/).
 
 Confusion arises when these levels are all called by one word – “observer” – without specifying which level is meant.
 
-A subject is an observer, but not every observer is a subject. An instrument may be an observer without being a mind. A stone may be a contour in which interaction becomes state-fixed without being a sensory system. A human can pass through all the levels: receive an impact, change state, fix the change, define it as information, give it meaning, include it in a model, and act. But this is already a composite chain, not a single simple act.
+A subject is an observer, but not every observer is a subject. An instrument may be an observer without being a mind. A stone may be a basic observer: a contour in which interaction becomes state-fixed without becoming sensory observation. A human can pass through all the levels: receive an impact, change state, fix the change, define it as information, give it meaning, include it in a model, and act. But this is already a composite chain, not a single simple act.
 
 Therefore, the question should not begin as:\
 **who is looking?**
@@ -121,7 +121,7 @@ Then it becomes clear: observation does not begin with consciousness. It begins 
 
 This is not a mystical thesis and not a claim that “everything is conscious”. On the contrary, it is a way to avoid confusion. A stone has no consciousness. A thermometer has no mind. A camera has no meaning of its own. But all of them can be contours in which interaction becomes state-fixed.
 
-Therefore, the observer should not begin with eyes, brain, or subjecthood, but with the simplest level:\
+Therefore, the definition of observer should begin with the simplest level:\
 **interaction → impact → change of state → state-fixation**
 
 Everything else – signal, [decoding](https://configism.com/articles/decoder-function/), information, meaning, interpretation, consciousness, subjecthood – should be treated as later levels of more complex systems, not as the foundation of observation itself.
@@ -129,6 +129,6 @@ Everything else – signal, [decoding](https://configism.com/articles/decoder-fu
 ---
 
 ### change log
-
 - **v1.0** · 2026-05-26 – Initial public version.
 - **v1.1** · 2026-06-01 – Refined the observer definition through “state-fixation” and “contour”, clarifying basic observation as state-fixed interaction within a bounded locus. Added a logical bridge to the Primary Algorithm of Life as a later living-contour level.
+- **v1.2** · 2026-07-09 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency, clarified its core distinction: tightens basic-level formulations to avoid negation-based contamination and keeps the observer definition grounded in the direct sequence: interaction → impact → change of state → state-fixation. Several examples were refined so that basic observation, technical recording, and later levels such as signal, decoding, information, meaning, and subjecthood remain separated by level.
