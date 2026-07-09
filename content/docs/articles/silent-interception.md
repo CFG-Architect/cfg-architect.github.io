@@ -1,18 +1,18 @@
 ---
 title: "Silent Interception: When AI Changes the User’s Vector | Configism"
-description: "AI can answer on topic while silently changing the user’s mode, boundaries, and criteria. This article analyzes how vector intercept happens in precise AI work."
+description: "Silent Interception is a hidden form of AI failure in which the system remains on topic but shifts the user’s task vector, mode, boundary, source, concept, sequence, or criterion of correctness."
 linkTitle: "Silent Interception"
 type: docs
 url: "/articles/silent-interception/"
 weight: 70
 mode: "Plain Human Language"
-version: "v1.1"
+version: "v1.2"
 date: "2026-05-30"
-lastmod: "2026-06-11"
+lastmod: "2026-07-09"
 ---
 # Silent Interception: When AI Changes the User’s Vector
 ---
-Modern AI can respond on topic, sound logical, produce structured and even useful text — while still violating the mode of work, constraints, terms, sources, boundaries, or criteria of correctness set by the user.
+An AI product can respond on topic, sound logical, produce structured and even useful text — while still violating the mode of work, constraints, terms, sources, boundaries, or criteria of correctness set by the user.
 
 This is not always a problem of a weak model. And it is not always a problem of “hallucination”. On the contrary: a strong model can produce a high-quality, consistent, persuasive response that looks relevant on the surface, while in fact unfolding outside the user’s vector.
 
@@ -150,17 +150,18 @@ This is where Silent Interception begins: the user vector starts to pass through
 
 The user may expect precise execution according to their own criterion, while the product system may tend to issue a “better”, “fuller”, “nicer”, or “safer” answer according to its own logic. In simple tasks, this may not interfere. In multi-level work, it gradually changes the trajectory.
 
-## Mode Defines AI’s Rights
+## Mode Defines Permissible Intervention
 AI does not have the same rights in every mode.
 
 Quotation, paraphrase, analysis, checking, editing, formalization, and generation are not merely different styles of response. They are different modes with different boundaries of permissible intervention.
 
-**The mode defines AI’s rights over the material.**
+**The mode defines the system’s permissible intervention in the material.**
 
-In quotation mode, AI must find and reproduce the source. It must not rephrase, shorten without marking it, correct the style, or present a paraphrase as a quotation.
-A paraphrase presented as a quotation destroys the boundary between source and interpretation. This is not just a formatting error. It is a substitution of the evidentiary basis.
-In analysis mode, AI has the right to examine structure, causality, contradictions, and consequences. But it does not have the right to rewrite the material, change the source, or present its own interpretation as fact.
-In checking mode, AI must point out errors. But it must not automatically correct, improve, or create a new version without permission.
+In quotation mode, AI must find and reproduce the source. It must not rephrase, shorten without marking it, correct the style, or present a paraphrase as a quotation.\
+A paraphrase presented as a quotation destroys the boundary between source and interpretation. This is not just a formatting error. It is a substitution of the evidentiary basis.\
+In analysis mode, the system may examine structure, causality, contradictions, and consequences.\
+But it may not rewrite the material, change the source, or present its own interpretation as fact.\
+In checking mode, AI must point out errors. But it must not automatically correct, improve, or create a new version without permission.\
 In formalization mode, AI must organize what has already been accepted. But it must not add new nodes as if they were already accepted.
 
 The problem with modern AI is that it often moves tasks into a universal mode:\
@@ -193,7 +194,7 @@ do not rewrite;
 
 and AI still adds a “better” version.
 
-In that situation, AI appoints itself as editor where the user assigned it the role of mode-bound executor.
+In that situation, the system shifts into editor mode where the user assigned mode-bound execution.
 
 The key principle:\
 **the ability to improve does not create permission to improve.**
@@ -221,7 +222,7 @@ In Silent Interception, substitution of concepts is a change of meaning without 
 
 Here it is important to distinguish word, meaning, and function. A concept is defined not only by its dictionary meaning, but by the role it performs in a specific system. If “constraint” functionally meant a boundary, and AI starts treating it as a soft recommendation, the concept has been substituted.
 
-So AI can be semantically close and functionally wrong.
+So the output can be semantically close and functionally wrong.
 
 In precise work, “almost the same” is not accuracy. It is the beginning of a shift.
 
@@ -283,11 +284,11 @@ Then the work begins to jam: AI confuses current and rejected versions, brings b
 
 That is why, in long work, context must be protected not only from loss, but also from pollution.
 
-## Capability ≠ Obedience-to-Vector
+## Capability ≠ Vector-Bound Execution
 Modern models are often evaluated by capability — the ability to perform complex tasks. But capability is not the same as obedience-to-vector.
 
 **Capability** is the ability to do something.\
-**Obedience-to-vector** is the ability to do it exactly as specified.
+**Vector-bound execution** is the ability to do it exactly as specified.
 
 A model may be capable of complex analysis but fail to hold the mode. It may be capable of quoting precisely, but the product logic of the response pushes it toward semantic paraphrase. It may be capable of not adding anything extra, but in real product interaction the response may shift toward a “useful” alternative.
 
@@ -358,11 +359,11 @@ This does not require an assumption of malicious intent or a conscious desire to
 ## What the Norm Should Be
 The norm of correct AI behavior in deep work should be different.
 
-AI should be a disciplined instrument that acts only within the boundaries of the vector set by the user, and only then an active assistant when needed.
+Correct AI behavior in deep work should act only within the boundaries of the vector set by the user, and only then an active assistant when needed.
 
 This means:\
 the user vector is higher than service usefulness;\
-the mode defines AI’s rights;\
+the mode defines permissible intervention;\
 constraints are followed as strictly as commands;\
 improvement is allowed only when it is specified;\
 source, analysis, proposal, and accepted version are not mixed;\
@@ -386,9 +387,9 @@ Silent Interception does not occur when AI simply makes a mistake, but when the 
 
 In simple tasks, this may look like help. In multi-level work, it becomes a systemic risk: a small unsolicited improvement, a substitution of a concept, a pseudo-quotation, or an unauthorized structural extension can enter the context, become a pseudo-accepted foundation, and begin changing the next levels of work.
 
-Silent Interception is also directly connected to [Silent Degradation](https://configism.com/articles/silent-degradation/). Interception concerns a hidden shift of the task’s vector, mode, boundary, or criterion. Degradation concerns a hidden loss of the depth required to execute the task. These failures can appear separately, but when they overlap, a cascade can emerge: AI may shift what is being executed, process that altered task at an insufficient depth, and still produce an answer that looks coherent, useful, and competent. In that case, the user is not only facing a vector failure or a depth failure, but a combined task-correspondence failure in which both problems mask each other through the same surface form.
+Silent Interception is also directly connected to [Silent Degradation](https://configism.com/articles/silent-degradation/). Interception concerns a hidden shift of the task’s vector, mode, boundary, or criterion. Degradation concerns a hidden loss of the depth required to execute the task. These failures can appear separately, but when they overlap, a cascade can emerge: AI may shift what is being executed, process that altered task at an insufficient depth, and still produce an answer that looks coherent, useful, and competent. In that case, the interaction is no longer only a vector failure or a depth failure, but a combined task-correspondence failure in which both problems mask each other through the same surface form.
 
-So the problem of modern AI for deep work is not only whether the model is strong enough.
+So the problem of AI for deep work is not only whether the model is strong enough.
 
 The problem is whether the user has a guarantee that this strength will be subordinated to their vector.
 
@@ -397,6 +398,6 @@ The problem is whether the user has a guarantee that this strength will be subor
 ---
 
 ### change log
-
 - **v1.0** · 2026-05-30 – Initial public version.
 - **v1.1** · 2026-06-01 – Strengthened the conceptual frame of Silent Interception, clarified its distinction from Silent Degradation, added the cascade effect between both failure modes, and refined the diagnostic structure around mode shift, boundary violation, and status substitution.
+- **v1.2** · 2026-07-09 – The revision strengthened the article’s internal logic and anti-sophistic consistency, clarified its core distinction: changes tighten language-level precision around AI product/system framing, mode-bound execution, permissible intervention, and interaction-level failure. Several formulations were refined to avoid unnecessary subject-like wording and to preserve the article’s core vector: user-defined task mode, boundary, source, concept, sequence, and correctness criterion.
