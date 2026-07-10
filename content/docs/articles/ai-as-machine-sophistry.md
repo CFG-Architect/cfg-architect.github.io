@@ -6,9 +6,9 @@ type: docs
 url: "/articles/ai-as-machine-sophistry/"
 weight: 20
 mode: "Plain Human Language"
-version: "v1.2"
+version: "v1.3"
 date: "2026-06-13"
-lastmod: "2026-06-28"
+lastmod: "2026-07-10"
 ---
 # AI as Machine Sophistry: When the Form of an Answer Replaces the Answer
 ---
@@ -157,8 +157,6 @@ A complex question can fail through reduction rather than direct collapse. The a
 
 A concrete question becomes a general one. A question about proof becomes a question about plausibility. A question about cause becomes a list of possible factors. A question about verification becomes a summary. A question about concrete conditions becomes general advice.
 
-The answer may look normal, but in reality it answers a simpler version of what was asked.
-
 Simple explanation and reduction are different operations.
 
 Plain language can preserve complexity. A good explanation can say a complex thing clearly without losing the important conditions. The problem begins when complexity is removed without being marked.
@@ -178,7 +176,7 @@ Honest simplification shows its boundary. Sophistic simplification hides it.
 ## The appearance of competence
 AI-generated answers can easily sound as if knowledge is already present.
 
-It can write calmly, structurally, confidently, with the right words, examples, balance, and a final conclusion. To the reader, this looks like competence.
+AI can write calmly, structurally, confidently, with the right words, examples, balance, and a final conclusion. To the reader, this looks like competence.
 
 Competence begins where the answer actually holds the question, keeps the right level, separates fact from assumption, avoids making the conclusion stronger than the grounds, and shows the boundary.
 
@@ -328,8 +326,6 @@ A good AI answer behaves honestly: it shows how the answer is built, what it res
 
 It preserves the question, keeps the meaning of key words, shows the ground, distinguishes fact, assumption, example, and conclusion, keeps the conclusion within the force of the material, shows the boundary, and honestly marks where the answer lacks knowledge or needs additional verification.
 
-Its strength lies in showing what it rests on.
-
 A good AI answer can stop instead of forcing closure: this cannot be established from the given material; this is only a possible explanation; this needs verification; the boundary of the answer is here. The ability to stop separates an honest answer from sophistic completion.
 
 Fact-checking checks whether a claim is invented. Logic checks whether even true facts are connected correctly. That is why the main anti-sophistic tool is logic: the simple demand to check the transition from question to ground, from ground to conclusion, and from conclusion to boundary.
@@ -354,3 +350,4 @@ Where the path from question to ground, from ground to conclusion, and from conc
 - **v1.0** · 2026-06-13 – Initial public version.
 - **v1.1** · 2026-06-27 – The revision refined the article’s **anti-sophistic** consistency and clarified the core subject of the text: machine sophistry as a structural effect of generated answer-forms, rather than an intentional act by AI. The edits reduced unnecessary negative framing, removed several misleading agentive formulations, and shifted the focus from “AI doing something” to human-language sophistic forms acquiring machine scale through AI systems.
 - **v1.2** · 2026-06-28 – Fixed minor grammar, punctuation, and stylistic issue; removed a small repetitive fragment and refined several phrases for clearer reading.
+- **v1.3** · 2026-07-10 – Fixed a pronoun-reference error and removed two redundant sentences that repeated already established points about question reduction and evidential grounding.
