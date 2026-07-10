@@ -6,9 +6,9 @@ type: docs
 url: "/articles/neuroprogramming/"
 weight: 130
 mode: "Plain Human Language"
-version: "v1.2"
+version: "v1.3"
 date: "2026-06-10"
-lastmod: "2026-06-28"
+lastmod: "2026-07-10"
 ---
 # Neuroprogramming: The Capture of Human Self-Definition
 ---
@@ -131,7 +131,7 @@ it is better not to try, so I will not become a problem.
 
 The problem is not the boundary itself. Boundaries are needed. Dangers are real. Experience must be passed on.
 
-Neuroprogramming begins where, together with the fact, a self-link is installed into a person: who they are when they do not know; who they are when they make a mistake; whether they have the right to ask; whether they have the right to try; whether they remain worthy of love when they do not meet expectation.
+Neuroprogramming begins where, together with the fact, a self-link is installed into a person: who they are when they do not know; who they are when they make a mistake; whether they have the right to ask; whether they have the right to try; whether they remain worthy of love when they do not meet expectations.
 
 **Neuroprogramming uses lack of experience as an entry point. Authority adds status to the fact. A person accepts not only information, but a way of reading themselves.**
 
@@ -191,7 +191,7 @@ A person can be programmed through love.
 
 You are loved when you match the role.\
 People are proud of you when you move in the required direction.\
-You are special when you fulfill expectation.\
+You are special when you meet expectations.\
 You are good when you remain silent.\
 You are mature when you need nothing.\
 You are strong when you do not doubt.\
@@ -489,7 +489,7 @@ Such a person can appear far beyond a military environment. The military form on
 The system is structured to reduce doubt.\
 Less right to say “no”.\
 Less empathic brake.\
-Less question “why?”\
+Less ability to ask “why?”\
 Less feeling of one’s own boundary.\
 Less ability to separate order from truth.\
 More identification with the mission.\
@@ -749,7 +749,7 @@ The most dangerous neuroprogramming makes a person call someone else’s life th
 ---
 
 ### change log
-
 - **v1.0** · 2026-06-10 – Initial public version.
 - **v1.1** · 2026-06-27 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency. The edits clarified neuroprogramming as the capture of self-definition through imposed internal links, statuses, fears, desires, dreams, authority, law, money, advertising, and social infrastructure. The update reduced unnecessary negative framing, tightened several section openings, clarified the difference between support and capture, and refined the boundary between education, upbringing, authority, law, market mechanisms, and neuroprogramming. Several formulations were adjusted to preserve direct logical movement, avoid repeated negation-based starts, reduce unnecessary personalization of systems, and keep the focus on defined links, self-reading, and the right of a person to define themselves.
 - **v1.2** · 2026-06-28 – Fixed minor grammar, punctuation, and stylistic issues; removed a small repetitive fragment and refined several phrases for clearer reading.
+- **v1.3** · 2026-07-10 – Corrected expectation-related phrasing and clarified the reduced ability to ask “why?” in the Human Function section.
