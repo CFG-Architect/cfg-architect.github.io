@@ -6,9 +6,9 @@ type: docs
 url: "/articles/babylon-syndrome/"
 weight: 140
 mode: "Plain Human Language"
-version: "v1.3"
+version: "v1.4"
 date: "2026-06-04"
-lastmod: "2026-06-28"
+lastmod: "2026-07-10"
 ---
 # The Babylon Syndrome Is Not a Myth About Confused Languages
 ---
@@ -216,7 +216,7 @@ After the Babylon Syndrome, humanity needs a meta-linguistic principle rather th
 
 Natural language is the surface of expression. Meta-language is the principle of preserving definedness beneath the surface. A person may speak English, Japanese, Arabic, Chinese, Spanish, sign language, formal language, technical language. Beneath each surface, the same principle must operate: transfer the node rather than a similar word; mark every status change; preserve the operator; preserve causal role; preserve the vector.
 
-Then translation becomes the transfer of nodes rather than the transfer of words. The clean route is: language A → meta-linguistic node → language B. If “logic” is being translated, the transfer must preserve the specific core: logic is the principle of defined connection, rather than the broad cultural sign logic. If “Babylon Syndrome” is being translated, one must transfer not the image of Babel as confused languages, but the technical node: the destruction of language as an instrument of shared definedness.
+Then translation becomes the transfer of nodes rather than the transfer of words. The clean route is: language A → meta-linguistic node → language B. If “logic” is being translated, the transfer must preserve the specific core: logic is the principle of defined connection, rather than the broad cultural sign “logic”. If “Babylon Syndrome” is being translated, one must transfer not the image of Babel as confused languages, but the technical node: the destruction of language as an instrument of shared definedness.
 
 Relevant translation is possible when the same meta-linguistic node is preserved. A similar word is not enough. The word may be short or long. Language B may not contain a ready-made equivalent. Then the translation must be descriptive. First the core is transferred; only then is a short sign allowed.
 
@@ -242,3 +242,4 @@ The Babylon Syndrome began as the destruction of connection. Its dogmatic memory
 - **v1.1** · 2026-06-09 – Grammar and logical inconsistencies were corrected.
 - **v1.2** · 2026-06-27 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency, clarified the Babylon Syndrome as the destruction of shared definedness, and refined the connection between language, status, operator, causal role, vector, and the continuation of structure. The update reduced unnecessary negation-based framing, tightened section openings, removed duplicated formulations, and clarified several key distinctions: one language versus shared definedness, word versus node, familiar term versus preserved status, translation versus node transfer, local disciplinary stabilization versus logic itself, and AI acceleration versus the original Babel mechanism. The revision also improved the treatment of meta-language as a corrective principle: not a single universal language, not a new dictionary, and not a new owner of meaning, but a principle for preserving defined nodes across languages, disciplines, systems, and contexts.
 - **v1.3** · 2026-06-28 – Fixed minor grammar, punctuation, and stylistic issues; cleaned up several internal-link spacing artifacts and refined several phrases for clearer reading.
+- **v1.4** · 2026-07-10 – Clarified “logic” as a cultural sign by adding the missing quotation marks.
