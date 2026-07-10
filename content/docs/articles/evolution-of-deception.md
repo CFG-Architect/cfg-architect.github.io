@@ -6,9 +6,9 @@ type: docs
 url: "/articles/evolution-of-deception/"
 weight: 230
 mode: "Plain Human Language"
-version: "v1.0"
+version: "v1.1"
 date: "2026-07-08"
-lastmod: "2026-07-08"
+lastmod: "2026-07-10"
 ---
 # Deception: Nature, Human, AI, and the Question of Interest 
 ---
@@ -45,7 +45,7 @@ In this mode, the following weights operate:\
 
 Deception of life preservation works when an organism presents a status that makes another organism change its evaluation of the weights of threat, detection, attack, safety, or danger. The predator does not attack, the prey does not notice, the competitor does not recognize, the threat passes by. The mode of preserving life is realized through the changed recognition of the other.
 
-**The second mode is to continue life**. This is the mode of maintaining life as a process after the moment of preservation. The organism needs not only to avoid death, but to sustain existence: obtain a resource, preserve access, pass through a route, reduce costs, retain time, find safe approach, and not lose the conditions of life.
+**The second mode is to continue life**. This is the mode of maintaining life as a process after the moment of preservation. The organism needs not only to avoid death, but to sustain existence: obtain a resource, preserve access, pass through a route, reduce costs, retain time, find a safe approach, and not lose the conditions of life.
 
 In this mode, the following weights operate:\
 **access / non-access**\
@@ -253,7 +253,7 @@ Human deception translates the modes of life and their weights into symbolic, so
 
 The mode of preserving life turns into the weights of safety, punishment, reputational risk, threat of exposure, social exclusion, or loss of protection. The mode of continuing life turns into the weights of resource, money, work, connections, access, place, stability, and possibility to act further. The mode of scaling life turns into the weights of influence, status, organization, product, group, idea, institution, system, or expansion of one’s own presence through others.
 
-A human can present oneself as competent, safe, honest, weak, strong, innocent, authoritative, a victim, a partner, an expert, a representative of a rule, a bearer of rights, a bearer of threat, a bearer of a solution. The other reacts not only to the body or behavior, but to the meaning of the presented status in the social field.
+A human can present themselves as competent, safe, honest, weak, strong, innocent, authoritative, a victim, a partner, an expert, a representative of a rule, a bearer of rights, a bearer of threat, a bearer of a solution. The other reacts not only to the body or behavior, but to the meaning of the presented status in the social field.
 
 Therefore, human deception is a complication of the natural sequence. The natural formula remains, but the carriers become more complex:\
 **biological status → behavioral status → social status → symbolic status → systemic status**
@@ -432,7 +432,7 @@ Institutional deception is powerful because it uses trust in the function. A per
 At this level, deception moves from personal action to organized form. It can outlive a specific person because it is maintained by structure.
 
 ### Systemic Deception
-Systemic deception is the upper stage of human deception in this sequence. Here, not one carrier and not one institution operate. Different levels begin to support one another: behavior, word, emotion, cognitive frame, status, information field, economic exchange, institutional function, and repeated behavior.
+Systemic deception is the upper stage of human deception in this sequence. Here, multiple carriers and institutions operate together. Different levels begin to support one another: behavior, word, emotion, cognitive frame, status, information field, economic exchange, institutional function, and repeated behavior.
 
 Scheme of systemic deception:\
 **system presents its own function → people act inside this version → system receives resource, protection, and continuation → presented version supports itself**
@@ -707,3 +707,4 @@ Conclusion:\
 
 ### change log
 - **v1.0** · 2026-07-08 – Initial public version.
+- **v1.1** · 2026-07-10 – Corrected a missing article, fixed reflexive pronoun agreement, and clarified that systemic deception operates through multiple carriers and institutions acting together.
