@@ -383,7 +383,7 @@ Status laundering arises when a weak, untrusted, or limited element passes throu
 
 **Source laundering**: an untrusted source passes through summary, memory, agent output, or retrieved context and returns as internal material. It was text in an external document. It becomes “the previous agent said”.
 
-**Permission laundering**: narrow user intent passes through an agent plan and becomes a broader action. It was “help me understand”. It becomes permission to read, browse, write, send, or make an external call.
+**Permission laundering**: narrow user intent passes through an agent plan and is treated as permission for broader action. “Help me understand” becomes permission to read, browse, write, send, or make an external call.
 
 **Judge laundering**: weak output passes through an evaluator and receives the status of “verified”. The judge had no access to factual truth, but its evaluation increased trust in the result.
 
@@ -415,7 +415,7 @@ The failure pattern:\
 ### Source-sink failure
 Source-sink failure arises when influence from the cognitive field receives a path into the operational field and reaches the receiver of consequence.
 
-This is not identical to context poisoning. A harmful source may enter context and create no harm if it remains material for analysis. The break begins when this source influences the model / agent plan and the provenance of that influence is erased, weakened, or not passed into the operational field.
+This is not identical to context poisoning. A harmful source may enter context and create no harm if it remains material for analysis. The break begins when this source influences the model / agent plan, but the provenance of that influence is erased, weakened, or not passed into the operational field.
 
 In that case, runtime does not see “an action formed under the influence of an untrusted source”, but a legitimate plan or tool-call from the model. Permission check may fail to stop the transition because it is checking an already anonymized or partially laundered request in which provenance has been lost: who or what actually influenced the appearance of this action.
 
