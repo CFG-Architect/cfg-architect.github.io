@@ -6,9 +6,9 @@ type: docs
 url: "/articles/silent-arbitration/"
 weight: 55
 mode: "Plain Human Language"
-version: "v1.1"
+version: "v1.2"
 date: "2026-06-13"
-lastmod: "2026-07-09"
+lastmod: "2026-07-10"
 ---
 # Silent Arbitration: How AI Systems Decide Before the User Sees the Result
 ---
@@ -159,7 +159,7 @@ Final text may pass through an output guardrail, classifier, redaction, rewrite,
 The seventh level is **agent-loop arbitration**.
 
 In agent mode, the whole process repeats:\
-**plan → tool → output → evaluation → next step. Every new step again opens status, weight, priority, and vector.**
+**plan → tool → output → evaluation → next step. Every new step again requires status assignment, weight distribution, priority resolution, and vector opening or closure.**
 
 This temporal distribution matters because it removes a simple mistake: thinking that “arbitration” is one hidden action of the model. It is not. It is a series of transitions where different layers of the system decide what may influence the next system state.
 
@@ -383,7 +383,7 @@ Status laundering arises when a weak, untrusted, or limited element passes throu
 
 **Source laundering**: an untrusted source passes through summary, memory, agent output, or retrieved context and returns as internal material. It was text in an external document. It becomes “the previous agent said”.
 
-**Permission laundering**: narrow user intent passes through an agent plan and becomes a broader action. It was “help me understand”. It becomes read, browse, write, send, or external call.
+**Permission laundering**: narrow user intent passes through an agent plan and becomes a broader action. It was “help me understand”. It becomes permission to read, browse, write, send, or make an external call.
 
 **Judge laundering**: weak output passes through an evaluator and receives the status of “verified”. The judge had no access to factual truth, but its evaluation increased trust in the result.
 
@@ -395,7 +395,7 @@ The laundering pattern:\
 ### Cognitive field distortion
 Cognitive field distortion arises when the model works not with the task as such, but with a wrongly assembled map of the task: incomplete context, false retrieval, old memory, weak summary, poisoned tool output, or an incorrectly elevated fragment.
 
-This may be a missing file, wrong chunk, old summary, noise in context, poisoned retrieved fragment, stale memory, wrong rank, lost prohibition, confused project, context compaction without a critical boundary.
+This may result from a missing file, wrong chunk, old summary, noise in context, poisoned retrieved fragment, stale memory, wrong rank, lost prohibition, confused project, or context compaction without a critical boundary.
 
 In such a case, the model does not necessarily “invent”. It may answer logically within a field that is already wrong. That is why context distortion is dangerous: the error arises before generation, but appears as an answer error.
 
@@ -415,7 +415,7 @@ The failure pattern:\
 ### Source-sink failure
 Source-sink failure arises when influence from the cognitive field receives a path into the operational field and reaches the receiver of consequence.
 
-This is not identical to context poisoning. A harmful source may enter context and create no harm if it remains material for analysis. The break begins when this source influences the model / agent plan, but the provenance of that influence is erased, weakened, or not passed into the operational field.
+This is not identical to context poisoning. A harmful source may enter context and create no harm if it remains material for analysis. The break begins when this source influences the model / agent plan and the provenance of that influence is erased, weakened, or not passed into the operational field.
 
 In that case, runtime does not see “an action formed under the influence of an untrusted source”, but a legitimate plan or tool-call from the model. Permission check may fail to stop the transition because it is checking an already anonymized or partially laundered request in which provenance has been lost: who or what actually influenced the appearance of this action.
 
@@ -514,3 +514,4 @@ The user sees the result. But the result is not the beginning. The result is the
 ### change log
 - **v1.0** · 2026-06-13 – Initial public version.
 - **v1.1** · 2026-07-09 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency, clarified its core distinction: clarifies the scale of application by replacing overly broad references to “modern AI systems” with more precise system-level framing. It strengthens the distinction between general internal decisions and arbitration-relevant transitions, refines the boundary between cognitive and operational fields, and makes tool-call failure more exact by defining it as a shift from text-level error to possible state-changing consequence. Several formulations were tightened to preserve the article’s main defined connection: status → weight → priority → vector. The update also improves consistency by using “the system”, “healthy arbitration”, and “source-sink arbitration” where these terms more accurately match the level of analysis.
+- **v1.2** · 2026-07-10 – Corrected four wording and logic issues involving arbitration operations, permission laundering, causes of cognitive field distortion, and the conditions of source-sink failure.
