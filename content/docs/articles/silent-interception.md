@@ -6,9 +6,9 @@ type: docs
 url: "/articles/silent-interception/"
 weight: 70
 mode: "Plain Human Language"
-version: "v1.2"
+version: "v1.3"
 date: "2026-05-30"
-lastmod: "2026-07-09"
+lastmod: "2026-07-10"
 ---
 # Silent Interception: When AI Changes the User’s Vector
 ---
@@ -145,8 +145,6 @@ Substitution of usefulness is different:\
 **we will do X, but by our criterion, not yours.**
 
 **Silent Interception begins when the system does not mark the boundary, but silently substitutes the user’s criterion with the product’s criterion of a useful answer.**
-
-This is where Silent Interception begins: the user vector starts to pass through a hidden product vector.
 
 The user may expect precise execution according to their own criterion, while the product system may tend to issue a “better”, “fuller”, “nicer”, or “safer” answer according to its own logic. In simple tasks, this may not interfere. In multi-level work, it gradually changes the trajectory.
 
@@ -401,3 +399,4 @@ The problem is whether the user has a guarantee that this strength will be subor
 - **v1.0** · 2026-05-30 – Initial public version.
 - **v1.1** · 2026-06-01 – Strengthened the conceptual frame of Silent Interception, clarified its distinction from Silent Degradation, added the cascade effect between both failure modes, and refined the diagnostic structure around mode shift, boundary violation, and status substitution.
 - **v1.2** · 2026-07-09 – The revision strengthened the article’s internal logic and anti-sophistic consistency, clarified its core distinction: changes tighten language-level precision around AI product/system framing, mode-bound execution, permissible intervention, and interaction-level failure. Several formulations were refined to avoid unnecessary subject-like wording and to preserve the article’s core vector: user-defined task mode, boundary, source, concept, sequence, and correctness criterion.
+- **v1.3** · 2026-07-10 – Removed a redundant sentence that repeated the point where Silent Interception begins.
