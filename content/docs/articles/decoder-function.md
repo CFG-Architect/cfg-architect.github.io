@@ -6,9 +6,9 @@ type: docs
 url: "/articles/decoder-function/"
 weight: 120  
 mode: "Plain Human Language"
-version: "v1.2"
+version: "v1.3"
 date: "2026-05-30"
-lastmod: "2026-07-09"
+lastmod: "2026-07-10"
 ---
 # Reality Decoder: How Reality Becomes Status, Weight, Direction, and Opens the Field of Choice
 ---
@@ -265,7 +265,7 @@ The human decoder has functional, variational-functional, subject-level, social,
 
 The human decoder does not work linearly, but multi-levelly. One and the same signal in a human may simultaneously pass as a condition of life, a way of passage, a personal experience, a social status, and a symbolic meaning.
 
-Therefore, human action is not a direct consequence of one level. A person may biologically feel threat, variationally have the possibility to retreat, subject-level experience fear or shame, socially be bound by a role, and symbolically act according to duty, law, faith, honor, or meaning.
+Therefore, human action is not a direct consequence of one level. A person may biologically feel threat, variationally have the possibility to retreat, at the subject level experience fear or shame, socially be bound by a role, and symbolically act according to duty, law, faith, honor, or meaning.
 
 The human bio-decoder is a complex system in which levels of decoding overlap, conflict with one another, and may reassign the statuses, weights, and vectors of lower and higher levels depending on the complexity of conditions.
 
@@ -295,7 +295,7 @@ A word, image, flag, command, doctrine, or social role ceases to be merely a sym
 ## Artificial Contour and Artificial Decoder
 An artificial contour is a contour with externally given organization, through which form, material, mechanics, electronics, rules, model, or algorithm sets the way an action, influence, or signal passes.
 
-An **artificial contour is not an observer** merely because it has form, function, material organization, electronics, rules, or an algorithm. In the sense defined in The Observer Problem. 
+An **artificial contour is not an observer** merely because it has form, function, material organization, electronics, rules, or an algorithm. 
 
 It becomes an observer only where an influence becomes state-fixed within it as a change of state. It becomes an artificial decoder only where this fixed influence or signal receives status, weight, and vector through a system of correspondences.
 
@@ -392,3 +392,4 @@ Therefore, reality does not become action directly. It enters a living contour a
 - **v1.0** · 2026-05-30 – Initial public version.
 - **v1.1** · 2026-06-02 – Refined the Decoder Function’s internal logic by clarifying how fixed conditions pass into status / weight / vector formation within a contour. Replaced residual “carrier” terminology with “contour”, added observer distinctions for living and artificial contours, introduced a dedicated Primary and Secondary Choice section, and clarified secondary choice as the variational-functional level of decoding.
 - **v1.2** · 2026-07-09 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency, clarified its core distinction: tightens the distinction between impact, signal, condition, decoding, status, weight, vector, choice, decision, and action. Several formulations were refined to prioritize direct defined connections, reduce unnecessary negation-based framing, and clarify artificial / AI system decoding as status-weight-vector formation through a system of correspondences.
+- **v1.3** · 2026-07-10 – Removed an unnecessary cross-reference fragment and corrected the grammatical expression of the subject level in the Human Decoder example.
