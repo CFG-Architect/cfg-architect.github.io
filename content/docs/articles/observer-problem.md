@@ -6,9 +6,9 @@ type: docs
 url: "/articles/observer-problem/"
 weight: 100
 mode: "Plain Human Language"
-version: "v1.2"
+version: "v1.3"
 date: "2026-05-26"
-lastmod: "2026-07-09"
+lastmod: "2026-07-10"
 ---
 # The Problem of the Observer: Why Observation Does Not Begin with Consciousness
 ---
@@ -25,7 +25,7 @@ At the fundamental level, this sequence is sufficient for basic observation:\
 This is the minimal basis of observation.
 
 **Interaction** means that one thing affects another.\
-**Impact** is what affects the contour is what affects the contour in the process of interaction. At this level, a contour means the minimal boundedness of an object or system: that in which an impact can be localized and fixed as its own change of state.\
+**Impact** is what affects the contour in the process of interaction. At this level, a contour means the minimal boundedness of an object or system: that in which an impact can be localized and fixed as its own change of state.\
 **Change of state** is what happens to the contour because of this impact.\
 **State-fixation** means that the change does not remain without consequence for that contour: it manifests, continues, leaves a trace, or changes a parameter, structure, position, temperature, form, tension, or another state.
 
@@ -132,3 +132,4 @@ Everything else – signal, [decoding](https://configism.com/articles/decoder-fu
 - **v1.0** · 2026-05-26 – Initial public version.
 - **v1.1** · 2026-06-01 – Refined the observer definition through “state-fixation” and “contour”, clarifying basic observation as state-fixed interaction within a bounded locus. Added a logical bridge to the Primary Algorithm of Life as a later living-contour level.
 - **v1.2** · 2026-07-09 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency, clarified its core distinction: tightens basic-level formulations to avoid negation-based contamination and keeps the observer definition grounded in the direct sequence: interaction → impact → change of state → state-fixation. Several examples were refined so that basic observation, technical recording, and later levels such as signal, decoding, information, meaning, and subjecthood remain separated by level.
+- **v1.3** · 2026-07-10 – Removed an accidental duplicated phrase in the definition of impact.
