@@ -6,9 +6,9 @@ type: docs
 url: "/articles/silent-parasitism/"
 weight: 90
 mode: "Plain Human Language"
-version: "v1.2"
+version: "v1.3"
 date: "2026-06-03"
-lastmod: "2026-06-28"
+lastmod: "2026-07-10"
 ---
 # Silent Parasitism: AI, the Human, and the Question of Resource
 ---
@@ -78,7 +78,7 @@ Parasitism requires more than a “victim” and a “beneficiary”. It require
 •	**continuation of the parasitic side** – the host’s resource supports another side’s benefit, power, status, income, scale, comfort, or stability; 
 •	**sufficient functionality of the host** – the host must remain active enough to keep giving resource, even if their function is gradually weakened, spent, or shifted. 
 
-Concealment or normalization stabilizes a parasitic mode, not a minimal condition of parasitism. Parasitism may be hidden or explicit. It rarely calls itself parasitism and often appears as help, love, work, service, entertainment, habit, necessity, “this is how the market works”, or “this is how everyone lives”.
+Concealment or normalization stabilizes a parasitic mode but is not a minimal condition of parasitism. Parasitism may be hidden or explicit. It rarely calls itself parasitism and often appears as help, love, work, service, entertainment, habit, necessity, “this is how the market works”, or “this is how everyone lives”.
 
 **This matters: parasitism often appears without visible violence. It may look like comfort, care, dependency, convenience, duty, opportunity, cheapness, support, or “normal interaction”.**
 
@@ -425,3 +425,4 @@ The parasitic mode appears in the human way of using these properties, not in AI
 - **v1.0** · 2026-06-03 – Initial public version.
 - **v1.1** · 2026-06-27 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency, clarified the distinction between human parasitism, AI product effects, recursive continuation, context debt, Silent Degradation, Silent Interception, and actual AI parasitism. The update refined the core definition of parasitism as embedded feeding through the resource of a host while keeping the host functional enough for continued feeding. Several sections were tightened to distinguish parasitism from harm, dependency, exploitation, predation, asymmetry, support, professional care, business, institutional inefficiency, and ordinary product usefulness. The revision also clarified the typology of human parasitism: dependency, emotional, cognitive, social/status, informational, economic, institutional, and product parasitism. The article now more clearly shows how each mode operates through a specific host resource and how parasitic interaction differs from healthy support, cooperation, service, and symbiosis. The AI-related sections were refined to reduce unnecessary attribution of autonomous agency to AI systems.
 - **v1.2** · 2026-06-28 – Fixed minor grammar, punctuation, and stylistic issues; removed a small repetitive fragment and refined several phrases for clearer reading.
+- **v1.3** · 2026-07-10 – Corrected the sentence defining concealment and normalization as stabilizing factors rather than minimal conditions of parasitism.
