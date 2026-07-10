@@ -6,9 +6,9 @@ type: docs
 url: "/articles/word-power/"
 weight: 200
 mode: "Plain Human Language"
-version: "v1.2"
+version: "v1.3"
 date: "2026-06-21"
-lastmod: "2026-06-28"
+lastmod: "2026-07-10"
 ---
 # Word: The Power to Define Reality
 ---
@@ -93,7 +93,7 @@ In the Greek line, the power of the word was brought to the test of corresponden
 ## Word – Civilizational Power
 **Logic sets the principle by which a connection holds correspondence**. Civilization arises when a principle of defined connection becomes shared word, rule, institution, action, and transmission across generations.
 
-A civilization rests on a principle of defined connection. This principle sets what carries the highest weight, what preserves order, what draws the boundary, what gives action its ground, what is transmitted to children, what is considered one’s own, what is considered violation, and through what the community recognizes itself across time. The word fixes this principle in names, laws, myths, rituals, formulas of authority, images of honor, duty, the sacred, the just, and the proper. The word makes the principle transferable; the rule makes it repeatable; the institution makes it durable; action makes it real.
+A civilization rests on a principle of defined connection. This principle sets what carries the highest weight, what preserves order, what draws the boundary, what gives action its ground, what is transmitted to children, what is considered one’s own, what is considered a violation, and through what the community recognizes itself across time. The word fixes this principle in names, laws, myths, rituals, formulas of authority, images of honor, duty, the sacred, the just, and the proper. The word makes the principle transferable; the rule makes it repeatable; the institution makes it durable; action makes it real.
 
 **The Mesopotamian civilizational** line held around the principle of established order of city, law, debt, and royal responsibility before the gods. Here the civilizational connection passed through city, temple, king, law, property, punishment, trade, record, and status. Law fixed how the community holds the boundary between property, guilt, debt, authority, and responsibility. Mesopotamian civilizationality unfolded the word into administrative, legal, and economic form: the written word held the memory of agreement, the authority of command, the boundary of right, and the continuation of urban order.
 
@@ -213,3 +213,4 @@ The word receives the power to define connections through people; logic brings t
 - **v1.0** · 2026-06-21 – Initial public version.
 - **v1.1** · 2026-06-27 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency, clarified the word as a transferable form of defined connection. The edits refined the progression from phenomenon, recognition, signal, and boundary to status, weight, correspondence, shared memory, rule, institution, creation, destruction, and responsibility. The update tightened several section openings, reduced repeated summary formulations, clarified the role of correspondence, and improved the distinction between the creative and destructive power of the word. Several formulations were adjusted to keep the focus on defined connection rather than abstract linguistic power. The revision also refined the article’s civilizational layer, preserving the broad historical frame while keeping it tied to the core mechanism: principle, word, rule, institution, action, and transmission across generations.
 - **v1.2** · 2026-06-28 – Fixed minor grammar, punctuation, and stylistic issues; removed a small repetitive fragment and refined several phrases for clearer reading.
+- **v1.3** · 2026-07-10 – Corrected the missing article in the phrase “considered a violation”.
