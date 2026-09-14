@@ -1,7 +1,7 @@
 ---
 title: "Code-do: Programming as a Way After the Advent of AI | Configism"
 description: "As AI takes over more of the work of creating code, programming can take on another function: a Way of forming the human capacity to create, read, test, and rebuild logic. Code-do explores what programming has built, what dō means as a path of practice, and why that practice may retain value beyond its productive necessity."
-linkTitle: "Code-do: Programming as a Way"
+linkTitle: "Code-do"
 type: docs
 url: "/articles/code-do/"
 weight: 240
