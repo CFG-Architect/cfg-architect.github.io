@@ -72,7 +72,7 @@ Many different specialists built this layer. Engineers built computing and netwo
 
 And yet their role is almost invisible. A person sees a banking app, a navigation app, or a government service, but usually not the logic that governs its behavior. The more reliably software works, the less reason a user has to think about how it is built.
 
-This is one of the paradoxes of digitalization: **program logic became more fundamental to everyday life precisely as it became less visible to most people**.
+There is a paradox in digitalization: **program logic became more fundamental to everyday life precisely as it became less visible to most people**.
 
 The programmer’s distinctive ability remained equally invisible. Building a digital system requires more than knowing a programming language. A vague intention has to be turned into an unambiguous construction: objects, states, dependencies, rules, sequences, boundaries, and exceptions must be defined; the consequences of decisions anticipated; actual system behavior tested; the source of an error located; and the logic rebuilt when the result diverges from what was expected.
 
@@ -175,7 +175,7 @@ AI responses arise dynamically within a system architecture, while a significant
 
 Mass delegation of programming to AI can therefore change far more than the professional structure of the software industry.
 
-The broad layer of people for whom directly creating, reading, testing, and rebuilding program logic was a necessary part of professional activity may shrink.
+The broad segment of people for whom directly creating, reading, testing, and rebuilding program logic was a necessary part of professional activity may shrink.
 
 The digital world itself, however, will continue to be made of precisely this kind of logic.
 
@@ -256,7 +256,7 @@ For Code-do, **continuity in transmitting the experience of creating logic** the
 
 The transmission of this capacity can also produce a broader social consequence.
 
-If the capacity to work independently with executable logic continues to be reproduced among independent practitioners, digital society retains a broader human layer capable of working with the logical foundations of its systems.
+If the capacity to work independently with executable logic continues to be reproduced among independent practitioners, digital society retains a broader segment of people capable of working with the logical foundations of its systems.
 
 In an environment where an increasing share of program logic is created automatically, such competence may matter for independent system verification, exposing hidden assumptions, finding accumulated errors, and rebuilding constructions that create critical risks.
 
@@ -359,7 +359,7 @@ When machines take over an ever larger share of creating code, the value of the 
 
 **It is at this point that Code finds its dō.**
 
-**P.S.** This article was made possible by [John Carmack’s idea](https://x.com/ID_AA_Carmack/status/2098443262214230095) and is a free authorial interpretation and development of the Code-do analogy he proposed.
+**P.S.** This article was made possible by [John Carmack’s idea](https://x.com/ID_AA_Carmack/status/2098443262214230095) and is an independent interpretation and further development of the Code-do analogy he proposed.
 
 ---
 
