@@ -56,13 +56,13 @@ This property made programming far more than a narrow technical profession. The 
 
 As a result, **program logic becomes part of the mechanism by which civilizational processes are organized and carried out**.
 
-Program logic has gradually entered almost every major sphere of modern civilization. It supports global communication and access to information, the movement of money and trade, public registries and digital services, education, scientific computing, and professional tools. **What once required direct human coordination is increasingly carried out through software systems.**
+Program logic has gradually entered almost every major sphere of modern civilization. It supports global communication and access to information, the movement of money and trade, government registries and digital services, education, scientific computing, and professional tools. **What once required direct human coordination is increasingly carried out through software systems.**
 
 The same transition has taken place in the physical world: transport, logistics, industry, energy, agriculture, medicine, space systems, security, and defense. **Code controls machines, processes signals and data, coordinates routes and supply chains, supports infrastructure, and connects digital decisions with physical processes.**
 
-**Perhaps the clearest result of this concentration is the smartphone: a small device in a pocket has become a personal terminal for access to communication, money, documents, commerce, navigation, public services, entertainment, and an ever larger share of digital civilization.**
+**Perhaps the clearest result of this concentration is the smartphone: a small device in a pocket has become a personal terminal for access to communication, money, documents, commerce, navigation, government services, entertainment, and an ever larger share of digital civilization.**
 
-The most important level appears when these systems begin to work together. A bank interacts with a store and public systems; transport with navigation and logistics; medicine with insurers and public registries; the military with communications, space systems, industry, and supply. Software has become one of the main mechanisms for coordinating enormous numbers of people, organizations, machines, and processes within a shared digital environment.
+The most important level appears when these systems begin to work together. A bank interacts with a store and government systems; transport with navigation and logistics; medicine with insurers and public registries; the military with communications, space systems, industry, and supply. Software has become one of the main mechanisms for coordinating enormous numbers of people, organizations, machines, and processes within a shared digital environment.
 
 Behind all this diversity lies one fundamental transition: part of the logic by which civilization functions has been transformed into executable program logic. Software increasingly governs what data is available, the sequence in which a process unfolds, which states a system allows, which rules are triggered, and which actions become possible.
 
@@ -70,7 +70,7 @@ Many different specialists built this layer. Engineers built computing and netwo
 
 **It is through this function that programmers became one of the foundational classes of modern digital civilization.**
 
-And yet their role is almost invisible. A person sees a banking app, a navigator, or a government service, but usually not the logic that governs its behavior. The more reliably software works, the less reason a user has to think about how it is built.
+And yet their role is almost invisible. A person sees a banking app, a navigation app, or a government service, but usually not the logic that governs its behavior. The more reliably software works, the less reason a user has to think about how it is built.
 
 This is one of the paradoxes of digitalization: **program logic became more fundamental to everyday life precisely as it became less visible to most people**.
 
@@ -87,7 +87,7 @@ Now that we have defined what stands behind the word Code, we need to define the
 ## What dō – the Way – Means
 The history of the concept of dō is much older than its association with Japanese martial arts.
 
-The character 道 comes from the Chinese cultural tradition, where dao meant a path, direction, mode of action, and order of passage. It entered Japan with Chinese writing and cultural vocabulary around the fifth and sixth centuries. Japanese already had its own word, michi – path or way – while the borrowed reading dō gradually entered the same broader field of meaning.
+The character 道 comes from the Chinese cultural tradition, where dao meant a path, direction, mode of action, and way of proceeding. It entered Japan with Chinese writing and cultural vocabulary around the fifth and sixth centuries. Japanese already had its own word, michi – path or way – while the borrowed reading dō gradually entered the same broader field of meaning.
 
 Over time, “way” came to name a field of knowledge or mastery that a person gradually learned to inhabit. In medieval Japan, michi and dō increasingly acquired the sense of a **way of going through and mastering a particular practice**.
 
@@ -105,17 +105,17 @@ In the late nineteenth and early twentieth centuries, this line took the modern 
 
 The historical form changed, but across different manifestations of the Way a common functional structure can be traced.
 
-A Way exists through practice extended over time. A single action ends with its result. A practitioner returns to the Way again, now carrying the experience of the previous passage.
+A Way exists through practice extended over time. A single action ends with its result. A practitioner returns to the Way again, now carrying the experience of the previous round of practice.
 
 That is why practice produces two connected results. **The first is external: an action performed, an object created, or a problem solved. The second is a change in the practitioner’s own capacity.**
 
-Repeated passage allows a person to distinguish relations more precisely, see their own errors, anticipate consequences, and work with more complex problems. Testing the result and correcting one’s own action turns repetition into accumulated experience.
+Repeated practice allows a person to distinguish relations more precisely, see their own errors, anticipate consequences, and work with more complex problems. Testing the result and correcting one’s own action turns repetition into accumulated experience.
 
 **This is how mastery is formed.**
 
 Mastery does not end the Way. A developed capacity changes what the practitioner can see and work with in the next passage. What once demanded all of their attention becomes the basis for more complex work.
 
-A Way can also be transmitted between people. Passing on a finished result or a description of the correct action is not enough. The method of passage itself has to be preserved so that the next practitioner can form the corresponding capacity for themselves. This is the function served by discipline, exercises, teachers, schools, and traditions of transmission.
+A Way can also be transmitted between people. Passing on a finished result or a description of the correct action is not enough. The way the practice is carried out has to be preserved so that the next practitioner can form the corresponding capacity for themselves. This is the function served by discipline, exercises, teachers, schools, and traditions of transmission.
 
 From this we can formulate the meaning of dō that Code-do needs:\
 **Dō is a Way of sustained practice in which going through the practice itself forms the practitioner.**
@@ -124,13 +124,13 @@ From this we can formulate the meaning of dō that Code-do needs:\
 
 Technical output remains part of such a Way. Alongside it, another result appears: a human capacity formed through practice.
 
-That is why historical age, difficulty, or tradition alone do not define dō. What matters is the function of the passage: **what exactly the practice forms in a person, and how the formed capacity develops through subsequent passages**.
+That is why historical age, difficulty, or tradition alone do not define dō. What matters is the function of the practice: **what exactly the practice forms in a person, and how the formed capacity develops through subsequent passages**.
 
 **The second part of Code-do is now defined.**
 
 Code is executable logic through which programmers helped build digital civilization.
 
-Dō is a Way in which systematic passage through practice forms the practitioner’s capacity.
+**Dō is a Way of sustained practice in which going through the practice itself forms the practitioner.**
 
 This leads to the next question: **what exactly does the direct practice of creating program logic form in a person, and what happens to that mechanism of formation when AI takes over an ever larger share of constructing that logic?**
 
@@ -167,7 +167,7 @@ AI creates a different possibility:\
 
 A situation can therefore emerge in which civilization’s dependence on software systems continues to grow while the professional necessity to create their logic directly applies to an ever smaller share of people.
 
-Using AI does not mean controlling all the logic of the system through which a task is carried out. A user may define a local objective, but the model, available data and tools, permitted actions, constraints, and priorities already define the space in which that objective can be realized.
+When a person uses AI, they set a local objective inside a system whose model, available data and tools, permitted actions, constraints, and priorities shape the space in which that objective can be realized.
 
 **The user defines the local objective. The architecture of the system defines the space within which that objective can be realized.**
 
@@ -185,11 +185,11 @@ This does not prevent a person from using digital tools successfully, assigning 
 
 As long as direct programming remained a necessary part of building digital systems, the profession also reproduced a large class of people who continuously practiced constructing executable logic.
 
-If AI reduces the production need for that direct passage, another question appears: **does the practice of programming itself have value independently of the need to obtain a software result?**
+If AI reduces the production need for people to go through that practice directly, another question appears: **does the practice of programming itself have value independently of the need to obtain a software result?**
 
 Such value appears when the result of practice is not only the program that was created, but also the capacity a person forms by going through the practice itself.
 
-This is where programming can be seen not only as a way to build digital systems, but as a Way for forming the practitioner.
+This is where programming can be seen not only as a means of building digital systems, but as a Way of forming the practitioner.
 
 ## The Idea of Code-do
 This possibility forms the basis of the idea of Code-do.
@@ -197,7 +197,7 @@ This possibility forms the basis of the idea of Code-do.
 **The idea of Code-do is to use the practice of programming to form in a person the capacity to independently create, read, test, and rebuild logic when professional practice no longer reliably forms that capacity**.
 
 Core:\
-**Code-do is a Way for forming a bearer of logic through code.**
+**Code-do is a Way of forming a bearer of logic through code.**
 
 This idea begins with a distinctive property of programming itself.
 
@@ -264,7 +264,7 @@ In an environment where an increasing share of program logic is created automati
 
 This effect belongs to the competence itself, not to a particular generation, professional status, or image of the “old school”.
 
-**When professional practice no longer reliably forms a bearer of logic, Code-do preserves programming practice as a distinct Way for forming one.**
+**When professional practice no longer reliably forms a bearer of logic, Code-do preserves programming practice as a distinct Way of forming one.**
 
 Code remains the material of the practice. Its result becomes the human capacity to create, read, test, and rebuild logic.
 
@@ -275,21 +275,21 @@ The idea of Code-do defines the function of the Way: **forming a bearer of logic
 
 For Code-do to become a discipline, it needs a reproducible mechanism of practice capable of forming the stated capacity in different people and making it possible to verify whether that capacity has actually formed.
 
-**The philosophical level defines the meaning, purpose, and fundamental grounds of the practice.** The discipline must specify the forms of passage through which that function can be realized and tested.
+**The philosophical level defines the meaning, purpose, and fundamental grounds of the practice.** The discipline must specify the forms of practice through which that function can be realized and tested.
 
 The future practice of Code-do must therefore be built around the specific capacity it is meant to form.
 
-In the previous section we identified a form of passage characteristic of programming: a person builds a logical construction, lets it execute, receives a real consequence, and uses that consequence to test their own decision.
+In the previous section we identified a form of practice characteristic of programming: a person builds a logical construction, lets it execute, receives a real consequence, and uses that consequence to test their own decision.
 
 If this kind of passage forms the required capacity, **the future discipline must preserve its function even as particular tools, languages, and levels of automation change**.
 
-From this follows one requirement for the future discipline: it must identify **which part of the passage a person has to perform independently for the required capacity to actually form**. Supporting operations can be automated, but delegation must not remove the very experience for which the specific practice was designed.
+From this follows one requirement for the future discipline: it must identify **which part of the practice a person has to perform independently for the required capacity to actually form**. Supporting operations can be automated, but delegation must not remove the very experience for which the specific practice was designed.
 
 **This makes error a full part of the discipline.**
 
 An incorrect construction produces an observable consequence. The practitioner can trace it back to their own decision, locate the point of failure, and rebuild the logic. A correct result alone therefore does not show how it was obtained or whether the required capacity was formed. Working through one’s own error provides a separate test: can the practitioner trace the consequence back to its cause and rebuild their own decision?
 
-Code-do practice must provide room for this kind of passage. A person must have the opportunity to make an error through their own logic, see the consequence of their own decision, and independently find a way to correct it.
+Code-do practice must provide room for this kind of experience. A person must have the opportunity to make their own logical error, see the consequence of their own decision, and independently find a way to correct it.
 
 **But successfully completing a particular exercise still does not prove that the capacity has formed.**
 
@@ -304,8 +304,8 @@ If a person learns to repeat a kata flawlessly but loses the corresponding way o
 If Code-do develops into a full discipline, several levels will need to be distinguished in its construction.
 
 **Code-do Philosophy** defines what this Way is, where its meaning and value lie, and which fundamental principles must remain stable regardless of the specific forms of practice.\
-**Code-do Discipline** defines which capacity is to be formed, through which principles and forms of passage it is formed, and by what criteria the result is tested.\
-**Code-do Practice** is a concrete passage in which a person performs the actions necessary to form or test the defined capacity.\
+**Code-do Discipline** defines which capacity is to be formed, through which principles and forms of practice it is formed, and by what criteria the result is tested.\
+**Code-do Practice** is a concrete form of practice in which a person performs the actions necessary to form or test the defined capacity.\
 **Code-do Kata** is a defined repeatable form of practice built for repeatedly going through a particular kind of logical work in order to form a specific capacity.
 
 This structure also defines the place of Code-do in relation to ordinary programming education.
@@ -335,15 +335,15 @@ Alongside the production function of programming, another value can therefore em
 
 This is the central meaning of the transition to Code-do.
 
-**Code-do is a Way for forming the capacity to create, read, test, and rebuild logic through the practice of programming.**
+**Code-do is a Way of forming the capacity to create, read, test, and rebuild logic through the practice of programming.**
 
-In this definition, code is the material of the Way: an environment in which logic can be formulated, run, observed through its consequences, broken open at the point of failure, and rebuilt.
+In this definition, code is the material of the Way: an environment in which logic can be formulated, run, observed through its consequences, traced to the point of failure, and rebuilt.
 
 **And the final bearer of the result is the human being.**
 
 This also defines what is transmitted between generations. What must be passed on is not a particular technological form, but the capacity the practice forms. **The continuity of Code-do lies in reproducing that capacity under new technological conditions.**
 
-Sufficiently broad reproduction of this capacity can also produce a social consequence: distributed human competence capable of working independently with the logical foundations of digital systems. **This is not a separate goal of Code-do, but a possible consequence of sufficiently broad diffusion of the capacity it forms.**
+Sufficiently broad reproduction of this capacity can also produce a social consequence: a distributed human capacity to work independently with the logical foundations of digital systems. **This is not a separate goal of Code-do, but a possible consequence of sufficiently broad diffusion of the capacity it forms.**
 
 The future of Code-do will therefore depend on its ability to preserve the function of the Way under conditions of continuous technological change.
 
@@ -355,7 +355,7 @@ For that reason, the concrete practices of Code-do still need to be created and 
 
 Programming may gradually lose its status as the necessary human path to a software result while gaining another reason to remain a human practice.
 
-When machines take over an ever larger share of creating code, the value of the Way itself may shift toward what that path forms in the human being.
+When machines take over an ever larger share of creating code, the value of the Way itself may shift toward what it forms in the person who follows it.
 
 **It is at this point that Code finds its dō.**
 
