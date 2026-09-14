@@ -13,7 +13,7 @@ lastmod: "2026-09-14"
 # Code-do: Programming as a Way After the Advent of AI
 ---
 ## Where Code-do Begins
-The original idea of Code-do was introduced by [John Carmack in a post he wrote after reading Miyamoto Musashi’s “The Book of Five Rings”](https://x.com/ID_AA_Carmack/status/2098443262214230095).
+The original idea of Code-do was introduced by <a href="https://x.com/ID_AA_Carmack/status/2098443262214230095" target="_blank" rel="nofollow noopener noreferrer">John Carmack in a post he wrote after reading Miyamoto Musashi’s “The Book of Five Rings”</a>.
 
 What caught his attention was a transformation that martial practices had undergone over time: a technique born from practical necessity could continue to exist after that necessity disappeared. Carmack saw a similar process emerging in programming.
 
@@ -62,7 +62,7 @@ The same transition has taken place in the physical world: transport, logistics,
 
 **Perhaps the clearest result of this concentration is the smartphone: a small device in a pocket has become a personal terminal for access to communication, money, documents, commerce, navigation, government services, entertainment, and an ever larger share of digital civilization.**
 
-The most important level appears when these systems begin to work together. A bank interacts with a store and government systems; transport with navigation and logistics; medicine with insurers and public registries; the military with communications, space systems, industry, and supply. Software has become one of the main mechanisms for coordinating enormous numbers of people, organizations, machines, and processes within a shared digital environment.
+The most important level appears when these systems begin to work together. A bank interacts with a store and government systems; transport with navigation and logistics; medicine with insurers and government registries; the military with communications, space systems, industry, and supply. Software has become one of the main mechanisms for coordinating enormous numbers of people, organizations, machines, and processes within a shared digital environment.
 
 Behind all this diversity lies one fundamental transition: part of the logic by which civilization functions has been transformed into executable program logic. Software increasingly governs what data is available, the sequence in which a process unfolds, which states a system allows, which rules are triggered, and which actions become possible.
 
@@ -113,7 +113,7 @@ Repeated practice allows a person to distinguish relations more precisely, see t
 
 **This is how mastery is formed.**
 
-Mastery does not end the Way. A developed capacity changes what the practitioner can see and work with in the next passage. What once demanded all of their attention becomes the basis for more complex work.
+Mastery does not end the Way. A developed capacity changes what the practitioner can see and work with in the next round of practice. What once demanded all of their attention becomes the basis for more complex work.
 
 A Way can also be transmitted between people. Passing on a finished result or a description of the correct action is not enough. The way the practice is carried out has to be preserved so that the next practitioner can form the corresponding capacity for themselves. This is the function served by discipline, exercises, teachers, schools, and traditions of transmission.
 
@@ -124,7 +124,7 @@ From this we can formulate the meaning of dō that Code-do needs:\
 
 Technical output remains part of such a Way. Alongside it, another result appears: a human capacity formed through practice.
 
-That is why historical age, difficulty, or tradition alone do not define dō. What matters is the function of the practice: **what exactly the practice forms in a person, and how the formed capacity develops through subsequent passages**.
+That is why historical age, difficulty, or tradition alone do not define dō. What matters is the function of the practice: **what exactly the practice forms in a person, and how the formed capacity develops through subsequent rounds of practice**.
 
 **The second part of Code-do is now defined.**
 
@@ -281,7 +281,7 @@ The future practice of Code-do must therefore be built around the specific capac
 
 In the previous section we identified a form of practice characteristic of programming: a person builds a logical construction, lets it execute, receives a real consequence, and uses that consequence to test their own decision.
 
-If this kind of passage forms the required capacity, **the future discipline must preserve its function even as particular tools, languages, and levels of automation change**.
+If this kind of practice forms the required capacity, **the future discipline must preserve its function even as particular tools, languages, and levels of automation change**.
 
 From this follows one requirement for the future discipline: it must identify **which part of the practice a person has to perform independently for the required capacity to actually form**. Supporting operations can be automated, but delegation must not remove the very experience for which the specific practice was designed.
 
@@ -320,7 +320,7 @@ We can therefore define the minimum requirements a future Code-do discipline mus
 
 These requirements are not yet a finished methodology. The concrete practices, verification criteria, and forms of transmission of Code-do still require separate development and practical testing.
 
-The role of AI in such a discipline depends on the function of each specific practice. A tool may perform part of the work as long as the practice preserves the passage required to form the target capacity. Where exactly that boundary lies is a question for the construction and testing of the Code-do discipline itself.
+The role of AI in such a discipline depends on the function of each specific practice. A tool may perform part of the work as long as the practice preserves the experience required to form the target capacity. Where exactly that boundary lies is a question for the construction and testing of the Code-do discipline itself.
 
 ## Code-do: A Change in the Function of Programming
 The emergence of AI changes the conditions of human participation in programming.
@@ -359,7 +359,7 @@ When machines take over an ever larger share of creating code, the value of the 
 
 **It is at this point that Code finds its dō.**
 
-**P.S.** This article was made possible by [John Carmack’s idea](https://x.com/ID_AA_Carmack/status/2098443262214230095) and is a free authorial interpretation and development of the Code-do analogy he proposed.
+**P.S.** This article was made possible by <a href="https://x.com/ID_AA_Carmack/status/2098443262214230095" target="_blank" rel="nofollow noopener noreferrer">John Carmack’s idea</a> and is a free authorial interpretation and development of the Code-do analogy he proposed.
 
 ---
 
