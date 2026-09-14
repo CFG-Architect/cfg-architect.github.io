@@ -13,7 +13,7 @@ lastmod: "2026-09-14"
 # Code-do: Programming as a Way After the Advent of AI
 ---
 ## Where Code-do Begins
-The original idea of Code-do was introduced by John Carmack in a post he wrote after reading Miyamoto Musashi’s “The Book of Five Rings”.
+The original idea of Code-do was introduced by [John Carmack in a post he wrote after reading Miyamoto Musashi’s “The Book of Five Rings”](https://x.com/ID_AA_Carmack/status/2098443262214230095).
 
 What caught his attention was a transformation that martial practices had undergone over time: a technique born from practical necessity could continue to exist after that necessity disappeared. Carmack saw a similar process emerging in programming.
 
@@ -359,7 +359,7 @@ When machines take over an ever larger share of creating code, the value of the 
 
 **It is at this point that Code finds its dō.**
 
-**P.S.** This article was made possible by John Carmack’s idea and is a free authorial interpretation and development of the Code-do analogy he proposed.
+**P.S.** This article was made possible by [John Carmack’s idea](https://x.com/ID_AA_Carmack/status/2098443262214230095) and is a free authorial interpretation and development of the Code-do analogy he proposed.
 
 ---
 
