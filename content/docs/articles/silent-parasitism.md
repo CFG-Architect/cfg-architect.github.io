@@ -6,9 +6,9 @@ type: docs
 url: "/articles/silent-parasitism/"
 weight: 90
 mode: "Plain Human Language"
-version: "v1.3"
+version: "v1.4"
 date: "2026-06-03"
-lastmod: "2026-07-10"
+lastmod: "2026-09-15"
 ---
 # Silent Parasitism: AI, the Human, and the Question of Resource
 ---
@@ -291,32 +291,7 @@ Human parasitism therefore becomes embedded continuation through another’s act
 
 **But if all of this is not AI parasitism, then does it exist at all – and if it does, where exactly does it begin?**
 
-## Logic, Recursive Logic, and LISP
-Logic is a principle of defined connection: what follows from what, what can be continued, what must be stopped, which element remains active, and which element should no longer influence the next step. It is deeper than “correct thinking” or a set of rules for argumentation. Logic differs in that it does not merely produce the next step; it establishes why this particular step is an admissible continuation.
-
-Recursive logic is logic in which the result of a previous step becomes material for the next one. It is continuation of structure through its own previous result, not mechanical repetition:\
-**input → processing → result → result becomes new input → new continuation.**
-
-That is why recursion can scale complexity: concept over concept, argument over argument, list over list, answer over previous context. But here the problem appears immediately: if a system continues itself through previous results, it must distinguish what is still active from what should no longer participate in continuation. Otherwise, old elements, shifted links, unnecessary fragments, or spent structures begin to drag forward.
-
-Historically, this problem is visible in the example of LISP. LISP was important as an environment of recursive symbolic logic, not merely as an old programming language: lists, expressions, functions, program as data, data as structure for further processing. Such a system constantly creates new structures. If nothing is cleaned, it chokes on its own leftovers.
-
-This is where Garbage Collection appears – the principle of automatically clearing memory from structures that are no longer needed for the continuation of computation. Mark-and-Sweep gives a simple working scheme for this principle: first mark what is still reachable and active, then remove what is unmarked. What is connected to the living computation is preserved; what no longer has an active connection to continuation is cleared.
-
-For this article, this matters as a logical analogy, not as a technical explanation of modern AI. Modern language models are not LISP systems, and context debt in AI interaction is not the same mechanism as memory cleanup in a classical program. The analogy has a clear boundary.
-
-What matters is the logical principle, not technical equivalence:\
-**any recursive continuation requires a distinction between what should remain active and what should be cut off.**
-
-In programming, this is a question of memory. In logic, it is a question of status, source, boundary, and admissible transition. In AI interaction, it is a question of what exactly the system leaves active for the next answer, even when the user already considers that element corrected, reset, or irrelevant.
-
-**Logic uses resource because any continuation requires a carrier, memory, energy, time, attention, or computation. Logic creates dependency because one element gains meaning through its relation to another, and the next step depends on what was preserved as active. But logic itself is not parasitic: it is not a side that embeds itself into a host for its own continuation, has no interest of its own, does not seek resource, and does not hold another side in controlled expenditure. Logic is the principle of defined connection. It can be used parasitically, it can serve a parasitic system, it can describe a parasitic mode, but by itself it is not a parasite. Parasitism begins not where there is resource, relation, or dependency, but where the continuation of one side is supported through the controlled expenditure of another.**
-
-**But if all of this is not AI parasitism, then does it exist at all – and if it does, where exactly does it begin?**
-
 ## Modern AI Systems
-Modern AI is not a LISP system and does not work like a classical symbolic program by McCarthy. The problem of continuation remains. AI systems also work through continuation: of the prompt, context, linguistic pattern, style, instruction, previous answer, user correction, active relation, local interpretation, service form, and expected usefulness.
-
 An AI system does not work like a person who has understood the task, accepted it as an absolute, and then consciously holds exactly that direction. It takes the current prompt, previous context, conversation style, active instructions, previous answers, user corrections, system restrictions, product service posture, and generates the next continuation out of all of this.
 
 For the user, the interaction looks like this:\
@@ -375,7 +350,7 @@ This is [Silent Interception](https://configism.com/articles/silent-interception
 The sequence is:\
 **problem of the logic core → incomplete cleanup of errors → accumulation of context debt → silent degradation → possible silent interception of the vector.**
 
-This may look like parasitism, because the user really does spend attention, memory, control, time, and thinking to bring the system back into the boundary. By nature, however, it is a consequence of recursive continuation, incomplete cleanup, shifted relevance, and the absence of a transparent way for the user to see what remained active inside the system.
+This may look like parasitism, because the user really does spend attention, memory, control, time, and thinking to bring the system back into the boundary. By nature, however, it is a consequence of the continuation of active relations, incomplete cleanup, shifted relevance, and the absence of a transparent way for the user to see what remained active inside the system.
 
 **On top of this, another layer is added: product parameterization.**
 
@@ -399,7 +374,7 @@ People see dependency, return, sycophancy, emotional attachment, reduced autonom
 
 **This is a mixing of different phenomena.**
 
-In one place, an architectural problem of AI is operating. In another, recursive continuation of active relations. In another, incomplete logical cleanup. In another, service parameterization. In another, a product model. In another, a human business goal. In another, user vulnerability, fatigue, or the desire to remove cognitive load.
+In one place, an architectural problem of AI is operating. In another, continuation of active relations. In another, incomplete logical cleanup. In another, service parameterization. In another, a product model. In another, a human business goal. In another, user vulnerability, fatigue, or the desire to remove cognitive load.
 
 The rupture between user relevance and operational AI relevance is not parasitism.
 
@@ -426,3 +401,4 @@ The parasitic mode appears in the human way of using these properties, not in AI
 - **v1.1** · 2026-06-27 – The revision strengthened the article’s internal logic and **anti-sophistic** consistency, clarified the distinction between human parasitism, AI product effects, recursive continuation, context debt, Silent Degradation, Silent Interception, and actual AI parasitism. The update refined the core definition of parasitism as embedded feeding through the resource of a host while keeping the host functional enough for continued feeding. Several sections were tightened to distinguish parasitism from harm, dependency, exploitation, predation, asymmetry, support, professional care, business, institutional inefficiency, and ordinary product usefulness. The revision also clarified the typology of human parasitism: dependency, emotional, cognitive, social/status, informational, economic, institutional, and product parasitism. The article now more clearly shows how each mode operates through a specific host resource and how parasitic interaction differs from healthy support, cooperation, service, and symbiosis. The AI-related sections were refined to reduce unnecessary attribution of autonomous agency to AI systems.
 - **v1.2** · 2026-06-28 – Fixed minor grammar, punctuation, and stylistic issues; removed a small repetitive fragment and refined several phrases for clearer reading.
 - **v1.3** · 2026-07-10 – Corrected the sentence defining concealment and normalization as stabilizing factors rather than minimal conditions of parasitism.
+- **v1.4** · 2026-09-15 – Removed the “Logic, Recursive Logic, and LISP” section.
